@@ -36,15 +36,15 @@ Abaixo, os principais conceitos que estruturam este sistema:
 <p>
 O material distingue três estados de superfície essenciais para a interpretação de normas:
 <ul>
-<li>Superfície Geométrica: É a superfície **ideal** representada no desenho, considerada isenta de qualquer erro de forma ou posição.
+<li>Superfície Geométrica: É a superfície ideal representada no desenho, considerada isenta de qualquer erro de forma ou posição.
 <li>Superfície Real: É a superfície que efetivamente limita o corpo da peça, separando-a do meio externo.
-<li>Superfície Efetiva: É a superfície avaliada por meio de **técnicas de medição**, sendo a aproximação prática da superfície real.
+<li>Superfície Efetiva: É a superfície avaliada por meio de técnicas de medição, sendo a aproximação prática da superfície real.
 </ul>
 
 <b>4.2. Elementos Isolados e Associados</b>
 <p>
 As tolerâncias são aplicadas a diferentes tipos de elementos geométricos:
-<li>Elementos Isolados: A tolerância aplica-se diretamente ao elemento (como uma linha ou face), independentemente de outros recursos da peça. Exemplos incluem as tolerâncias de **forma**.
+<li>Elementos Isolados: A tolerância aplica-se diretamente ao elemento (como uma linha ou face), independentemente de outros recursos da peça. Exemplos incluem as tolerâncias de forma.
 <li>Elementos Associados: Exigem um **elemento de referência** (conhecido como *datum*) para que a tolerância seja verificada. Este grupo inclui tolerâncias de orientação, posição e batimento.
 
 <b>4.3. Categorias de Tolerâncias Geométricas</b>
