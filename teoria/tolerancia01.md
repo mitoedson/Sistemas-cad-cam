@@ -1,19 +1,33 @@
 <h2>Dimensionamento e Tolerância Geométrica</h2>
 
 O Dimensionamento e Tolerância Geométrica, conhecido mundialmente pela sigla GD&T (Geometric Dimensioning and Tolerancing), é uma linguagem internacional utilizada em desenhos de engenharia para descrever de forma exata e matemática o tamanho, a forma, a orientação e a localização dos elementos de uma peça
-. Diferente do sistema de tolerâncias coordenadas (sistema cartesiano), que foca apenas nas dimensões lineares, o GD&T controla a geometria completa dos elementos, garantindo a funcionalidade e a intercambiabilidade dos componentes
-.
-### 1. Introdução e Histórico do GD&T
-O **Dimensionamento e Tolerância Geométrica (GD&T)** surgiu na década de 1940, criado por Stanley Parker, para resolver limitações do sistema cartesiano. Parker demonstrou que o uso de **campos de tolerância circulares/cilíndricos** em vez de quadrados aumentava em 57% a margem de erro aceitável sem comprometer a montagem. O sistema visa garantir a competitividade industrial ao controlar não apenas dimensões, mas também a forma e a posição dos elementos.
+<p>Diferente do sistema de tolerâncias coordenadas (sistema cartesiano), que foca apenas nas dimensões lineares, o GD&T controla a geometria completa dos elementos, garantindo a funcionalidade e a intercambiabilidade dos componentes
 
-### 2. Generalidades e Regras de Dimensionamento
+### 1. Introdução do GD&T
+A necessidade desse sistema surge do fato de que, apesar do avanço tecnológico, ainda é impossível produzir peças perfeitamente exatas.
+O GD&T baseia-se na filosofia do dimensionamento funcional, que define a peça com base em como ela deve desempenhar sua função no produto final.
+<p>
+Entre seus principais benefícios estão a melhoria na comunicação entre projeto, produção e inspeção, a redução de controvérsias e a economia de dinheiro ao fornecer "bônus" de tolerância que facilitam a manufatura
+<p>
+Existe um mito de que o GD&T aumenta os custos, mas, na realidade, ele permite tolerâncias maiores que o sistema cartesiano sem comprometer a montagem
+
+### 2. Histórico do GD&T
+
+O sistema foi criado na década de 1940 por Stanley Parker, um engenheiro inglês que trabalhava em uma fábrica de torpedos da marinha britânica na Escócia
+<p>A Descoberta: Pressionado pelo esforço de guerra, Parker realizou uma experiência inédita ao montar produtos utilizando peças que haviam sido reprovadas na inspeção tradicional
+<p>Campo de Tolerância Cilíndrico: Ele constatou que a parte crítica para a montagem eram os centros dos elementos e que o campo de tolerância deveria ser circular (cilíndrico) e não quadrado, como determinava o sistema cartesiano da época
+<p>Ganho de Precisão: Parker demonstrou que o uso de campos de tolerância circulares permite um aumento de 57% na margem de erro aceitável sem prejudicar a funcionalidade, o que provou que muitas peças descartadas eram, na verdade, boas
+<p>Evolução: Esta foi a primeira grande alteração no sistema de dimensionamento em 300 anos
+<p>Em 1945, o exército publicou o primeiro manual introduzindo símbolos para especificar essas tolerâncias de forma e posição
+
+### 3. Generalidades e Regras de Dimensionamento
 O material baseia-se na norma **ASME Y14.5M-1994**. Ele estabelece dez regras fundamentais, incluindo:
 *   Cada dimensão deve ter uma tolerância (exceto as de referência ou estoque comercial).
 *   As dimensões são aplicadas a uma temperatura padrão de **20º C**.
 *   Os métodos de manufatura não devem ser especificados no desenho.
 O GD&T é apresentado como uma linguagem matemática precisa que melhora a comunicação entre projeto, produção e inspeção, reduzindo custos e controvérsias.
 
-### 3. Conceitos Básicos
+### 4. Conceitos Básicos
 Este tópico diferencia os tipos de superfícies: **geométrica** (ideal/desenho), **real** (limite do corpo) e **efetiva** (avaliada por medição). Também classifica os erros em dois grupos:
 *   **Erros Macrogeométricos:** Desvios de forma, orientação e posição detectados por instrumentos como relógios comparadores e micrômetros.
 *   **Erros Microgeométricos:** Rugosidade da superfície, detectada por rugosímetros.
