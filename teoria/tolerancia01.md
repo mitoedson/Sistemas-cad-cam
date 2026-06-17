@@ -47,12 +47,12 @@ As diferenças entre o perfil efetivo e o perfil geométrico são os erros apres
 <li>Erros Microgeométricos: formados por sulcos ou marcas deixadas nas superfícies efetivas pelo processo de usinagem, deformação no tratamento térmico, tensões residuais de forjamento ou fundição. Detecta-se por meio de instrumentos, como rugosímetros e perfiloscópios. Esses erros são também definidos como rugosidade da superfície.
 </ul>
 <p><br> 
-<b>4.2. Elementos Isolados e Associados</b>
+<b>4.2. Indicadores de tolerâncias geométricas: Elementos Isolados e Associados</b>
 <p>
 As tolerâncias são aplicadas a diferentes tipos de elementos geométricos:
 <ul>
 <li>Elementos Isolados: A tolerância aplica-se diretamente ao elemento (como uma linha ou face), independentemente de outros recursos da peça. Exemplos incluem as tolerâncias de forma.
-<li>Elementos Associados: Exigem um **elemento de referência** (conhecido como *datum*) para que a tolerância seja verificada. Este grupo inclui tolerâncias de orientação, posição e batimento.
+<li>Elementos Associados: Exigem um elemento de referência (conhecido como *datum*) para que a tolerância seja verificada. Este grupo inclui tolerâncias de orientação, posição e batimento.
 </ul>
 
 <p><br>
