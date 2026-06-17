@@ -88,9 +88,9 @@ A indicação técnica ocorre por meio de um quadro de tolerância retangular, d
 <b>4.6. Modificadores e Cotas Básicas</b>
 <p>
 <li>Cotas Básicas: São dimensões teoricamente exatas representadas dentro de uma moldura (ex: $$); elas definem a posição ideal e não recebem tolerâncias dimensionais diretas, mas sim a tolerância geométrica indicada no quadro.
-<li>Modificadores: Símbolos como a **Condição de Máximo Material ($\textcircled{M}$)** e a **Condição de Mínimo Material ($\textcircled{L}$) permitem "bônus" de tolerância, aumentando a margem de erro aceitável para a fabricação sem comprometer a montagem funcional.
+<li>Modificadores: Símbolos como a Condição de Máximo Material ($\textcircled{M}$) e a Condição de Mínimo Material ($\textcircled{L}$) permitem "bônus" de tolerância, aumentando a margem de erro aceitável para a fabricação sem comprometer a montagem funcional.
 </ul>
-<p>
+
 ### 5. Tolerâncias de Forma
 Controlam o quanto um elemento pode variar em relação a uma forma perfeita definida no projeto. Aplicam-se a elementos isolados e incluem:
 <ul>
