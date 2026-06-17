@@ -1,7 +1,8 @@
-<h2>ACABAMENTOS SUPERFICIAIS E TOLERÂNCIAS (DIMENSIONAIS/GEOMÉTRICAS)</h2>
+<h2>Dimensionamento e Tolerância Geométrica</h2>
 
-Com base na **Apostila de Tolerância Geométrica**, aqui está um resumo de cada tópico principal abordado no material:
-
+O Dimensionamento e Tolerância Geométrica, conhecido mundialmente pela sigla GD&T (Geometric Dimensioning and Tolerancing), é uma linguagem internacional utilizada em desenhos de engenharia para descrever de forma exata e matemática o tamanho, a forma, a orientação e a localização dos elementos de uma peça
+. Diferente do sistema de tolerâncias coordenadas (sistema cartesiano), que foca apenas nas dimensões lineares, o GD&T controla a geometria completa dos elementos, garantindo a funcionalidade e a intercambiabilidade dos componentes
+.
 ### 1. Introdução e Histórico do GD&T
 O **Dimensionamento e Tolerância Geométrica (GD&T)** surgiu na década de 1940, criado por Stanley Parker, para resolver limitações do sistema cartesiano. Parker demonstrou que o uso de **campos de tolerância circulares/cilíndricos** em vez de quadrados aumentava em 57% a margem de erro aceitável sem comprometer a montagem. O sistema visa garantir a competitividade industrial ao controlar não apenas dimensões, mas também a forma e a posição dos elementos.
 
