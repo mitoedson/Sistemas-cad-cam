@@ -31,7 +31,7 @@ O GD&T é apresentado como uma linguagem matemática precisa que melhora a comun
 Os conceitos básicos do **Dimensionamento e Tolerância Geométrica (GD&T)** fundamentam-se em uma linguagem matemática precisa utilizada para descrever exatamente o tamanho, a forma, a orientação e a localização dos elementos de uma peça. Diferente do sistema cartesiano tradicional, o GD&T foca na **funcionalidade e intercambiabilidade**, permitindo o controle de desvios que as dimensões lineares sozinhas não conseguem restringir.
 
 Abaixo, os principais conceitos que estruturam este sistema:
-
+<p>
 <b>4.1. Tipos de Superfícies</b>
 <p>
 O material distingue três estados de superfície essenciais para a interpretação de normas:
@@ -40,13 +40,22 @@ O material distingue três estados de superfície essenciais para a interpretaç
 <li>Superfície Real: É a superfície que efetivamente limita o corpo da peça, separando-a do meio externo. É a superfície que existe fisicamente na peça fabricada. Possui todas as imperfeições inerentes ao processo de fabricação — ondulações, rugosidade, riscos, porosidades, etc. É impossível de ser reproduzida com perfeição ou medida em sua totalidade, pois qualquer instrumento de medição tem limitações.
 <li>Superfície Efetiva: É a superfície avaliada por meio de técnicas de medição, sendo a aproximação prática da superfície real limitada pela resolução e precisão do equipamento utilizado. Quanto melhor o instrumento, mais próxima a superfície efetiva estará da real.
 </ul>
-
+<p>
+As diferenças entre o perfil efetivo e o perfil geométrico são os erros apresentados pela superfície em exame e são genericamente classificados em dois grupos.
+<ul>
+<li>Erros Macrogeométricos: também conhecidos como erros de forma e/ou de posição. Podem ser detectados por instrumentos convencionais como relógios comparadores, micrômetros, esquadros, desempenos, etc. de acordo com a necessidade, podem também ser detectados por equipamentos eletrônicos.
+<li>Erros Microgeométricos: formados por sulcos ou marcas deixadas nas superfícies efetivas pelo processo de usinagem, deformação no tratamento térmico, tensões residuais de forjamento ou fundição. Detecta-se por meio de instrumentos, como rugosímetros e perfiloscópios. Esses erros são também definidos como rugosidade da superfície.
+</ul>
+<p><br> 
 <b>4.2. Elementos Isolados e Associados</b>
 <p>
 As tolerâncias são aplicadas a diferentes tipos de elementos geométricos:
+<ul>
 <li>Elementos Isolados: A tolerância aplica-se diretamente ao elemento (como uma linha ou face), independentemente de outros recursos da peça. Exemplos incluem as tolerâncias de forma.
 <li>Elementos Associados: Exigem um **elemento de referência** (conhecido como *datum*) para que a tolerância seja verificada. Este grupo inclui tolerâncias de orientação, posição e batimento.
+</ul>
 
+<p><br>
 <b>4.3. Categorias de Tolerâncias Geométricas</b>
 <p>
 O sistema organiza os desvios admissíveis em quatro grupos principais:
@@ -75,12 +84,6 @@ A indicação técnica ocorre por meio de um quadro de tolerância retangular, d
 <p>
 <li>Cotas Básicas: São dimensões teoricamente exatas representadas dentro de uma moldura (ex: $$); elas definem a posição ideal e não recebem tolerâncias dimensionais diretas, mas sim a tolerância geométrica indicada no quadro.
 <li>Modificadores: Símbolos como a **Condição de Máximo Material ($\textcircled{M}$)** e a **Condição de Mínimo Material ($\textcircled{L}$) permitem "bônus" de tolerância, aumentando a margem de erro aceitável para a fabricação sem comprometer a montagem funcional.
-
-<p>
-As diferenças entre o perfil efetivo e o perfil geométrico são os erros apresentados pela superfície em exame e são genericamente classificados em dois grupos.
-<ul>
-<li>Erros Macrogeométricos: também conhecidos como erros de forma e/ou de posição. Podem ser detectados por instrumentos convencionais como relógios comparadores, micrômetros, esquadros, desempenos, etc. de acordo com a necessidade, podem também ser detectados por equipamentos eletrônicos.
-<li>Erros Microgeométricos: formados por sulcos ou marcas deixadas nas superfícies efetivas pelo processo de usinagem, deformação no tratamento térmico, tensões residuais de forjamento ou fundição. Detecta-se por meio de instrumentos, como rugosímetros e perfiloscópios. Esses erros são também definidos como rugosidade da superfície.
 </ul>
   
   ### 4. Tolerâncias de Forma
