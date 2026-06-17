@@ -59,18 +59,23 @@ As tolerâncias são aplicadas a diferentes tipos de elementos geométricos:
 <b>4.3. Categorias de Tolerâncias Geométricas</b>
 <p>
 O sistema organiza os desvios admissíveis em quatro grupos principais:
+<ul>
 <li>Tolerâncias de Forma: Controlam o desvio em relação a uma forma perfeita (ex: retilineidade, planeza, circularidade e cilindricidade).
 <li>Tolerâncias de Orientação: Estabelecem o desvio angular aceitável entre elementos (ex: paralelismo, perpendicularidade e inclinação).
 <li>Tolerâncias de Localização (Posição): Definem o desvio permitido na localização de um elemento em relação à sua posição teórica exata (ex: posição, concentricidade e simetria).
 <li>Tolerâncias de Batimento: Tratam de erros compostos de forma e posição observados durante a rotação da peça em torno de um eixo.
-
+</ul>
+<p>
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/1d4243b9-2e4e-4695-a968-0e526c871f32" />
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/a15dfb7d-fabe-4fc4-b517-4c24e20e81c1" />
+<p>
 <b>4.4. Campo de Tolerância (Zona de Tolerância)</b>
 <p>
 O campo de tolerância é o espaço ou região dentro do qual o elemento real deve estar contido para que a peça seja aprovada. Dependendo da geometria e do símbolo utilizado, esse campo pode assumir formas como:
 <li>Área dentro de um círculo ou entre círculos concêntricos.
 <li>Espaço dentro de um cilindro ou entre dois cilindros coaxiais.
 <li>Espaço entre dois planos paralelos ou dentro de um paralelepípedo.
-
+<p>
 <b>4.5. Simbologia e Indicações no Desenho</b>
 <p>
 A indicação técnica ocorre por meio de um quadro de tolerância retangular, dividido em compartimentos que contêm, da esquerda para a direita:
@@ -79,14 +84,14 @@ A indicação técnica ocorre por meio de um quadro de tolerância retangular, d
 <li>O valor da tolerância (precedido pelo símbolo de diâmetro $\varnothing$ se o campo for cilíndrico).
 <li>Letras identificadoras dos **elementos de referência**, quando necessário.
 </ol>
-
+<p>
 <b>4.6. Modificadores e Cotas Básicas</b>
 <p>
 <li>Cotas Básicas: São dimensões teoricamente exatas representadas dentro de uma moldura (ex: $$); elas definem a posição ideal e não recebem tolerâncias dimensionais diretas, mas sim a tolerância geométrica indicada no quadro.
 <li>Modificadores: Símbolos como a **Condição de Máximo Material ($\textcircled{M}$)** e a **Condição de Mínimo Material ($\textcircled{L}$) permitem "bônus" de tolerância, aumentando a margem de erro aceitável para a fabricação sem comprometer a montagem funcional.
 </ul>
-  
-  ### 4. Tolerâncias de Forma
+<p>
+### 5. Tolerâncias de Forma
 Controlam o quanto um elemento pode variar em relação a uma forma perfeita definida no projeto. Aplicam-se a elementos isolados e incluem:
 <ul>
 <li>Retilineidade (Retitude): Desvio em relação a uma linha reta.
@@ -96,19 +101,29 @@ Controlam o quanto um elemento pode variar em relação a uma forma perfeita def
 <li>Perfil de Linha ou Superfície Qualquer: Controla formas irregulares compostas por raios e concordâncias.
 </ul>
 
-### 5. Tolerâncias de Orientação
+### 6. Tolerâncias de Orientação
 Referem-se aos desvios angulares aceitáveis entre elementos associados. São divididas em:
-*   **Paralelismo:** Garante que elementos (linhas ou superfícies) permaneçam equidistantes de uma referência.
-*   **Perpendicularidade:** Controla o desvio em relação a um ângulo reto (90º).
-*   **Inclinação (Angularidade):** Controla desvios em ângulos diferentes de 90º definidos no projeto.
+<ul>
+<li>Paralelismo: Garante que elementos (linhas ou superfícies) permaneçam equidistantes de uma referência.
+<li>Perpendicularidade: Controla o desvio em relação a um ângulo reto (90º).
+<li>Inclinação (Angularidade): Controla desvios em ângulos diferentes de 90º definidos no projeto.
+</ul>
 
-### 6. Tolerâncias de Localização (Posição)
+### 7. Tolerâncias de Localização (Posição)
 Estabelecem o desvio admissível na localização de um ponto, linha ou plano em relação à sua posição teoricamente exata.
-*   **Posição:** Evita o acúmulo de erros de cotagem em cadeia.
-*   **Concentricidade:** Permite desvios na posição do centro de um círculo em relação a outro centro de referência.
-*   **Simetria:** Define limites para o erro de simetria de planos médios ou eixos em relação a uma referência central.
+<ul>
+<li>Posição: Evita o acúmulo de erros de cotagem em cadeia.
+<li>Concentricidade: Permite desvios na posição do centro de um círculo em relação a outro centro de referência.
+<li>Simetria: Define limites para o erro de simetria de planos médios ou eixos em relação a uma referência central.
+</ul>
 
-### 7. Tolerâncias de Batimento
-São **tolerâncias compostas** que analisam simultaneamente desvios de forma, orientação e posição de superfícies de revolução durante um giro completo da peça em torno de um eixo.
-*   **Batimento Circular:** Verificação limitada a uma seção circular específica da peça.
-*   **Batimento Total:** Verificação ao longo de toda a extensão da superfície, combinando movimentos de rotação e deslocamento axial do medidor.
+### 8. Tolerâncias de Batimento
+São tolerâncias compostas que analisam simultaneamente desvios de forma, orientação e posição de superfícies de revolução durante um giro completo da peça em torno de um eixo.
+<ul>
+<li>Batimento Circular: Verificação limitada a uma seção circular específica da peça.
+<li>Batimento Total: Verificação ao longo de toda a extensão da superfície, combinando movimentos de rotação e deslocamento axial do medidor.
+</ul>
+
+
+
+
