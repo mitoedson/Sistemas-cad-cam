@@ -37,8 +37,8 @@ Abaixo, os principais conceitos que estruturam este sistema:
 O material distingue três estados de superfície essenciais para a interpretação de normas:
 <ul>
 <li>Superfície Geométrica: É a superfície ideal representada no desenho, considerada isenta de qualquer erro de forma ou posição.
-<li>Superfície Real: É a superfície que efetivamente limita o corpo da peça, separando-a do meio externo.
-<li>Superfície Efetiva: É a superfície avaliada por meio de técnicas de medição, sendo a aproximação prática da superfície real.
+<li>Superfície Real: É a superfície que efetivamente limita o corpo da peça, separando-a do meio externo. É a superfície que existe fisicamente na peça fabricada. Possui todas as imperfeições inerentes ao processo de fabricação — ondulações, rugosidade, riscos, porosidades, etc. É impossível de ser reproduzida com perfeição ou medida em sua totalidade, pois qualquer instrumento de medição tem limitações.
+<li>Superfície Efetiva: É a superfície avaliada por meio de técnicas de medição, sendo a aproximação prática da superfície real limitada pela resolução e precisão do equipamento utilizado. Quanto melhor o instrumento, mais próxima a superfície efetiva estará da real.
 </ul>
 
 <b>4.2. Elementos Isolados e Associados</b>
