@@ -28,6 +28,52 @@ O material baseia-se na norma **ASME Y14.5M-1994**. Ele estabelece dez regras fu
 O GD&T é apresentado como uma linguagem matemática precisa que melhora a comunicação entre projeto, produção e inspeção, reduzindo custos e controvérsias.
 
 ### 4. Conceitos Básicos
+Os conceitos básicos do **Dimensionamento e Tolerância Geométrica (GD&T)** fundamentam-se em uma linguagem matemática precisa utilizada para descrever exatamente o tamanho, a forma, a orientação e a localização dos elementos de uma peça. Diferente do sistema cartesiano tradicional, o GD&T foca na **funcionalidade e intercambiabilidade**, permitindo o controle de desvios que as dimensões lineares sozinhas não conseguem restringir.
+
+Abaixo, os principais conceitos que estruturam este sistema:
+
+<b>4.1. Tipos de Superfícies</b>
+<p>
+O material distingue três estados de superfície essenciais para a interpretação de normas:
+*   **Superfície Geométrica:** É a superfície **ideal** representada no desenho, considerada isenta de qualquer erro de forma ou posição.
+*   **Superfície Real:** É a superfície que efetivamente limita o corpo da peça, separando-a do meio externo.
+*   **Superfície Efetiva:** É a superfície avaliada por meio de **técnicas de medição**, sendo a aproximação prática da superfície real.
+
+<b>4.2. Elementos Isolados e Associados</b>
+<p>
+As tolerâncias são aplicadas a diferentes tipos de elementos geométricos:
+*   **Elementos Isolados:** A tolerância aplica-se diretamente ao elemento (como uma linha ou face), independentemente de outros recursos da peça. Exemplos incluem as tolerâncias de **forma**.
+*   **Elementos Associados:** Exigem um **elemento de referência** (conhecido como *datum*) para que a tolerância seja verificada. Este grupo inclui tolerâncias de **orientação, posição e batimento**.
+
+<b>4.3. Categorias de Tolerâncias Geométricas</b>
+<p>
+O sistema organiza os desvios admissíveis em quatro grupos principais:
+*   **Tolerâncias de Forma:** Controlam o desvio em relação a uma forma perfeita (ex: retilineidade, planeza, circularidade e cilindricidade).
+*   **Tolerâncias de Orientação:** Estabelecem o desvio angular aceitável entre elementos (ex: paralelismo, perpendicularidade e inclinação).
+*   **Tolerâncias de Localização (Posição):** Definem o desvio permitido na localização de um elemento em relação à sua posição teórica exata (ex: posição, concentricidade e simetria).
+*   **Tolerâncias de Batimento:** Tratam de **erros compostos** de forma e posição observados durante a rotação da peça em torno de um eixo.
+
+<b>4.4. Campo de Tolerância (Zona de Tolerância)</b>
+<p>
+O **campo de tolerância** é o espaço ou região dentro do qual o elemento real deve estar contido para que a peça seja aprovada. Dependendo da geometria e do símbolo utilizado, esse campo pode assumir formas como:
+*   Área dentro de um círculo ou entre círculos concêntricos.
+*   Espaço dentro de um cilindro ou entre dois cilindros coaxiais.
+*   Espaço entre dois planos paralelos ou dentro de um paralelepípedo.
+
+<b>4.5. Simbologia e Indicações no Desenho</b>
+<p>
+A indicação técnica ocorre por meio de um **quadro de tolerância** retangular, dividido em compartimentos que contêm, da esquerda para a direita:
+1.  O símbolo da característica geométrica.
+2.  O valor da tolerância (precedido pelo símbolo de diâmetro **$\varnothing$** se o campo for cilíndrico).
+3.  Letras identificadoras dos **elementos de referência**, quando necessário.
+
+<b>4.6. Modificadores e Cotas Básicas</b>
+<p>
+*   **Cotas Básicas:** São dimensões teoricamente exatas representadas dentro de uma moldura (ex: $$); elas definem a posição ideal e não recebem tolerâncias dimensionais diretas, mas sim a tolerância geométrica indicada no quadro.
+*   **Modificadores:** Símbolos como a **Condição de Máximo Material ($\textcircled{M}$)** e a **Condição de Mínimo Material ($\textcircled{L}$)** permitem "bônus" de tolerância, aumentando a margem de erro aceitável para a fabricação sem comprometer a montagem funcional.
+
+<p>
+
 Este tópico diferencia os tipos de superfícies: **geométrica** (ideal/desenho), **real** (limite do corpo) e **efetiva** (avaliada por medição). Também classifica os erros em dois grupos:
 *   **Erros Macrogeométricos:** Desvios de forma, orientação e posição detectados por instrumentos como relógios comparadores e micrômetros.
 *   **Erros Microgeométricos:** Rugosidade da superfície, detectada por rugosímetros.
