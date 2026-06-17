@@ -72,9 +72,11 @@ O sistema organiza os desvios admissíveis em quatro grupos principais:
 <b>4.4. Campo de Tolerância (Zona de Tolerância)</b>
 <p>
 O campo de tolerância é o espaço ou região dentro do qual o elemento real deve estar contido para que a peça seja aprovada. Dependendo da geometria e do símbolo utilizado, esse campo pode assumir formas como:
+<ul>
 <li>Área dentro de um círculo ou entre círculos concêntricos.
 <li>Espaço dentro de um cilindro ou entre dois cilindros coaxiais.
 <li>Espaço entre dois planos paralelos ou dentro de um paralelepípedo.
+</ul>
 <p>
 <b>4.5. Simbologia e Indicações no Desenho</b>
 <p>
@@ -87,6 +89,7 @@ A indicação técnica ocorre por meio de um quadro de tolerância retangular, d
 <p>
 <b>4.6. Modificadores e Cotas Básicas</b>
 <p>
+<ul>
 <li>Cotas Básicas: São dimensões teoricamente exatas representadas dentro de uma moldura (ex: $$); elas definem a posição ideal e não recebem tolerâncias dimensionais diretas, mas sim a tolerância geométrica indicada no quadro.
 <li>Modificadores: Símbolos como a Condição de Máximo Material ($\textcircled{M}$) e a Condição de Mínimo Material ($\textcircled{L}$) permitem "bônus" de tolerância, aumentando a margem de erro aceitável para a fabricação sem comprometer a montagem funcional.
 </ul>
