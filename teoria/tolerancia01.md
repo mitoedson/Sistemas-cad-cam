@@ -77,19 +77,21 @@ A indicação técnica ocorre por meio de um quadro de tolerância retangular, d
 <li>Modificadores: Símbolos como a **Condição de Máximo Material ($\textcircled{M}$)** e a **Condição de Mínimo Material ($\textcircled{L}$) permitem "bônus" de tolerância, aumentando a margem de erro aceitável para a fabricação sem comprometer a montagem funcional.
 
 <p>
-
-Este tópico diferencia os tipos de superfícies: **geométrica** (ideal/desenho), **real** (limite do corpo) e **efetiva** (avaliada por medição). Também classifica os erros em dois grupos:
-*   **Erros Macrogeométricos:** Desvios de forma, orientação e posição detectados por instrumentos como relógios comparadores e micrômetros.
-*   **Erros Microgeométricos:** Rugosidade da superfície, detectada por rugosímetros.
-Define-se ainda a diferença entre **elementos isolados** (independentes) e **associados** (que exigem um elemento de referência ou "datum").
-
-### 4. Tolerâncias de Forma
+As diferenças entre o perfil efetivo e o perfil geométrico são os erros apresentados pela superfície em exame e são genericamente classificados em dois grupos.
+<ul>
+<li>Erros Macrogeométricos: também conhecidos como erros de forma e/ou de posição. Podem ser detectados por instrumentos convencionais como relógios comparadores, micrômetros, esquadros, desempenos, etc. de acordo com a necessidade, podem também ser detectados por equipamentos eletrônicos.
+<li>Erros Microgeométricos: formados por sulcos ou marcas deixadas nas superfícies efetivas pelo processo de usinagem, deformação no tratamento térmico, tensões residuais de forjamento ou fundição. Detecta-se por meio de instrumentos, como rugosímetros e perfiloscópios. Esses erros são também definidos como rugosidade da superfície.
+</ul>
+  
+  ### 4. Tolerâncias de Forma
 Controlam o quanto um elemento pode variar em relação a uma forma perfeita definida no projeto. Aplicam-se a elementos isolados e incluem:
-*   **Retilineidade (Retitude):** Desvio em relação a uma linha reta.
-*   **Planeza:** Desvio em relação a uma superfície plana ideal.
-*   **Circularidade:** Aceitação de desvios em seções circulares, comum em peças cônicas ou cilíndricas.
-*   **Cilindricidade:** Combina circularidade com retilineidade ao longo de todo o comprimento de um cilindro.
-*   **Perfil de Linha ou Superfície Qualquer:** Controla formas irregulares compostas por raios e concordâncias.
+<ul>
+<li>Retilineidade (Retitude): Desvio em relação a uma linha reta.
+<li>Planeza: Desvio em relação a uma superfície plana ideal.
+<li>Circularidade: Aceitação de desvios em seções circulares, comum em peças cônicas ou cilíndricas.
+<li>Cilindricidade: Combina circularidade com retilineidade ao longo de todo o comprimento de um cilindro.
+<li>Perfil de Linha ou Superfície Qualquer: Controla formas irregulares compostas por raios e concordâncias.
+</ul>
 
 ### 5. Tolerâncias de Orientação
 Referem-se aos desvios angulares aceitáveis entre elementos associados. São divididas em:
