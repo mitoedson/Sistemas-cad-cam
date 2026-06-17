@@ -40,7 +40,7 @@ O material distingue três estados de superfície essenciais para a interpretaç
 <li>Superfície Real: É a superfície que efetivamente limita o corpo da peça, separando-a do meio externo. É a superfície que existe fisicamente na peça fabricada. Possui todas as imperfeições inerentes ao processo de fabricação — ondulações, rugosidade, riscos, porosidades, etc. É impossível de ser reproduzida com perfeição ou medida em sua totalidade, pois qualquer instrumento de medição tem limitações.
 <li>Superfície Efetiva: É a superfície avaliada por meio de técnicas de medição, sendo a aproximação prática da superfície real limitada pela resolução e precisão do equipamento utilizado. Quanto melhor o instrumento, mais próxima a superfície efetiva estará da real.
 </ul>
-<p>Imagine uma superfície geométrica cortada por um plano perpendicular, como mostra a figura, você obterá um perfil geométrico.
+<p>Imagine uma superfície geométrica cortada por um plano perpendicular, você obterá um perfil geométrico.
 As diferenças entre o perfil efetivo e o perfil geométrico são os erros apresentados pela superfície em exame e são genericamente classificados em dois grupos.
 <ul>
 <li>Erros Macrogeométricos: também conhecidos como erros de forma e/ou de posição. Podem ser detectados por instrumentos convencionais como relógios comparadores, micrômetros, esquadros, desempenos, etc. de acordo com a necessidade, podem também ser detectados por equipamentos eletrônicos.
