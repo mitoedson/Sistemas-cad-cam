@@ -103,6 +103,8 @@ Controlam o quanto um elemento pode variar em relação a uma forma perfeita def
 <li>Cilindricidade: Combina circularidade com retilineidade ao longo de todo o comprimento de um cilindro.
 <li>Perfil de Linha ou Superfície Qualquer: Controla formas irregulares compostas por raios e concordâncias.
 </ul>
+<img width="381" height="156" alt="image" src="https://github.com/user-attachments/assets/e7bd61f5-0971-415a-a235-4721a8cd56a1" />
+
 
 ### 6. Tolerâncias de Orientação
 Referem-se aos desvios angulares aceitáveis entre elementos associados. São divididas em:
