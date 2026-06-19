@@ -1,0 +1,33 @@
+<h2>Tolerância dimensional</h2>
+
+A **tolerância dimensional** é a variação permitida em uma dimensão específica de uma peça, essencial porque é impossível fabricar componentes com medidas rigorosamente exatas devido a imprecisões inerentes aos processos de manufatura (máquinas, materiais e falhas humanas). Seu principal objetivo é garantir a **intercambiabilidade**, permitindo que peças sejam substituídas sem a necessidade de reparos ou ajustes manuais.
+
+Abaixo estão os detalhes fundamentais extraídos do material:
+
+### **1. Elementos da Cota com Tolerância**
+Para entender como uma dimensão varia, utilizam-se os seguintes conceitos:
+*   **Dimensão Nominal:** É a medida de referência indicada no desenho técnico.
+*   **Afastamentos:** São desvios aceitáveis para mais ou para menos em relação à dimensão nominal.
+    *   **Afastamento Superior:** Define o limite máximo da cota.
+    *   **Afastamento Inferior:** Define o limite mínimo da cota.
+*   **Limites Dimensionais:** A **Dimensão Máxima** e a **Dimensão Mínima** são os valores extremos aceitáveis. A medida real da peça após a fabricação (**Dimensão Efetiva**) deve estar entre esses dois limites.
+*   **Cálculo da Tolerância:** Corresponde ao valor absoluto da diferença entre a dimensão máxima e a mínima.
+
+### **2. Sistema ISO de Tolerâncias (ABNT NBR 6158)**
+A norma padroniza a indicação de tolerâncias para facilitar a produção global:
+*   **Unidade de Medida:** O padrão é o **micrometro (mícron)**, onde $1\mu\text{m} = 0,001\text{ mm}$.
+*   **Qualidades de Trabalho (Graus IT):** Existem 18 qualidades, de **IT 01 a IT 16**. Quanto menor o número, maior a precisão. Graus baixos são usados para instrumentos de medição (mecânica extraprecisa), enquanto graus elevados são para mecânica grosseira.
+*   **Campos de Tolerância (Letras):** O sistema utiliza letras para indicar a posição da tolerância. Letras **maiúsculas** (A a ZC) referem-se a **furos** (medidas internas) e letras **minúsculas** (a a zc) referem-se a **eixos** (medidas externas).
+
+### **3. Tipos de Ajustes e Sistemas de Referência**
+O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
+*   **Ajuste com Folga:** O furo é maior que o eixo, permitindo rotação ou deslizamento.
+*   **Ajuste com Interferência:** O eixo é maior que o furo, exigindo pressão para montagem.
+*   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas.
+
+Para racionalizar a produção, a indústria adota sistemas de base fixa:
+*   **Sistema Furo-Base (H):** A tolerância do furo é mantida constante (afastamento inferior é zero) e variam-se os eixos. É o sistema mais utilizado mundialmente.
+*   **Sistema Eixo-Base (h):** A tolerância do eixo é mantida constante (afastamento superior é zero) e variam-se os furos.
+
+### **4. Relação com a Rugosidade**
+As fontes indicam que o controle dimensional e o acabamento superficial estão interligados. Uma regra prática para estimar a tolerância dimensional possível de se obter em um processo é dividir o valor da rugosidade (**Ra** em mícrons) por 40.
