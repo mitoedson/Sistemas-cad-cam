@@ -26,6 +26,8 @@ A norma (NBR 8404 / ISO 1302) organiza os níveis de acabamento em 12 classes, o
 *   **N1 a N4 (0,025 a 0,2 $\mu\text{m}$):** Acabamentos de altíssima precisão, como em blocos padrão, calibradores e pistas de rolamentos.
 *   **N5 a N9 (0,4 a 6,3 $\mu\text{m}$):** Aplicados em superfícies usinadas comuns, eixos, mancais de bronze e engrenagens.
 *   **N10 a N12 (12,5 a 50 $\mu\text{m}$):** Acabamentos mais grosseiros, típicos de superfícies desbastadas, fundidas ou forjadas.
+<img width="397" height="457" alt="image" src="https://github.com/user-attachments/assets/62ab123f-4314-4114-93fd-974edcafa54f" />
+
 
 ### **5. Simbologia no Desenho Técnico**
 Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
