@@ -4,38 +4,17 @@
 
 **Ø0,03 A** — Tolerância de *paralelismo* com zona cilíndrica de Ø0,03 mm em relação à referência A (eixo)
 
-
 - **∥** → tipo: **paralelismo**
 - **Ø0,03** → zona de tolerância é um **cilindro de diâmetro 0,03 mm**
 - **A** → referência: a **superfície plana inferior** (datum A)
 
----
+O eixo do furo superior deve ficar paralelo ao eixo do furo inferior (que é a referência). Portanto, o eixo do furo superior deve estar compreendido dentro de uma zona cilíndrica de diâmetro t, paralela ao eixo do furo inferior, que constitui a reta de referência.
+
+<img width="310" height="182" alt="image" src="https://github.com/user-attachments/assets/146a0785-17c4-49e3-8aa2-6a68099c1c11" />
 
 ## Interpretação geométrica
 
 O **eixo** do elemento cilíndrico (o pino/eixo saliente) deve estar **completamente contido dentro de um cilindro imaginário de Ø0,03 mm**, sendo que esse cilindro é **paralelo ao datum A**.
-
-```
-Datum A (superfície plana)
-━━━━━━━━━━━━━━━━━━━━━━━━━
-         ↑
-    zona cilíndrica
-    Ø 0,03 mm
-    paralela a A
-         |
-    [eixo real deve
-     ficar aqui dentro]
-```
-
----
-
-## Por que a zona é **cilíndrica** (Ø) e não planar?
-
-Porque o elemento controlado é um **eixo** (elemento de revolução). O prefixo **Ø** indica que a tolerância vale em **todas as direções** ao redor do eixo, não apenas em um plano.
-
-Sem o Ø, a zona seria entre **dois planos paralelos** afastados 0,03 mm — o que controlaria o desvio em apenas uma direção.
-
----
 
 ## Como verificar na prática
 
