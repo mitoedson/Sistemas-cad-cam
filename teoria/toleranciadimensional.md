@@ -23,9 +23,9 @@ A norma padroniza a indicação de tolerâncias para facilitar a produção glob
 O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d1aed5c6-2846-495f-8520-2eee2d8d75d5" />
 
-*   **Ajuste com Folga:** O furo é maior que o eixo, permitindo rotação ou deslizamento.
-*   **Ajuste com Interferência:** O eixo é maior que o furo, exigindo pressão para montagem.
-*   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas.
+*   **Ajuste com Folga:** A dimensão máxima do eixo é menor ou, em casos extremos, igual à dimensão mínima do furo, permitindo rotação ou deslizamento.
+*   **Ajuste com Interferência:** A dimensão mínima do eixo é maior ou, em casos extremos, igual à dimensão máxima do furo, exigindo pressão para montagem.
+*   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas. A dimensão máxima do eixo é maior que a dimensão mínima do furo, e a dimensão máxima do furo é maior que a dimensão mínima do eixo.
 
 
 Para racionalizar a produção, a indústria adota sistemas de base fixa:
