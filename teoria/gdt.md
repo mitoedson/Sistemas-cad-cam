@@ -66,6 +66,7 @@ As tolerâncias são aplicadas a diferentes tipos de elementos geométricos:
 <p><br>
 <b>4.3. Categorias de Tolerâncias Geométricas</b>
 <p>
+Tolerâncias Geométricas são os desvios aceitáveis especificados em um desenho técnico utilizado na produção/execução de uma peça.
 O sistema organiza os desvios admissíveis em quatro grupos principais:
 <ul>
 <li><b>Tolerâncias de Forma:</b> Controlam o desvio em relação a uma forma perfeita definida no projeto (ex: retilineidade, planeza, circularidade e cilindricidade).
