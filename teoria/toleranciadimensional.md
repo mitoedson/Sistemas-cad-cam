@@ -21,9 +21,12 @@ A norma padroniza a indicação de tolerâncias para facilitar a produção glob
 
 ### **3. Tipos de Ajustes e Sistemas de Referência**
 O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d1aed5c6-2846-495f-8520-2eee2d8d75d5" />
+
 *   **Ajuste com Folga:** O furo é maior que o eixo, permitindo rotação ou deslizamento.
 *   **Ajuste com Interferência:** O eixo é maior que o furo, exigindo pressão para montagem.
 *   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas.
+
 
 Para racionalizar a produção, a indústria adota sistemas de base fixa:
 *   **Sistema Furo-Base (H):** A tolerância do furo é mantida constante (afastamento inferior é zero) e variam-se os eixos. É o sistema mais utilizado mundialmente.
