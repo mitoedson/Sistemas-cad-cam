@@ -31,6 +31,9 @@ Define o desvio aceitável de uma forma circular em seções transversais, sendo
 É um controle mais abrangente que a circularidade, pois analisa toda a superfície cilíndrica de uma vez, incluindo erros de forma ao longo do comprimento (como conicidade ou concavidade).
 *   **Campo de Tolerância:** É o espaço entre **dois cilindros coaxiais** cujos raios diferem pelo valor "t". Note que a especificação de cilindricidade já inclui implicitamente a de circularidade e retilineidade das geratrizes.
 
+<img width="558" height="186" alt="image" src="https://github.com/user-attachments/assets/fbac61f2-ba53-4762-971a-1cba2cf89ee4" />
+
+
 ### 5. Perfil de uma Linha Qualquer — Símbolo: ⌒
 Utilizada para controlar formas irregulares compostas por raios e curvas.
 *   **Campo de Tolerância:** É a região limitada por duas linhas envolventes que tangenciam círculos de diâmetro "t", cujos centros estão localizados sobre a **linha geométrica ideal**.
