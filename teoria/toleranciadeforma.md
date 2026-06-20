@@ -2,7 +2,7 @@
 
 São um grupo de controles geométricos que limitam o quanto um elemento (como uma linha ou superfície) pode variar em relação à sua **forma geométrica teórica/ideal** representada no desenho. Diferente de outras tolerâncias, estas se aplicam exclusivamente a **elementos isolados**, o que significa que não dependem de um elemento de referência (*datum*) para serem verificadas.
 <p>
-<img width="381" height="156" alt="image" src="https://github.com/user-attachments/assets/e7bd61f5-0971-415a-a235-4721a8cd56a1" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e7bd61f5-0971-415a-a235-4721a8cd56a1" />
 <p>
 Abaixo, detalho os tipos de tolerâncias de forma conforme o material técnico:
 
@@ -17,7 +17,7 @@ Controla o desvio de uma superfície em relação a um plano perfeitamente liso.
 *   **Campo de Tolerância:** É definido pelo espaço entre **dois planos paralelos** afastados pela distância "t".
 *   **Desvios Comuns:** Os erros mais frequentes são a concavidade e a convexidade. Restrições como "não convexo" podem ser adicionadas para garantir a funcionalidade da peça.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/f2a2dcae-7202-4150-add6-9fd5984e2197" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f2a2dcae-7202-4150-add6-9fd5984e2197" />
 
 
 ### 3. Circularidade — Símbolo: ○
