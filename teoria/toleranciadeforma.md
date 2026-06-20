@@ -17,6 +17,9 @@ Controla o desvio de uma superfície em relação a um plano perfeitamente liso.
 *   **Campo de Tolerância:** É definido pelo espaço entre **dois planos paralelos** afastados pela distância "t".
 *   **Desvios Comuns:** Os erros mais frequentes são a concavidade e a convexidade. Restrições como "não convexo" podem ser adicionadas para garantir a funcionalidade da peça.
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f2a2dcae-7202-4150-add6-9fd5984e2197" />
+
+
 ### 3. Circularidade — Símbolo: ○
 Define o desvio aceitável de uma forma circular em seções transversais, sendo aplicada principalmente em peças cônicas e cilíndricas.
 *   **Campo de Tolerância:** Consiste na área entre **dois círculos concêntricos e coplanares** (no mesmo plano) afastados radialmente por uma distância "t".
