@@ -20,6 +20,9 @@ O sistema GD&T (NBR 6409 / ISO 1101) divide este grupo em:
 *   **Coaxialidade:** É um caso de concentricidade aplicado ao longo de eixos de simetria. O eixo da parte tolerada deve estar contido dentro de um **cilindro de tolerância** cujo eixo central é o elemento de referência.
 *   **Simetria:** Define os limites para erros de simetria de planos médios ou eixos. O campo é formado por dois planos ou retas paralelas dispostas simetricamente em torno do plano (ou linha) de referência.
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d8cf130d-e55f-4e5e-9e28-d234b17cecac" />
+
+
 ### **4. Campo de Tolerância (Zonas de Controle)**
 Diferente das tolerâncias cartesianas, que geram zonas quadradas, o GD&T utiliza frequentemente **campos de tolerância cilíndricos**, o que permite um ganho de **57% na margem de erro aceitável** para a fabricação sem comprometer a funcionalidade da montagem.
 
