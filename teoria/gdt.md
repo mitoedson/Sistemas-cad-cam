@@ -70,6 +70,7 @@ Tolerâncias Geométricas são os desvios aceitáveis especificados em um desenh
 O sistema organiza os desvios admissíveis em quatro grupos principais:
 <ul>
 <li><b>Tolerâncias de Forma:</b> Controlam o desvio em relação a uma forma perfeita definida no projeto (ex: retilineidade, planeza, circularidade e cilindricidade).
+  
 <br><a href="toleranciadeforma.md">Leia sobre Tolerância de Forma</a>
   <p>
 <li><b>Tolerâncias de Orientação:</b> Estabelecem o desvio angular aceitável entre elementos associados (ex: paralelismo, perpendicularidade e inclinação). São divididas em:
