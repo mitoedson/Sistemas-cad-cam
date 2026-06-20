@@ -15,6 +15,9 @@ Refere-se ao desvio permitido de uma linha real em relação a uma linha reta te
 ### 2. Planeza (Planicidade) — Símbolo: ⏥
 Controla o desvio de uma superfície em relação a um plano perfeitamente liso. 
 *   **Campo de Tolerância:** É definido pelo espaço entre **dois planos paralelos** afastados pela distância "t".
+  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d41755f4-39f9-4a8e-b591-77ab017b2f5d" />
+  
 *   **Desvios Comuns:** Os erros mais frequentes são a concavidade e a convexidade. Restrições como "não convexo" podem ser adicionadas para garantir a funcionalidade da peça.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f2a2dcae-7202-4150-add6-9fd5984e2197" />
