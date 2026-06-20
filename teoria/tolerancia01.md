@@ -3,6 +3,8 @@
 O Dimensionamento e Tolerância Geométrica, conhecido mundialmente pela sigla GD&T (Geometric Dimensioning and Tolerancing), é uma linguagem internacional utilizada em desenhos de engenharia para descrever de forma exata e matemática o tamanho, a forma, a orientação e a localização dos elementos de uma peça
 <p>Diferente do sistema de tolerâncias coordenadas (sistema cartesiano), que foca apenas nas dimensões lineares, o GD&T controla a geometria completa dos elementos, garantindo a funcionalidade e a intercambiabilidade dos componentes
 
+<hr>
+
 ### 1. Introdução do GD&T
 A necessidade desse sistema surge do fato de que, apesar do avanço tecnológico, ainda é impossível produzir peças perfeitamente exatas.
 O GD&T baseia-se na filosofia do dimensionamento funcional, que define a peça com base em como ela deve desempenhar sua função no produto final.
@@ -10,6 +12,8 @@ O GD&T baseia-se na filosofia do dimensionamento funcional, que define a peça c
 Entre seus principais benefícios estão a melhoria na comunicação entre projeto, produção e inspeção, a redução de controvérsias e a economia de dinheiro ao fornecer "bônus" de tolerância que facilitam a manufatura
 <p>
 Existe um mito de que o GD&T aumenta os custos, mas, na realidade, ele permite tolerâncias maiores que o sistema cartesiano sem comprometer a montagem
+
+<hr>
 
 ### 2. Histórico do GD&T
 
@@ -20,12 +24,16 @@ O sistema foi criado na década de 1940 por Stanley Parker, um engenheiro inglê
 <p>Evolução: Esta foi a primeira grande alteração no sistema de dimensionamento em 300 anos
 <p>Em 1945, o exército publicou o primeiro manual introduzindo símbolos para especificar essas tolerâncias de forma e posição
 
+<hr>
+
 ### 3. Generalidades e Regras de Dimensionamento
 O material baseia-se na norma **ASME Y14.5M-1994**. Ele estabelece dez regras fundamentais, incluindo:
 *   Cada dimensão deve ter uma tolerância (exceto as de referência ou estoque comercial).
 *   As dimensões são aplicadas a uma temperatura padrão de **20º C**.
 *   Os métodos de manufatura não devem ser especificados no desenho.
 O GD&T é apresentado como uma linguagem matemática precisa que melhora a comunicação entre projeto, produção e inspeção, reduzindo custos e controvérsias.
+
+<hr>
 
 ### 4. Conceitos Básicos
 Os conceitos básicos do **Dimensionamento e Tolerância Geométrica (GD&T)** fundamentam-se em uma linguagem matemática precisa utilizada para descrever exatamente o tamanho, a forma, a orientação e a localização dos elementos de uma peça. Diferente do sistema cartesiano tradicional, o GD&T foca na **funcionalidade e intercambiabilidade**, permitindo o controle de desvios que as dimensões lineares sozinhas não conseguem restringir.
@@ -94,10 +102,14 @@ A indicação técnica ocorre por meio de um quadro de tolerância retangular, d
 <li>Modificadores: Símbolos como a Condição de Máximo Material ($\textcircled{M}$) e a Condição de Mínimo Material ($\textcircled{L}$) permitem "bônus" de tolerância, aumentando a margem de erro aceitável para a fabricação sem comprometer a montagem funcional.
 </ul>
 
+<hr>
+
 ### 5. Tolerâncias de Forma
 Controlam o quanto um elemento pode variar em relação a uma forma perfeita definida no projeto. 
 <p>
-<a href="toleranciadeforma.md">Mais informações</a>
+<a href="toleranciadeforma.md">Leia sobre Tolerância de Forma</a>
+
+<hr>
 
 ### 6. Tolerâncias de Orientação
 Referem-se aos desvios angulares aceitáveis entre elementos associados. São divididas em:
@@ -107,6 +119,8 @@ Referem-se aos desvios angulares aceitáveis entre elementos associados. São di
 <li>Inclinação (Angularidade): Controla desvios em ângulos diferentes de 90º definidos no projeto.
 </ul>
 
+<hr>
+
 ### 7. Tolerâncias de Localização (Posição)
 Estabelecem o desvio admissível na localização de um ponto, linha ou plano em relação à sua posição teoricamente exata.
 <ul>
@@ -114,6 +128,8 @@ Estabelecem o desvio admissível na localização de um ponto, linha ou plano em
 <li>Concentricidade: Permite desvios na posição do centro de um círculo em relação a outro centro de referência.
 <li>Simetria: Define limites para o erro de simetria de planos médios ou eixos em relação a uma referência central.
 </ul>
+
+<hr>
 
 ### 8. Tolerâncias de Batimento
 São tolerâncias compostas que analisam simultaneamente desvios de forma, orientação e posição de superfícies de revolução durante um giro completo da peça em torno de um eixo.
@@ -123,5 +139,6 @@ São tolerâncias compostas que analisam simultaneamente desvios de forma, orien
 </ul>
 
 
+<hr>
 
 
