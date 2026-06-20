@@ -31,6 +31,9 @@ Controla o desvio de uma superfície em relação a um plano perfeitamente liso.
 Define o desvio aceitável de uma forma circular em seções transversais, sendo aplicada principalmente em peças cônicas e cilíndricas.
 *   **Campo de Tolerância:** Consiste na área entre **dois círculos concêntricos e coplanares** (no mesmo plano) afastados radialmente por uma distância "t".
 
+<img width="427" height="195" alt="image" src="https://github.com/user-attachments/assets/018ac931-7338-43bd-9dfa-0deb6949f3b0" />
+
+
 ### 4. Cilindricidade — Símbolo: ⌭
 É um controle mais abrangente que a circularidade, pois analisa toda a superfície cilíndrica de uma vez, incluindo erros de forma ao longo do comprimento (como conicidade ou concavidade).
 *   **Campo de Tolerância:** É o espaço entre **dois cilindros coaxiais** cujos raios diferem pelo valor "t". Note que a especificação de cilindricidade já inclui implicitamente a de circularidade e retilineidade das geratrizes.
