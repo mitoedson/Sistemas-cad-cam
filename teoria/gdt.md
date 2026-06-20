@@ -69,10 +69,9 @@ As tolerâncias são aplicadas a diferentes tipos de elementos geométricos:
 Tolerâncias Geométricas são os desvios aceitáveis especificados em um desenho técnico utilizado na produção/execução de uma peça.
 O sistema organiza os desvios admissíveis em quatro grupos principais:
 <ul>
-<li><b>Tolerâncias de Forma:</b> Controlam o desvio em relação a uma forma perfeita definida no projeto (ex: retilineidade, planeza, circularidade e cilindricidade).
-  
+<li><b>Tolerâncias de Forma:</b> Controlam o desvio em relação a uma forma perfeita definida no projeto (ex: retilineidade, planeza, circularidade e cilindricidade).  
 <br><a href="toleranciadeforma.md">Leia sobre Tolerância de Forma</a>
-  <p>
+<p>
 <li><b>Tolerâncias de Orientação:</b> Estabelecem o desvio angular aceitável entre elementos associados (ex: paralelismo, perpendicularidade e inclinação). São divididas em:
 <ul>
 <li>Paralelismo: Garante que elementos (linhas ou superfícies) permaneçam equidistantes de uma referência.
