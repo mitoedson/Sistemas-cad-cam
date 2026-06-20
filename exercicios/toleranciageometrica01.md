@@ -23,5 +23,3 @@ O **eixo** do elemento cilíndrico (o pino/eixo saliente) deve estar **completam
 3. O eixo real não pode desviar mais que **Ø0,03 mm** em relação à direção paralela a A
 
 ---
-
-Quer ver a próxima questão ou tem alguma dúvida sobre esta?
