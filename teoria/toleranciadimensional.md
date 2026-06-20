@@ -40,6 +40,7 @@ Quanto menor o número IT, menor é a variação permitida e mais preciso é o a
 3.2. Campos de Tolerância (Simbologia de Letras)
 
 A posição da tolerância em relação à "linha zero" (dimensão nominal) é indicada por letras do alfabeto latino. O sistema ISO estabelece  28 campos de tolerância. 
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/a83f8d2f-ebc5-42dc-81d8-18e92ba8f16b" />
 
 * Letras Maiúsculas (A até ZC): Identificam campos de tolerância para furos (medidas internas)
