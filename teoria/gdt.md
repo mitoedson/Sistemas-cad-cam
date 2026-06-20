@@ -69,7 +69,7 @@ As tolerâncias são aplicadas a diferentes tipos de elementos geométricos:
 O sistema organiza os desvios admissíveis em quatro grupos principais:
 <ul>
 <li>Tolerâncias de Forma: Controlam o desvio em relação a uma forma perfeita (ex: retilineidade, planeza, circularidade e cilindricidade).
-[Leia sobre Tolerância de Forma](#5-tolerâncias-de-forma)
+<a href="gdt.md#5-toler%C3%A2ncias-de-forma">Leia sobre Tolerância de Forma</a>
 <li>Tolerâncias de Orientação: Estabelecem o desvio angular aceitável entre elementos (ex: paralelismo, perpendicularidade e inclinação).
 <li>Tolerâncias de Localização (Posição): Definem o desvio permitido na localização de um elemento em relação à sua posição teórica exata (ex: posição, concentricidade e simetria).
 <li>Tolerâncias de Batimento: Tratam de erros compostos de forma e posição observados durante a rotação da peça em torno de um eixo.
