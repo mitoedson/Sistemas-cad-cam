@@ -73,27 +73,29 @@ O sistema organiza os desvios admissíveis em quatro grupos principais:
 <br><a href="toleranciadeforma.md">Leia sobre Tolerância de Forma</a>
   <p>
 <li><b>Tolerâncias de Orientação:</b> Estabelecem o desvio angular aceitável entre elementos associados (ex: paralelismo, perpendicularidade e inclinação). São divididas em:
-<br><a href="toleranciadeorientacao.md">Leia sobre Tolerância de Orientação</a>
 <ul>
 <li>Paralelismo: Garante que elementos (linhas ou superfícies) permaneçam equidistantes de uma referência.
 <li>Perpendicularidade: Controla o desvio em relação a um ângulo reto (90º).
 <li>Inclinação (Angularidade): Controla desvios em ângulos diferentes de 90º definidos no projeto.
 </ul>
-  <p>
-  <li><b>Tolerâncias de Localização (Posição):</b> Definem o desvio permitido na localização de um elemento (ponto, linha ou plano) em relação à sua posição teórica exata (ex: posição, concentricidade e simetria).
-<br><a href="toleranciadelocalizacao.md">Leia sobre Tolerância de Localização</a>
+<br><a href="toleranciadeorientacao.md">Leia sobre Tolerância de Orientação</a>
+ 
+<p>
+<li><b>Tolerâncias de Localização (Posição):</b> Definem o desvio permitido na localização de um elemento (ponto, linha ou plano) em relação à sua posição teórica exata (ex: posição, concentricidade e simetria).
 <ul>
 <li>Posição: Evita o acúmulo de erros de cotagem em cadeia.
 <li>Concentricidade: Permite desvios na posição do centro de um círculo em relação a outro centro de referência.
 <li>Simetria: Define limites para o erro de simetria de planos médios ou eixos em relação a uma referência central.
 </ul>
-  <p>    
-  <li><b>Tolerâncias de Batimento:</b> São tolerâncias compostas que analisam simultaneamente desvios de forma, orientação e posição de superfícies de revolução durante um giro completo da peça em torno de um eixo.
-<br><a href="toleranciadebatimento.md">Leia sobre Tolerância de Batimento</a>
+<br><a href="toleranciadelocalizacao.md">Leia sobre Tolerância de Localização</a>
+
+<p>    
+<li><b>Tolerâncias de Batimento:</b> São tolerâncias compostas que analisam simultaneamente desvios de forma, orientação e posição de superfícies de revolução durante um giro completo da peça em torno de um eixo.
 <ul>
 <li>Batimento Circular: Verificação limitada a uma seção circular específica da peça.
 <li>Batimento Total: Verificação ao longo de toda a extensão da superfície, combinando movimentos de rotação e deslocamento axial do medidor.
 </ul>
+<br><a href="toleranciadebatimento.md">Leia sobre Tolerância de Batimento</a>
 
 </ul>
 <p>
