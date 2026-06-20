@@ -10,7 +10,7 @@ Para entender como uma dimensão varia, utilizam-se os seguintes conceitos:
 *   **Afastamentos:** São desvios aceitáveis para mais ou para menos em relação à dimensão nominal.
     *   **Afastamento Superior:** Define o limite máximo da cota.
     *   **Afastamento Inferior:** Define o limite mínimo da cota.
-*   **Limites Dimensionais:** A **Dimensão Máxima** e a **Dimensão Mínima** são os valores extremos aceitáveis. A medida real da peça após a fabricação (**Dimensão Efetiva**) deve estar entre esses dois limites.
+*   **Limites Dimensionais:** A **Dimensão Máxima** e a **Dimensão Mínima** são os valores extremos aceitáveis. A medida real da peça após a fabricação (**Dimensão Efetiva** = **Dimensão Real**) deve estar entre esses dois limites.
 *   **Cálculo da Tolerância:** Corresponde ao valor absoluto da diferença entre a dimensão máxima e a mínima.
 
 ### **2. Sistema ISO de Tolerâncias (ABNT NBR 6158)**
