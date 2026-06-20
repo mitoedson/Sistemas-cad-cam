@@ -12,6 +12,10 @@ Refere-se ao desvio permitido de uma linha real em relação a uma linha reta te
 *   **Cilíndrica:** Quando aplicada a eixos de revolução, o campo é um cilindro imaginário de diâmetro "t" dentro do qual o eixo real deve estar contido (indicado pelo símbolo $\varnothing$ antes do valor).
 *   **Prismática:** Se a tolerância for especificada em duas direções perpendiculares, o campo torna-se um paralelepípedo.
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/28ccb390-205c-4918-b8c3-b9dc0324a868" />
+
+
+
 ### 2. Planeza (Planicidade) — Símbolo: ⏥
 Controla o desvio de uma superfície em relação a um plano perfeitamente liso. 
 *   **Campo de Tolerância:** É definido pelo espaço entre **dois planos paralelos** afastados pela distância "t". Apoiamos a peça em um suporte, em três pontos. Através do relógio comparador, aplicamos a medição em cada um dos três pontos, de modo que ele fique "zerado". Claro que para tentar fazer com que o ponteiro do relógio coincida com a posição do ponto pode estar alinhado. Assim, existe uma margem aceitável que viabilize a medição. O processo de medição da superfície tem seus padrões para medição da superfície. 
@@ -31,7 +35,7 @@ Define o desvio aceitável de uma forma circular em seções transversais, sendo
 É um controle mais abrangente que a circularidade, pois analisa toda a superfície cilíndrica de uma vez, incluindo erros de forma ao longo do comprimento (como conicidade ou concavidade).
 *   **Campo de Tolerância:** É o espaço entre **dois cilindros coaxiais** cujos raios diferem pelo valor "t". Note que a especificação de cilindricidade já inclui implicitamente a de circularidade e retilineidade das geratrizes.
 
-<img width="558" height="186" alt="image" src="https://github.com/user-attachments/assets/fbac61f2-ba53-4762-971a-1cba2cf89ee4" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fbac61f2-ba53-4762-971a-1cba2cf89ee4" />
 
 
 ### 5. Perfil de uma Linha Qualquer — Símbolo: ⌒
