@@ -1,5 +1,7 @@
 <h2>CAE - Esforços em corpos resistentes</h2>
 
+Simulações realizadas no Solidworks.
+
 <img width="600" alt="viga112" src="https://github.com/user-attachments/assets/ba1cffa7-1005-4688-8065-f502ad3cf17e" />
 <img width="600" alt="viga112_00" src="https://github.com/user-attachments/assets/0f616ec8-b039-4955-a29b-3d39d9074e40" />
 <img width="600" alt="viga112_01" src="https://github.com/user-attachments/assets/9d5c7b08-db59-43f2-98e7-31053dbe0ed1" />
