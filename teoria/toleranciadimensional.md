@@ -24,13 +24,12 @@ O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d1aed5c6-2846-495f-8520-2eee2d8d75d5" />
 
 *   **Ajuste com Folga:** A dimensão máxima do eixo é menor ou, em casos extremos, igual à dimensão mínima do furo, permitindo rotação ou deslizamento.
-*   **Ajuste com Interferência:** A dimensão mínima do eixo é maior ou, em casos extremos, igual à dimensão máxima do furo, exigindo pressão para montagem.
-*   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas. A dimensão máxima do eixo é maior que a dimensão mínima do furo, e a dimensão máxima do furo é maior que a dimensão mínima do eixo.
-
+*   **Ajuste com Interferência:** A dimensão mínima do eixo é maior ou, em casos extremos, igual à dimensão máxima do furo, exigindo esforço ou pressão para a montagem, resultando em um encaixe fixo.
+*   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas. A dimensão máxima do eixo é maior que a dimensão mínima do furo, e a dimensão máxima do furo é maior que a dimensão mínima do eixo. O resultado depende das dimensões efetivas após a fabricação.
 
 Para racionalizar a produção, a indústria adota sistemas de base fixa:
-*   **Sistema Furo-Base (H):** A tolerância do furo é mantida constante (afastamento inferior é zero) e variam-se os eixos. É o sistema mais utilizado mundialmente.
-*   **Sistema Eixo-Base (h):** A tolerância do eixo é mantida constante (afastamento superior é zero) e variam-se os furos.
+*   **Sistema Furo-Base (H):** Ou Furo Padrão, é o sistema de maior aceitação na indústria. Nele, a tolerância do furo permanece fixa (identificada pela letra H) e variam-se as tolerâncias dos eixos para obter o ajuste desejado. No furo H, o afastamento inferior é sempre zero.
+*   **Sistema Eixo-Base (h):** Ou Eixo Padrão, a tolerância do eixo permanece constante (identificada pela letra h) e fabricam-se furos com tolerâncias variáveis. No eixo h, o afastamento superior é sempre zero.
 
 ### **4. Relação com a Rugosidade**
 As fontes indicam que o controle dimensional e o acabamento superficial estão interligados. Uma regra prática para estimar a tolerância dimensional possível de se obter em um processo é dividir o valor da rugosidade (**Ra** em mícrons) por 40.
