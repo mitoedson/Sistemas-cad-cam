@@ -72,3 +72,9 @@ A dimensão nominal comum ao eixo e ao furo é 25 mm. A tolerância do furo vem 
 
 ### **4. Relação com a Rugosidade**
 As fontes indicam que o controle dimensional e o acabamento superficial estão interligados. Uma regra prática para estimar a tolerância dimensional possível de se obter em um processo é dividir o valor da rugosidade (**Ra** em mícrons) por 40.
+
+<a href="rugosidade.md">Leia sobre Rugosidade</a>
+
+
+
+
