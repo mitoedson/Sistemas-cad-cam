@@ -38,3 +38,5 @@ Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
 
 ### **6. Relação com Tolerâncias Dimensionais**
 As fontes indicam uma regra prática para estimar a tolerância dimensional possível de se obter: ela pode ser estimada dividindo-se o valor da rugosidade em mícron por 40. Por exemplo, uma rugosidade **Ra de 0,1 $\mu\text{m}$** equivaleria a uma tolerância dimensional de aproximadamente **$\pm 0,0025\text{ mm}$**.
+
+<a href="toleranciadimensional.md">Leia sobre Tolerâncias Dimensionais</a>
