@@ -10,16 +10,6 @@ O símbolo **⌭ 0,04** significa:
 
 ---
 
-## Diferença fundamental das questões anteriores
-
-| | Questões 1, 2, 3 | Questão 4 |
-|---|---|---|
-| **Tipo** | Orientação (paralelismo) | Forma (cilindricidade) |
-| **Datum** | Sempre tem referência | **Nunca tem** referência |
-| **Controla** | Relação entre elementos | O próprio elemento isolado |
-
----
-
 ## O que a cilindricidade controla
 
 É a tolerância mais completa para um cilindro — ela controla **tudo ao mesmo tempo**:
