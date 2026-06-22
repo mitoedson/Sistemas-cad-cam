@@ -23,4 +23,20 @@ Para medir essa peça usando a metrologia tradicional, você precisará de **doi
 3. **A Varredura:** O relógio comparador desliza na bancada e percorre o topo do segundo pino (da esquerda para a direita) buscando a maior e a menor medida ($TIR$).
 
 
+--
+
+### O detalhe crucial do desenho (A pegadinha do Datum)
+
+Olhe bem para onde a ponta do triângulo do **Datum A** está apontando na imagem. Ela não está tocando a linha externa do corpo da biela; ela está alinhada exatamente com a **linha de cota do diâmetro interno do furo**.
+
+Isso significa que o projetista definiu que o referencial é o **eixo do furo (vazio)**, e não o eixo da superfície externa (metal).
+
+### O que acontece se usarmos o bloco em V direto na peça?
+
+Se você apoiar a parte externa da biela direto no bloco em V, você estará usando a **superfície externa** como referência. Se o processo de fabricação não tiver uma concentricidade perfeita entre o diâmetro externo e o furo interno (o que é muito comum), o furo vai ficar desalinhado.
+
+* **Com o bloco em V direto na peça:** Você mede o paralelismo do furo superior em relação ao *contorno externo* da biela.
+* **Com o pino dentro do furo inferior:** O pino se ajusta perfeitamente ao furo interno. Quando você apóia os extremos desse pino nos blocos em V, você garante que é o **eixo real do furo** que está perfeitamente paralelo à bancada de granito.
+
+
 <hr>
