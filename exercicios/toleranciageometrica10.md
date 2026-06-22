@@ -71,4 +71,4 @@ Agora que passamos por todas, perceba a hierarquia das tolerâncias geométricas
 | **Orientação** | Paralelismo (Q1,2,3), Perpendicularidade (Q6,8), Angularidade (Q5) |
 | **Posição** | Concentricidade (Q9), Inclinação (Q10) |
 
-Tem alguma questão que gostaria de revisar ou aprofundar?
+<hr>
