@@ -18,7 +18,7 @@ Lendo o quadro, temos:
 
 ### 3. O que estamos analisando aqui?
 
-Diferente do batimento (que mede a superfície externa enquanto a peça gira), a concentricidade foca puramente no **centro geométrico** da peça.
+Diferente do batimento (que mede a superfície externa enquanto a peça gira), a concentricidade foca puramente no **centro geométrico** da peça. O instrumento mapeia os extremos das paredes do cilindro para calcular onde está o centro real de cada seção e ver o quanto ele se deslocou do eixo principal.
 
 Ao controlar a concentricidade do cilindro maior em relação ao Datum A, estamos analisando o **desalinhamento entre os eixos dos dois cilindros**.
 
