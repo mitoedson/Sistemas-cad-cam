@@ -24,5 +24,30 @@ Esta imagem é muito parecida com a do batimento axial circular $\nearrow$, mas 
 > * **Teoricamente:** A face plana do cilindro maior deve estar a exatamente $90^\circ$ em relação ao Eixo D. Toda a superfície real daquela face deve caber dentro de uma "gaiola" invisível formada por dois planos paralelos distantes $0,08\text{ mm}$ entre si, e que são perfeitamente perpendiculares ao Eixo D.
 > * **A diferença prática na medição:** No primeiro caso (batimento $\nearrow$), o relógio comparador ficava parado e líamos apenas círculos isolados enquanto a peça girava. Aqui, no controle de **perpendicularidade pura**, a peça normalmente fica estática e o relógio comparador (ou uma máquina de medir por coordenadas - MMC/CMM) varre a superfície plana movimentando-se radialmente para mapear a inclinação da face como um todo.
 > 
-> 
+
+Como as superfícies físicas nunca são perfeitamente planas (elas possuem micro-picos e vales devido às marcas da ferramenta de corte), esses planos da zona de tolerância são estabelecidos de forma matemática (ou virtual) a partir dos pontos extremos coletados na peça.
+
+Existem duas formas principais de materializar ou "criar virtualmente" esses planos na prática:
+
+---
+
+### 4.1. Medição Por Medição Computacional (MMC / Braço Articulado)
+
+Quando você usa uma Máquina de Medir por Coordenadas (MMC) ou um software associado a um scanner/palpador, o processo é puramente matemático:
+
+* O sensor coleta uma nuvem de pontos sobre a face real do cilindro maior.
+* O software calcula um **Plano Médio Matemático** (geralmente por mínimos quadrados) e o projeta a exatamente $90^\circ$ em relação ao Eixo D.
+* A partir desse plano ideal, o sistema identifica o **ponto mais alto (maior medida)** e o **ponto mais baixo (menor medida)** na direção do eixo.
+* A distância entre o plano virtual que passa pelo pico mais alto e o plano virtual que passa pelo vale mais profundo deve ser, no máximo, **$0,08\text{ mm}$**.
+
+### 4.2. Por Metrologia Tradicional (Placa de Desempeno e Relógio)
+
+Se você estivesse medindo isso em uma bancada sem computador, o processo "físico" simularia esses planos virtuais:
+
+* O eixo (Datum D) é alinhado perfeitamente paralelo a uma placa de desempeno de granito (que serve como nossa referência plana ultraprecisa).
+* Um relógio comparador montado em uma coluna corre ao longo da face plana da peça.
+* Você zera o relógio no ponto mais recuado (**menor medida**) e varre a superfície até achar o ponto mais saliente (**maior medida**).
+* A diferença geométrica entre o "zero" (plano inferior virtual) e o pico máximo (plano superior virtual) é a distância que não pode passar de $0,08\text{ mm}$.
+
+
 <hr>
