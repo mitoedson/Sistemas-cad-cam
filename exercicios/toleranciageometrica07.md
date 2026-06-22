@@ -45,6 +45,7 @@ Se você estiver em uma mesa de desempeno usando um relógio comparador fixo em 
 * **Padrão em Estrela (ou "X" com Diagonais):** Passa-se o relógio pelas duas diagonais principais da face, além de linhas cruzadas pelo centro. É excelente para pegar empenamentos em que as bordas da peça estão "levantadas" ou "caídas" (peças côncavas ou convexas).
 
 O relógio varre a face e busca a maior e menor medida de forma totalmente livre, sem nenhuma amarra ou obrigação com o resto da peça.
+
 ---
 
 ### 4.2. Com Máquina de Medir por Coordenadas (MMC / CMM)
