@@ -16,8 +16,6 @@ A seta do quadro aponta para o **furo superior** (menor). Estamos controlando o 
 
 ### O Grande Teste Prático: Quantos pinos precisamos aqui?
 
-Pensando na limitação física que você brilhantemente apontou na análise anterior ("*sem o pino, o relógio não conseguiria percorrer o furo...*"), como você faria a aferição dessa biela na bancada de granito?
-
 Para medir essa peça usando a metrologia tradicional, você precisará de **dois pinos de referência (mandris)** ao mesmo tempo. Veja a física do setup:
 
 1. **Materializando o Datum A (Furo Inferior):** Insere-se um pino retificado justo dentro do furo maior. Esse pino é apoiado sobre dois blocos em V em cima da bancada de granito. **Resultado:** O Eixo A agora está materializado e perfeitamente paralelo à bancada.
