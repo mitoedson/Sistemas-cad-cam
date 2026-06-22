@@ -2,62 +2,37 @@
 
 <img width="314" height="199" alt="image" src="https://github.com/user-attachments/assets/eb90b39b-a863-4b94-b5a0-48df637238e0" />
 
-O símbolo **◎ Ø0,03 A** significa:
+### 1. O Símbolo ($\odot$)
 
-- **◎** → tipo: **concentricidade**
-- **Ø0,03** → zona cilíndrica de diâmetro 0,03 mm
-- **A** → referência: o **eixo do cilindro menor** (datum A)
+Este símbolo com dois círculos concêntricos representa a tolerância de **Concentricidade** (ou Coaxialidade).
 
----
+### 2. O Quadro de Tolerância
 
-## O que a concentricidade controla
+Lendo o quadro, temos:
 
-Controla se dois cilindros na mesma peça compartilham o **mesmo eixo geométrico**.
-
-```
-        eixo datum A
-             │
-    ┌────────┼────────┐  cilindro maior
-    │   ┌────┼────┐   │  (elemento tolerado)
-    │   │    │    │   │
-    │   │    ●    │   │  eixo real deve ficar
-    │   │         │   │  dentro de Ø0,03 mm
-    │   └─────────┘   │
-    └─────────────────┘
-             │
-         datum A
-      (cilindro menor)
-```
+* **Símbolo ($\odot$):** Concentricidade.
+* **Campo de Tolerância ($\varnothing\text{ 0,03}$):** Note que agora existe um símbolo de **diâmetro ($\varnothing$)** antes do valor. Isso significa que a zona de tolerância é um espaço cilíndrico de diâmetro $0,03\text{ mm}$.
+* **Referência (A):** O eixo de rotação ideal do cilindro menor continua sendo o nosso **Datum A**.
 
 ---
 
-## Diferença em relação às questões anteriores
+### 3. O que estamos analisando aqui?
 
-| | Paralelismo ∥ | Concentricidade ◎ |
-|---|---|---|
-| **Controla** | Direção do eixo | Posição do eixo |
-| **Pergunta** | "Os eixos são paralelos?" | "Os eixos coincidem?" |
-| **Zona** | Dois planos | Cilindro Ø0,03 |
+Diferente do batimento (que mede a superfície externa enquanto a peça gira), a concentricidade foca puramente no **centro geométrico** da peça.
 
----
+Ao controlar a concentricidade do cilindro maior em relação ao Datum A, estamos analisando o **desalinhamento entre os eixos dos dois cilindros**.
 
-## Por que a zona é cilíndrica (Ø)?
+> **Interpretação teórica e prática:**
+> * Imagine o eixo central perfeito do cilindro menor (Eixo A).
+> * Agora, imagine uma "linha invisível" que passa bem no centro do cilindro maior (o eixo dele).
+> * A tolerância de concentricidade exige que o eixo do cilindro maior esteja contido dentro de um cilindro imaginário de diâmetro **$0,03\text{ mm}$** cujo centro é o próprio Eixo A.
+> 
+> 
+> Ou seja, avalia-se a **coaxialidade**: o quanto o centro do cilindro maior está "deslocado" ou "excluido" para o lado em relação ao centro do cilindro menor.
 
-Assim como na questão 1 — porque o desvio do eixo pode ocorrer em **qualquer direção** ao redor do eixo ideal. O prefixo Ø garante que todas as direções sejam controladas igualmente.
+### Por que esse controle é vital?
 
----
+Se essa peça girar em alta velocidade e o cilindro maior estiver descentralizado (excentrado), o componente funcionará como um "contrapeso desgovernado". Isso gerará uma enorme força centrífuga desalinhada, provocando **vibração severa por desbalanceamento dinâmico** e destruindo os mancais ou rolamentos do sistema.
 
-## Como verificar na prática
 
-1. Apoiar a peça pelo **cilindro menor** (datum A) nos prismas V
-2. Girar a peça sobre o próprio eixo
-3. Deslizar o comparador sobre a **superfície do cilindro maior**
-4. A variação durante a rotação não pode ultrapassar **Ø0,03 mm**
-
----
-
-## Ponto importante
-
-A concentricidade é uma das tolerâncias mais difíceis de medir com comparador simples — pois Ø0,03 mm é extremamente pequeno e a rotação da peça introduz erros. Na prática, a **MMC é quase sempre necessária** para tolerâncias tão apertadas.
-
-Quer continuar para a questão 10?
+<hr>
