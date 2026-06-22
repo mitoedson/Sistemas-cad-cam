@@ -18,7 +18,7 @@ Lendo a especificação:
 
 ### 3. A Sacada Intermediária: Perpendicularidade vs. Batimento Axial
 
-Esta imagem é muito parecida com a primeira que analisamos (a do batimento axial circular $\nearrow$), mas com uma diferença crucial na **forma como o controle de qualidade valida a peça**.
+Esta imagem é muito parecida com a do batimento axial circular $\nearrow$, mas com uma diferença crucial na **forma como o controle de qualidade valida a peça**.
 
 > **O que estamos a analisar aqui?**
 > * **Teoricamente:** A face plana do cilindro maior deve estar a exatamente $90^\circ$ em relação ao Eixo D. Toda a superfície real daquela face deve caber dentro de uma "gaiola" invisível formada por dois planos paralelos distantes $0,08\text{ mm}$ entre si, e que são perfeitamente perpendiculares ao Eixo D.
