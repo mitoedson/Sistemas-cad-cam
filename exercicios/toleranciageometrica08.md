@@ -49,5 +49,6 @@ Se você estivesse medindo isso em uma bancada sem computador, o processo "físi
 * Você zera o relógio no ponto mais recuado (**menor medida**) e varre a superfície até achar o ponto mais saliente (**maior medida**).
 * A diferença geométrica entre o "zero" (plano inferior virtual) e o pico máximo (plano superior virtual) é a distância que não pode passar de $0,08\text{ mm}$.
 
+O relógio varre a face plana, mas os valores máximos e mínimos são comparados dentro de uma estrutura rigidamente travada a $90^\circ$ do eixo de referência.
 
 <hr>
