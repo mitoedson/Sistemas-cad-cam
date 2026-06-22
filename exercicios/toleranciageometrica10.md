@@ -2,46 +2,36 @@
 
 <img width="354" height="163" alt="image" src="https://github.com/user-attachments/assets/a9b41dce-063b-4707-a54d-257cbad9b4ca" />
 
-O símbolo **↗ 0,1 A** significa:
 
-- **↗** → tipo: **batimento circular**
-- **0,1** → variação máxima permitida de **0,1 mm**
-- **A** → referência: o **eixo do cilindro** (datum A)
+### 1. O Referencial (Datum)
 
----
+* **Elemento:** O quadrado com a letra **A** conectado à superfície cilíndrica menor.
+* **Significado:** Ele estabelece o **Eixo de Referência A** (eixo de rotação ideal do cilindro menor). Toda a medição será feita tendo como base que a peça gira perfeitamente em torno desse eixo.
 
-## O que o batimento circular controla
+### 2. O Quadro de Tolerância
 
-Controla a variação da superfície quando a peça é **girada 360°** em torno do datum A. Combina numa única medição vários erros simultaneamente:
+O retângulo da direita traz três informações cruciais, lidas da esquerda para a direita:
 
-| Erro detectado | Descrição |
-|---|---|
-| **Excentricidade** | Eixo deslocado do centro |
-| **Ovalização** | Seção não circular |
-| **Conicidade** | Diâmetro variando ao longo |
+* **Símbolo ($\nearrow$):** Representa o **Batimento Circular** (*Circular Runout*).
+* **Valor (0,1):** É o campo ou zona de tolerância expresso em milímetros (0,1 mm).
+* **Referência (A):** Indica que o controle é feito em relação ao Datum A.
 
 ---
 
-## Diferença para a concentricidade (Q9)
+### 3. Interpretação Prática (O que isso significa?)
 
-| | Concentricidade ◎ | Batimento ↗ |
-|---|---|---|
-| **Mede** | Só o eixo | Superfície inteira |
-| **Como** | MMC | Comparador simples |
-| **Inclui erros de forma** | Não | Sim |
+Como a seta indicativa do quadro de tolerância está apontando diretamente para uma **face plana perpendicular ao eixo** (a face do ressalto maior), estamos falando especificamente de um **Batimento Axial Circular**.
 
----
+> **Na prática, durante o controle de qualidade:**
+> 1. A peça é fixada e rotacionada $360^\circ$ em torno do **Eixo A**.
+> 2. O pontal de um relógio comparador é posicionado perpendicularmente contra a face plana indicada, em uma determinada distância do centro (um raio específico).
+> 3. Ao dar uma volta completa na peça, a variação máxima registrada no relógio comparador (a diferença entre o ponto mais alto e o mais baixo) **não pode ultrapassar 0,1 mm**.
+> 4. Esse teste deve ser repetido em diferentes raios da mesma face, e em nenhum deles a variação pode ser maior que 0,1 mm.
+> 
+> 
 
-## Como verificar na prática
+O desenho à direita da face (com as duas linhas verticais afastadas por `0,1`) ilustra justamente a **zona de tolerância**: a face real da peça deve estar contida entre dois planos paralelos distantes 0,1 mm entre si, limitando tanto o erro de circularidade (durante o giro) quanto o erro de perpendicularidade dessa face em relação ao eixo de referência.
 
-1. Apoiar a peça pelo **datum A** nos prismas V
-2. Encostar o comparador na **superfície a medir**
-3. **Girar a peça 360°** e registrar a variação
-4. A diferença entre maior e menor leitura não pode ultrapassar **0,1 mm**
-
-É uma das tolerâncias **mais simples de medir** na prática — basta girar a peça e ler o comparador!
-
-Tem alguma questão que gostaria de revisar?
-
+Ficou claro como o relógio comparador faria essa leitura na bancada, ou quer detalhar a diferença entre o batimento circular e o total?
 
 <hr>
