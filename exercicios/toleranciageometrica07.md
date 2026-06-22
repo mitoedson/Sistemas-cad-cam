@@ -2,61 +2,33 @@
 
 <img width="337" height="169" alt="image" src="https://github.com/user-attachments/assets/18de52a5-1b3f-4286-b830-72ee7e9ef604" />
 
-O símbolo **◻ 0,05** significa:
+### 1. O Símbolo ($\square$)
 
-- **◻** → tipo: **planicidade**
-- **0,05** → zona entre **dois planos paralelos** afastados 0,05 mm
-- **Sem referência** → característica de **forma pura**, assim como a cilindricidade da questão 4
+O paralelogramo inclinado representa o desvio de forma de **Planicidade**.
 
----
+### 2. O Quadro de Tolerância (A grande diferença!)
 
-## Relação com as questões anteriores
+Se olhar com atenção para o quadro, vai notar algo muito importante:
 
-| | Questão 4 | Questão 7 |
-|---|---|---|
-| **Tipo** | Cilindricidade | Planicidade |
-| **Elemento** | Superfície cilíndrica | Superfície plana |
-| **Datum** | Não tem | Não tem |
-| **Controla** | O cilindro em si | O plano em si |
+* **Símbolo ($\square$):** Planicidade.
+* **Valor (0,05):** A zona de tolerância é de $0,05\text{ mm}$.
+* **Falta o Referencial (Datum):** Não existe nenhuma letra (**A**, **D**, etc.) no lado direito do quadro.
+
+**Por que não há referencial?**
+Porque a planicidade é uma tolerância de **forma**. Ela avalia a superfície por si mesma. Não importa se o bloco está torto, inclinado ou desalinhado em relação ao resto da peça; a única coisa que importa é se *aquela face específica* é lisa e plana o suficiente dentro dos seus próprios limites.
 
 ---
 
-## O que a planicidade controla
+### 3. Como funciona esse "sanduíche virtual" aqui?
 
-A superfície deve estar contida entre dois planos paralelos afastados **0,05 mm** — sem se preocupar com orientação ou posição em relação a outras superfícies.
+A lógica dos planos virtuais criados por si no exemplo anterior aplica-se aqui perfeitamente, mas de forma flutuante:
 
-```
-══════════════════  plano superior
-   superfície real
-   deve ficar aqui       0,05 mm
-══════════════════  plano inferior
+* A zona de tolerância é definida por **dois planos perfeitamente paralelos e virtuais, afastados entre si exatamente $0,05\text{ mm}$**.
+* A superfície real da peça (com os seus picos de maquinagem e vales) tem de conseguir caber inteiramente dentro desse espaço de $0,05\text{ mm}$.
+* A diferença fundamental é que estes dois planos virtuais não estão amarrados a nenhum eixo ou ângulo de $90^\circ$. Eles podem "rodar" e ajustar-se geometricamente para se adaptarem da melhor forma possível à peça real, tentando conter todos os pontos entre a maior e a menor medida.
 
-(os dois planos são paralelos entre si
-mas não têm referência externa)
-```
+### Como seria medida na bancada?
 
----
+Normalmente, apoia-se a face a ser medida sobre três pontos fixos (ou manipula-se matematicamente numa MMC) para criar um plano de referência flutuante. O relógio comparador passa por toda a superfície: a diferença entre o pico mais alto (maior medida) e o vale mais profundo (menor medida) não pode exceder os $0,05\text{ mm}$.
 
-## Diferença importante — planicidade vs paralelismo
-
-Essa é uma confusão muito comum:
-
-| | Planicidade ◻ | Paralelismo ∥ |
-|---|---|---|
-| **Datum** | Não tem | Sempre tem |
-| **Controla** | A superfície isolada | Relação com outra superfície |
-| **Pergunta** | "A superfície é plana?" | "A superfície é paralela a X?" |
-
-Uma superfície pode ser **paralela mas não plana** — por exemplo, ondulada mas sempre à mesma distância do datum. A planicidade garante que ela seja realmente plana.
-
----
-
-## Como verificar na prática
-
-1. Apoiar a peça em **3 apoios reguláveis** (não na mesa diretamente — senão estaria criando um datum!)
-2. Deslizar o comparador sobre toda a superfície
-3. A variação total não pode ultrapassar **0,05 mm**
-
-Os 3 apoios são importantes pois qualquer superfície real toca um plano em apenas 3 pontos — apoiar em 4 ou mais pontos poderia forçar a peça e distorcer a leitura.
-
-Quer continuar para a questão 8?
+<hr>
