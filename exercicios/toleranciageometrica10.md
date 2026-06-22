@@ -42,7 +42,7 @@ Na metrologia, o termo técnico para o que o relógio está medindo em cada cír
 
 Quando o relógio comparador monitora essa face plana enquanto a peça gira, ele está verificando se a superfície atende a dois requisitos cruciais:
 
-O relógio fica parado em um raio enquanto a peça gira $360^\circ$. O $TIR$ avalia o "empenamento" dinâmico daquela pista circular.
+O relógio fica parado em um raio enquanto a peça gira $360^\circ$. O $TIR$ avalia o "empenamento" dinâmico daquela pista circular. ($$TIR = \text{Valor Máximo} - \text{Valor Mínimo}$$)
 
 * **Falta de Perpendicularidade (Inclinação):** Avalia se a face plana está perfeitamente a $90^\circ$ em relação ao eixo do cilindro menor. Se a face estiver "torta" ou inclinada, a ponta do relógio será empurrada para fora e para dentro a cada volta.
 * **Erros de Forma (Ondulação/Empenamento):** Avalia se a superfície da face possui irregularidades locais, como deformações, concavidades ou convexidades ao longo do caminho circular percorrido pelo medidor.
