@@ -2,24 +2,27 @@
 
 <img width="218" height="209" alt="image" src="https://github.com/user-attachments/assets/389e0c13-640d-43b7-b7df-2d32ab40455b" />
 
-**Ø0,03 A** — Tolerância de *paralelismo* com zona cilíndrica de Ø0,03 mm em relação à referência A (eixo)
+#### 1. O Quadro de Tolerância ($//\ | \ \varnothing 0,03\ |\ A$)
 
-- **∥** → tipo: **paralelismo**
-- **Ø0,03** → zona de tolerância é um **cilindro de diâmetro 0,03 mm**
-- **A** → referência: a **superfície plana inferior** (datum A)
+* **Símbolo ($//$):** Paralelismo.
+* **Zona de Tolerância ($\varnothing 0,03$):** Atenção ao detalhe! Há o símbolo de diâmetro ($\varnothing$). Isso significa que a zona de tolerância não é um "sanduíche" de duas placas paralelas, mas sim um **tubo cilíndrico virtual de diâmetro $0,03\text{ mm}$**.
+* **Referencial (Datum A):** O triângulo invertido está acoplado à linha de cota do **furo inferior**. Portanto, o Datum A é o **eixo geométrico ideal do furo maior**.
 
-O eixo do furo superior deve ficar paralelo ao eixo do furo inferior (que é a referência). Portanto, o eixo do furo superior deve estar compreendido dentro de uma zona cilíndrica de diâmetro t, paralela ao eixo do furo inferior, que constitui a reta de referência.
+#### 2. O que estamos controlando?
 
-<img width="310" height="182" alt="image" src="https://github.com/user-attachments/assets/146a0785-17c4-49e3-8aa2-6a68099c1c11" />
-
-## Interpretação geométrica
-
-O **eixo** do elemento cilíndrico (o pino/eixo saliente) deve estar **completamente contido dentro de um cilindro imaginário de Ø0,03 mm**, sendo que esse cilindro é **paralelo ao datum A**.
-
-## Como verificar na prática
-
-1. Apoiar a peça sobre o **datum A** em uma mesa de desempeno
-2. Medir o desvio do eixo com um relógio comparador ao longo do comprimento
-3. O eixo real não pode desviar mais que **Ø0,03 mm** em relação à direção paralela a A
+A seta do quadro aponta para o **furo superior** (menor). Estamos controlando o paralelismo entre os eixos dos dois furos. O eixo real do furo menor precisa caber inteiramente dentro daquele tubo virtual de $\varnothing 0,03\text{ mm}$ que corre perfeitamente paralelo ao Eixo A.
 
 ---
+
+### O Grande Teste Prático: Quantos pinos precisamos aqui?
+
+Pensando na limitação física que você brilhantemente apontou na análise anterior ("*sem o pino, o relógio não conseguiria percorrer o furo...*"), como você faria a aferição dessa biela na bancada de granito?
+
+Para medir essa peça usando a metrologia tradicional, você precisará de **dois pinos de referência (mandris)** ao mesmo tempo. Veja a física do setup:
+
+1. **Materializando o Datum A (Furo Inferior):** Insere-se um pino retificado justo dentro do furo maior. Esse pino é apoiado sobre dois blocos em V em cima da bancada de granito. **Resultado:** O Eixo A agora está materializado e perfeitamente paralelo à bancada.
+2. **Materializando o Eixo a ser Medido (Furo Superior):** Como o relógio comparador não entra no furo menor, insere-se um **segundo pino retificado** dentro dele. Este pino joga o eixo real do furo superior para fora da peça.
+3. **A Varredura:** O relógio comparador desliza na bancada e percorre o topo do segundo pino (da esquerda para a direita) buscando a maior e a menor medida ($TIR$).
+
+
+<hr>
