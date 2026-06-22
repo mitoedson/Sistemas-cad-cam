@@ -25,5 +25,4 @@ Esta imagem é muito parecida com a do batimento axial circular $\nearrow$, mas 
 > * **A diferença prática na medição:** No primeiro caso (batimento $\nearrow$), o relógio comparador ficava parado e líamos apenas círculos isolados enquanto a peça girava. Aqui, no controle de **perpendicularidade pura**, a peça normalmente fica estática e o relógio comparador (ou uma máquina de medir por coordenadas - MMC/CMM) varre a superfície plana movimentando-se radialmente para mapear a inclinação da face como um todo.
 > 
 > 
-
-A sua intuição estava certa: os erros de fabricação que provocam a falta de perpendicularidade aqui são exatamente os mesmos que geram o batimento axial (como o desalinhamento da ferramenta no torno ou o empenamento da peça). A diferença está apenas em como a norma isola o desvio de orientação (perpendicularidade) sem necessariamente focar na dinâmica de rotação contínua (batimento).
+<hr>
