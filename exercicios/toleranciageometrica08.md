@@ -2,54 +2,28 @@
 
 <img width="274" height="151" alt="image" src="https://github.com/user-attachments/assets/745a5338-c3db-4ff0-b530-09950cc90811" />
 
-O símbolo **⊥ 0,08 D** significa:
+### 1. O Símbolo ($\perp$)
 
-- **⊥** → tipo: **perpendicularidade**
-- **0,08** → zona entre **dois planos paralelos** afastados 0,08 mm
-- **D** → referência: o **eixo do cilindro** (datum D)
+O símbolo com uma linha horizontal e outra perfeitamente vertical representa a tolerância de **Perpendicularidade**.
 
----
+### 2. O Quadro de Tolerância
 
-## Diferença em relação à questão 6
+Lendo a especificação:
 
-Aqui o datum muda — e isso muda tudo na forma de medir.
-
-| | Questão 6 | Questão 8 |
-|---|---|---|
-| **Datum** | Superfície plana (base) | Eixo do cilindro |
-| **Elemento tolerado** | Superfície lateral | Superfície plana lateral |
-| **Materialização** | Mesa de desempeno | Mandril + prismas V |
+* **Símbolo ($\perp$):** Perpendicularidade.
+* **Campo de Tolerância (0,08):** A zona de tolerância é um espaço delimitado por dois planos paralelos afastados em $0,08\text{ mm}$. (Note que não há o símbolo $\varnothing$ aqui, pois estamos a controlar uma superfície plana, não um cilindro).
+* **Referência (D):** O referencial mudou de nome, agora chama-se **Datum D**, que é o eixo geométrico do cilindro menor.
 
 ---
 
-## Interpretação geométrica
+### 3. A Sacada Intermediária: Perpendicularidade vs. Batimento Axial
 
-A **superfície plana lateral** deve estar contida entre dois planos afastados **0,08 mm**, sendo esses planos **perpendiculares ao eixo do cilindro** (datum D).
+Esta imagem é muito parecida com a primeira que analisamos (a do batimento axial circular $\nearrow$), mas com uma diferença crucial na **forma como o controle de qualidade valida a peça**.
 
-```
-      eixo datum D
-          │
-          │
-   ───────┼───────  plano 1  ↑
-          │                  │ 0,08 mm
-   ───────┼───────  plano 2  ↓
-          │
-     [cilindro]
-```
+> **O que estamos a analisar aqui?**
+> * **Teoricamente:** A face plana do cilindro maior deve estar a exatamente $90^\circ$ em relação ao Eixo D. Toda a superfície real daquela face deve caber dentro de uma "gaiola" invisível formada por dois planos paralelos distantes $0,08\text{ mm}$ entre si, e que são perfeitamente perpendiculares ao Eixo D.
+> * **A diferença prática na medição:** No primeiro caso (batimento $\nearrow$), o relógio comparador ficava parado e líamos apenas círculos isolados enquanto a peça girava. Aqui, no controle de **perpendicularidade pura**, a peça normalmente fica estática e o relógio comparador (ou uma máquina de medir por coordenadas - MMC/CMM) varre a superfície plana movimentando-se radialmente para mapear a inclinação da face como um todo.
+> 
+> 
 
----
-
-## Como verificar na prática
-
-1. Inserir o **mandril de precisão** no cilindro para materializar o eixo (datum D)
-2. Apoiar o mandril nos **prismas V** sobre a mesa
-3. Deslizar o comparador sobre a **superfície plana lateral**
-4. A variação não pode ultrapassar **0,08 mm**
-
----
-
-## Ponto de atenção
-
-Como o datum D é um **eixo**, o procedimento é idêntico ao que discutimos nas questões anteriores — o mandril é indispensável para materializar a referência antes de qualquer medição.
-
-Quer continuar para a questão 9?
+A sua intuição estava certa: os erros de fabricação que provocam a falta de perpendicularidade aqui são exatamente os mesmos que geram o batimento axial (como o desalinhamento da ferramenta no torno ou o empenamento da peça). A diferença está apenas em como a norma isola o desvio de orientação (perpendicularidade) sem necessariamente focar na dinâmica de rotação contínua (batimento).
