@@ -14,6 +14,8 @@
 <img width="600" alt="1004_10" src="https://github.com/user-attachments/assets/3ea0791b-942f-4994-985d-cda482e7f577" />
 <img width="600" alt="1004_11" src="https://github.com/user-attachments/assets/dcafef91-42f7-473f-90d0-3d612d8454fc" />
 <img width="600" alt="1004_12" src="https://github.com/user-attachments/assets/bc759127-052f-4a76-85b1-c071941e4ae4" />
+<h4>Torneamento / Desbaste</h4>
+
 
 <hr>
 
