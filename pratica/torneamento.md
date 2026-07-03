@@ -15,6 +15,22 @@
 <img width="600" alt="1004_11" src="https://github.com/user-attachments/assets/dcafef91-42f7-473f-90d0-3d612d8454fc" />
 <img width="600" alt="1004_12" src="https://github.com/user-attachments/assets/bc759127-052f-4a76-85b1-c071941e4ae4" />
 <h4>Torneamento / Desbaste</h4>
+<img width="600" alt="1004_17" src="https://github.com/user-attachments/assets/e191b951-dfdf-4a9b-a1bc-7c1039d1d310" />
+<img width="600" alt="1004_13a" src="https://github.com/user-attachments/assets/d7ae53f1-bb4c-42b2-9a5f-6ccadabd98e8" />
+<img width="600" alt="1004_13" src="https://github.com/user-attachments/assets/1aa981ac-2035-454f-811c-4d1478a52519" />
+<img width="600" alt="1004_14" src="https://github.com/user-attachments/assets/f1e363c9-0115-40bd-988a-6cfa4486345c" />
+<img width="600" alt="1004_15" src="https://github.com/user-attachments/assets/d714c3ee-3199-4ea7-b9e0-b609159b1ded" />
+<img width="600" alt="1004_16" src="https://github.com/user-attachments/assets/a0a46a53-b976-46e7-8708-c777c2095c22" />
+<h4>Torneamento / Acabamento</h4>
+<img width="600" alt="1004_18" src="https://github.com/user-attachments/assets/8f08817e-be00-45bb-97a0-ebad7b80b308" />
+<img width="600" alt="1004_19" src="https://github.com/user-attachments/assets/4d758fa6-6a90-47d2-8e97-fe639433fa7f" />
+<img width="600" alt="1004_20" src="https://github.com/user-attachments/assets/07ad34ad-766e-4229-9746-9c57a413d645" />
+<h4>Furação</h4>
+<img width="600" alt="1004_21" src="https://github.com/user-attachments/assets/45baf2ef-ca9f-45fb-a0db-d2754d65f7f6" />
+<img width="600" alt="1004_22" src="https://github.com/user-attachments/assets/27168c61-b71f-4364-ba2d-cf84f592227e" />
+<img width="600" alt="1004_23" src="https://github.com/user-attachments/assets/c837c0d2-b284-4a3d-ab9e-1d2247195021" />
+<img width="600" alt="1004_24b" src="https://github.com/user-attachments/assets/143f6d1a-db23-4db1-bfaa-c76adcfd548e" />
+<img width="600" alt="1004_24" src="https://github.com/user-attachments/assets/1ed35c3e-2d2f-4b10-b545-2fe96aae8155" />
 
 
 <hr>
