@@ -1,5 +1,6 @@
 <h2>SIMULAÇÕES DE PROCESSOS DE TORNEAMENTO</h2>
 
+<h3>Peça 1</h4>
 <h4>Configuração</h4>
 <img width="600" alt="1004_1" src="https://github.com/user-attachments/assets/c5f328a5-9c89-437f-98b4-ae8c8026de21" />
 <img width="600" alt="1004_2" src="https://github.com/user-attachments/assets/14b29029-9d10-463a-a305-fb5756752e4f" />
@@ -34,12 +35,15 @@
 
 
 <hr>
-
+<h3>Peça 2</h4>
+<h4>Configuração</h4>
 <img width="600" alt="1005_5" src="https://github.com/user-attachments/assets/bc24f8f1-2e74-4d57-a7ac-ba4de939a2b6" />
 <img width="600" alt="1005_6" src="https://github.com/user-attachments/assets/c16741c6-e9e7-422e-9ba7-b181eb3eb28b" />
 
 
 <hr>
+<h3>Peça 3</h4>
+<h4>Configuração</h4>
 <img width="600" alt="1006_5" src="https://github.com/user-attachments/assets/351ea182-28d0-49b0-a500-10b6daaf6b1d" />
 <img width="600" alt="1006_6" src="https://github.com/user-attachments/assets/d564dc14-1d29-4e3c-8f57-3deb64f13c15" />
 
