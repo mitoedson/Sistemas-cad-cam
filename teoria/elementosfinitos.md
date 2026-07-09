@@ -28,4 +28,7 @@ O resultado é uma aproximação do comportamento real da peça — e quanto mai
 
 É um pouco como aproximar uma curva com muitos segmentos de reta pequenos: cada segmento individual é uma reta simples, mas juntos conseguem seguir uma curva complicada com bastante fidelidade — desde que os segmentos sejam suficientemente pequenos.
 
-Queres que veja também como se escolhe o tamanho e tipo de malha, ou como isto se aplica a um caso concreto (por exemplo, análise estrutural de uma peça mecânica)?
+
+
+
+
