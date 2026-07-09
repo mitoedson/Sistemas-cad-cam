@@ -16,8 +16,8 @@ Essa integração reduz erros, aumenta a produtividade e permite fabricar peças
 
 <p>
 <h3>Conteúdo programático</h3>
-
+<ul>
 <h4>Programação CNC - Torno</h4>
 <a href="/teoria/programacaocnc.md">Teoria</a><br>
-
+</ul>
 
