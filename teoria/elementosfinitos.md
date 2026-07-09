@@ -8,7 +8,7 @@ Imagina que queres calcular como uma peça complexa — por exemplo, o chassis d
 
 A solução: **dividir a peça em muitos pedaços pequenos e simples** — triângulos, quadrados, tetraedros, cubos — chamados **elementos finitos**. Cada elemento é pequeno e regular o suficiente para que as equações físicas sejam fáceis de resolver dentro dele.
 
-Vou mostrar-te visualmente como isto funciona.## Os dois ingredientes principais
+## Os dois ingredientes principais
 
 **Elementos** — as pequenas peças em que a peça é dividida (triângulos ou quadriláteros em 2D, tetraedros ou hexaedros em 3D). Cada elemento tem uma forma simples, o que torna as equações de física resolvíveis com precisão matemática dentro dele.
 
