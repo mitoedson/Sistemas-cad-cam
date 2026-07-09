@@ -1,0 +1,50 @@
+<h2>Programação CNC - Torno</h2>
+
+<img width="546" height="537" alt="image" src="https://github.com/user-attachments/assets/afb42222-30e2-4741-af70-1bd976820a6c" />
+
+**P1 (referência: ponto zero da máquina):**
+
+**P2 a P8 (referência: ponto zero da peça):**
+
+| Ponto | X (Ø) | Z | I | K | R | 
+|---|---|---|--|--|--|
+| P1 | 240 | 300 |   |   |   |
+| P2 |  0 | 3 |   |   |   |
+| P3 |  0 | 0 |   |   |   |
+| P4 | 10 | 0 |   |   |   |
+| P5 | 30 | -10 | 10 | 0 | 10 |
+| P6 | 30 | -30 |   |   |   |
+| P7 | 50 | -40 | 0 | -10 | 10 |
+| P8 | 55 | -40 |   |   |   |
+
+<h3>Programação CNC</h3>
+
+<pre>
+O0003 (PROGRAMA NÚMERO 0003)
+N05 G53 G00 X240 Z300 T00 ; (DESLOCAMENTO A PARTIR DO PONTO ZERO MÁQUINA, AVANÇO RÁPIDO, COORDENADAS X E Z, SEM FERRAMENTAS)
+N10 G54 ; (ATIVA PRIMEIRO DESLOCAMENTO DE PONTO ZERO)
+N15 T0101 ; (ATIVA FERRAMENTA 0101)
+N20 G96 S400 M4 ; (VALOR DE GIRO EM VELOCIDADE DE CORTE CONSTANTE, LIGA O EIXO ÁRVORE NO SENTIDO ANTI-HORÁRIO)
+N25 G92 S5000 ; (LIMITAÇÃO ROTAÇÃO DO FUSO)
+N30 G00 X0 Z3 M07 ; (AVANÇO RÁPIDO, COORDENADAS X E Z, LIGA O ÓLEO REFRIGERANTE)
+N35 G01 Z0 F0.3 ; (INTERPOLAÇÃO LINEAR COM AVANÇO PROGRAMADO, COORDENADAS X E Z, AVANÇO DE 0,3mm POR ROTAÇÃO)
+N40 G01 X10 ;
+N45 G02 X30 Z-10 I10 Z0 ; (OU: N40 G01 X30 Z-10 R10)
+N50 G01 Z-30 ;
+N55 G03 X50 Z-40 I0 K-10 ; (OU: N55 G03 X50 Z-40 R10)
+N60 G01 Z55 ;
+N65 G53 G00 X240 Z300 T00 M09 ; (DESLOCAMENTO A PARTIR DO PONTO ZERO MÁQUINA, AVANÇO RÁPIDO, COORDENADAS X E Z, SEM FERRAMENTAS, DESLIGA O ÓLEO REFRIGERANTE)
+N70 M30 ; (FIM)
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
