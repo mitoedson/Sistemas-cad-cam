@@ -18,6 +18,7 @@ Essa integração reduz erros, aumenta a produtividade e permite fabricar peças
 <h3>Conteúdo programático</h3>
 <ul>
 <h4>Programação CNC - Torno</h4>
+A programação CNC (Comando Numérico Computadorizado) para tornos é um processo matemático e técnico que permite o controle preciso dos movimentos da máquina-ferramenta por meio de um computador dedicado.<br>
 <a href="/teoria/programacaocnc.md">Teoria</a><br>
 </ul>
 
