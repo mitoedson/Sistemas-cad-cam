@@ -13,3 +13,11 @@ O CAM traduz o modelo 3D em movimentos reais de máquina, otimizando velocidades
 Ideia → CAD (modelagem da peça) → CAM (geração do código) → Máquina CNC (fabricação)
 
 Essa integração reduz erros, aumenta a produtividade e permite fabricar peças de altíssima complexidade geométrica com repetibilidade e precisão, coisas que seriam inviáveis manualmente. Por isso o CAD/CAM é fundamental em indústrias como a aeroespacial, automotiva, médica e de moldes.
+
+<p>
+<li>Conteúdo programático</li>
+
+<h3>Programação CNC - Torno</h3>
+<a href="/teoria/programacaocnc.md">Teoria</a><br>
+
+
