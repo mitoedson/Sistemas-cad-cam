@@ -15,9 +15,9 @@ Ideia → CAD (modelagem da peça) → CAM (geração do código) → Máquina C
 Essa integração reduz erros, aumenta a produtividade e permite fabricar peças de altíssima complexidade geométrica com repetibilidade e precisão, coisas que seriam inviáveis manualmente. Por isso o CAD/CAM é fundamental em indústrias como a aeroespacial, automotiva, médica e de moldes.
 
 <p>
-<li>Conteúdo programático</li>
+<h3>Conteúdo programático</h3>
 
-<h3>Programação CNC - Torno</h3>
+<h4>Programação CNC - Torno</h4>
 <a href="/teoria/programacaocnc.md">Teoria</a><br>
 
 
