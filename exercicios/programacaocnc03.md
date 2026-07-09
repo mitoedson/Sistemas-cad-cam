@@ -4,17 +4,18 @@
 
 **P1 (referência: ponto zero da máquina):**
 
-**P2 a P7 (referência: ponto zero da peça):**
+**P2 a P8 (referência: ponto zero da peça):**
 
-| Ponto | X (Ø) | Z |
-|---|---|---|
-| P1 | 240 | 300 |
-| P2 |  0 | 3 |
-| P3 |  0 | 0 |
-| P4 | 30 | 0 |
-| P5 | 30 | -30 |
-| P6 | 50 | -40 |
-| P7 | 53 | -40 |
+| Ponto | X (Ø) | Z | I | K | 
+|---|---|---|--|--|
+| P1 | 240 | 300 |   |   |
+| P2 |  0 | 3 |   |   |
+| P3 |  0 | 0 |   |   |
+| P4 | 10 | 0 |   |   |
+| P5 | 30 | -10 | 10 | 0 |
+| P6 | 30 | -30 |   |   |
+| P7 | 50 | -40 | 0 | -10 |
+| P8 | 53 | -40 |   |   |
 
 <h3>Programação CNC</h3>
 
