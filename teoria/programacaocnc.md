@@ -1,8 +1,6 @@
 <h2>Programação CNC - Torno</h2>
 
-Com base nos materiais fornecidos, a **programação CNC** (Comando Numérico Computadorizado) para tornos é um processo matemático e técnico que permite o controle preciso dos movimentos da máquina-ferramenta por meio de um computador dedicado.
-
-Abaixo, apresento uma análise detalhada dos pilares da programação CNC conforme as fontes:
+A **programação CNC** (Comando Numérico Computadorizado) para tornos é um processo matemático e técnico que permite o controle preciso dos movimentos da máquina-ferramenta por meio de um computador dedicado.
 
 ### 1. Fundamentos e Normas de Programação
 A programação segue normas internacionais como a **ISO 6983**, que padroniza o formato das instruções para garantir a intercambiabilidade de programas entre diferentes máquinas, e a **ISO 841**, que define a nomenclatura de eixos e movimentos. 
