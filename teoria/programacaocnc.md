@@ -4,7 +4,7 @@ A **programação CNC** (Comando Numérico Computadorizado) para tornos é um pr
 
 ### 1. Fundamentos e Normas de Programação
 A programação segue normas internacionais como a **ISO 6983**, que padroniza o formato das instruções para garantir a intercambiabilidade de programas entre diferentes máquinas, e a **ISO 841**, que define a nomenclatura de eixos e movimentos. 
-*   **Regra da Mão Direita:** Utilizada para identificar o sentido positivo dos eixos.
+*   **Regra da Mão Direita (Dextrógiro):** Utilizada para identificar o sentido positivo dos eixos.
 *   **Eixos do Torno:** O deslocamento ocorre no plano **XZ**, onde **X** refere-se ao eixo transversal (diâmetro ou raio) e **Z** ao eixo longitudinal (comprimento).
 
 ### 2. Pontos de Referência e Sistemas de Coordenadas
