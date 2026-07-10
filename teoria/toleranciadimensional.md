@@ -67,6 +67,22 @@ O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 <p>
 
 *   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas. A dimensão máxima do eixo é maior que a dimensão mínima do furo, e a dimensão máxima do furo é maior que a dimensão mínima do eixo. O resultado depende das dimensões efetivas após a fabricação.
+
+Os ajustes incertos (ou "de transição") ocupam um espaço muito importante na engenharia justamente porque equilibram dois objetivos que, à primeira vista, parecem opostos: **facilidade de montagem** e **posicionamento preciso/fixação**.
+
+## Por que são tão úteis?
+
+- Um ajuste com **folga** garante fácil montagem/desmontagem, mas pode gerar folga excessiva (vibração, desalinhamento)
+- Um ajuste com **interferência** garante fixação firme, mas exige montagem forçada (prensa, aquecimento) e dificulta desmontagem
+- O ajuste **incerto** fica no meio-termo: na maioria das vezes garante um encaixe justo, sem folga perceptível, mas sem exigir força excessiva para montar
+
+## Aplicações práticas comuns
+
+- **Engrenagens em eixos** que precisam ser desmontáveis para manutenção, mas não podem "balançar" durante o funcionamento
+- **Polias e mancais** que exigem alinhamento preciso, mas ainda permitem montagem manual ou com leve martelamento
+- **Pinos de localização** entre peças que precisam ser posicionadas com exatidão repetidas vezes (montagem/desmontagem)
+- **Rolamentos** em certas aplicações, onde o anel precisa ficar firme o suficiente para não girar livremente, mas ainda ser removível para trocas
+
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a9ef12ed-51de-4857-9f52-77cda1138a15" />
 <p>
