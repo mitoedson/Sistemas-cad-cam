@@ -13,7 +13,7 @@ Para entender como uma dimensão varia, utilizam-se os seguintes conceitos:
 *   **Limites Dimensionais:** A **Dimensão Máxima** e a **Dimensão Mínima** são os valores extremos aceitáveis. A medida real da peça após a fabricação (**Dimensão Efetiva** = **Dimensão Real**) deve estar entre esses dois limites.
 *   **Cálculo da Tolerância:** Corresponde ao valor absoluto da diferença entre a dimensão máxima e a mínima.
 <p>
-<a href="exercicios/toleranciadimensional01.md">Exercício 01</a>
+<a href="/exercicios/toleranciadimensional01.md">Exercício 01</a>
 
 ### **2. Sistema ISO de Tolerâncias (ABNT NBR 6158)**
 A norma padroniza a indicação de tolerâncias para facilitar a produção global:
