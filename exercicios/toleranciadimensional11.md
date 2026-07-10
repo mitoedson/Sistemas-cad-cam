@@ -1,52 +1,22 @@
 <img width="577" height="447" alt="image" src="https://github.com/user-attachments/assets/1941b1d2-cd77-4488-abf7-3bd8f6276b76" />
 
-# Análise: Ø 70 n6 (eixo) e Ø 70 J7 (furo)
+- **Eixo < Furo** → há espaço entre eles → **Folga (F)**
+- **Eixo > Furo** → o eixo é maior que o furo → **Interferência (I)**
 
-## Dados fornecidos pelo enunciado:
+## Conferindo cada alternativa
 
-### Eixo Ø 70 n6:
-| Afastamento | Valor |
-|---|---|
-| Superior | **0** |
-| Inferior | **−0,012 mm** |
+**a)** Eixo: 50,012 mm | Furo: 50,015 mm
+→ Eixo é **menor** que o furo (50,012 < 50,015) → **Folga (F)** ✅
 
-### Furo Ø 70 J7:
-| Afastamento | Valor |
-|---|---|
-| Superior | **+0,018 mm** |
-| Inferior | **−0,012 mm** |
+**b)** Eixo: 50,016 mm | Furo: 50,008 mm
+→ Eixo é **maior** que o furo (50,016 > 50,008) → **Interferência (I)** ✅
 
----
+**c)** Eixo: 50,018 mm | Furo: 50,022 mm
+→ Eixo é **menor** que o furo (50,018 < 50,022) → **Folga (F)** ✅
 
-## Cálculos:
+**d)** Eixo: 50,011 mm | Furo: 50,006 mm
+→ Eixo é **maior** que o furo (50,011 > 50,006) → **Interferência (I)** ✅
 
-### a) Dimensão máxima do eixo:
-$$70 + 0 = \textbf{70,000 mm}$$
+**Resultado: F, I, F, I** — exatamente como você calculou! 🎯
 
-### b) Dimensão mínima do eixo:
-$$70 + (-0{,}012) = \textbf{69,988 mm}$$
-
-### c) Dimensão máxima do furo:
-$$70 + 0{,}018 = \textbf{70,018 mm}$$
-
-### d) Dimensão mínima do furo:
-$$70 + (-0{,}012) = \textbf{69,988 mm}$$
-
----
-
-## Tipo de ajuste:
-
-| Situação | Furo | Eixo | Resultado |
-|---|---|---|---|
-| Máx. folga | Furo máx. 70,018 − Eixo mín. 69,988 | | **+0,030 mm** (folga) |
-| Máx. interferência | Furo mín. 69,988 − Eixo máx. 70,000 | | **−0,012 mm** (interferência) |
-
-> Ora há **folga**, ora há **interferência** — depende das peças fabricadas dentro do campo de tolerância.
-
----
-
-## Resposta:
-
-**Ajuste incerto (ou indeterminado)**
-
-Pois os campos de tolerância do furo e do eixo se **sobrepõem parcialmente**, podendo resultar em folga ou interferência dependendo das dimensões reais das peças.
+Isso confirma na prática por que esse ajuste é classificado como **incerto**: dependendo de qual peça específica do lote você pegar, o resultado pode ser ora folga, ora interferência — e é justamente isso que caracteriza um ajuste incerto (também chamado de "indeterminado"), diferente de um ajuste com folga ou com interferência garantidas em 100% das peças.
