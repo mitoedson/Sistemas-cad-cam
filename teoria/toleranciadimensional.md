@@ -56,8 +56,17 @@ O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/d1aed5c6-2846-495f-8520-2eee2d8d75d5" />
 
 *   **Ajuste com Folga:** A dimensão máxima do eixo é menor ou, em casos extremos, igual à dimensão mínima do furo, permitindo rotação ou deslizamento.
+<p><img width="400" alt="image" src="https://github.com/user-attachments/assets/af901173-1dac-4f26-bef6-d8342f7ae5d9" />
+<p>
+
 *   **Ajuste com Interferência:** A dimensão mínima do eixo é maior ou, em casos extremos, igual à dimensão máxima do furo, exigindo esforço ou pressão para a montagem, resultando em um encaixe fixo.
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/52231b31-2406-4314-909d-35b6b9b9cbab" />
+<p>
+
 *   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas. A dimensão máxima do eixo é maior que a dimensão mínima do furo, e a dimensão máxima do furo é maior que a dimensão mínima do eixo. O resultado depende das dimensões efetivas após a fabricação.
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a9ef12ed-51de-4857-9f52-77cda1138a15" />
 <p>
 <a href="/exercicios/toleranciadimensional09.md">Exercício 09</a>
 
