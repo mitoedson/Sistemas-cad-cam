@@ -35,7 +35,11 @@ O **redesenho de um suporte metálico (bracket)** que segura um componente num b
 
 ## O cenário
 
-A equipe de engenharia quer tornar o suporte mais leve (para poupar combustível/autonomia), mas ele precisa de aguentar as forças da estrada sem fraturar nem deformar-se permanentemente.## Passo a passo do exemplo
+A equipe de engenharia quer tornar o suporte mais leve (para poupar combustível/autonomia), mas ele precisa de aguentar as forças da estrada sem fraturar nem deformar-se permanentemente.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f5d61892-069e-4794-85e8-5a382abb348d" />
+
+## Passo a passo do exemplo
 
 **1. Modelo CAD** — o engenheiro desenha a geometria 3D do suporte em SolidWorks, Catia ou similar — a versão original, mais pesada.
 
