@@ -15,7 +15,7 @@ Para entender como uma dimensão varia, utilizam-se os seguintes conceitos:
 <p>
 <a href="/exercicios/toleranciadimensional01.md">Exercício 01</a>, <a href="/exercicios/toleranciadimensional02.md">Exercício 02</a>,
 <a href="/exercicios/toleranciadimensional03.md">Exercício 03</a>, <a href="/exercicios/toleranciadimensional06.md">Exercício 06</a>, 
-<a href="/exercicios/toleranciadimensional07.md">Exercício 07</a>,
+<a href="/exercicios/toleranciadimensional07.md">Exercício 07</a>, <a href="/exercicios/toleranciadimensional08.md">Exercício 08</a>,
 
 ### **2. Sistema ISO de Tolerâncias (ABNT NBR 6158)**
 A norma padroniza a indicação de tolerâncias para facilitar a produção global:
