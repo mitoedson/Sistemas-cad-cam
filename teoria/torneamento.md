@@ -31,8 +31,17 @@ O torneamento é a operação de usinagem destinada à fabricação de peças ax
 </ul>
 
 ### 3. Posicionamento e Fixação
-A precisão da usinagem depende diretamente de como a peça é presa à máquina. Os dispositivos de fixação, como placas e castanhas, devem manter a peça firmemente posicionada sob a ação das forças de corte.
-Elementos de fixação mal projetados podem causar acúmulo de erros e afetar a precisão dimensional e geométrica da peça.
+A precisão da usinagem depende diretamente de como a peça é presa à máquina. Os dispositivos de fixação, como placas e castanhas, devem manter a peça firmemente posicionada sob a ação das forças de corte, sem danificar a peça, e permitir o acesso das ferramentas.
+<p>
+Elementos de fixação mal projetados podem afetar:
+<ul>
+<li>As superfícies que serão usinadas;
+<li>A acumulação de erros e assim a precisão (tolerância) da usinagem;
+<li>As forças de corte permitidas (condições de corte)
+<li>O caminho de corte (tamanho e forma da ferramenta)
+<li>O resultado é tão bom quanto o posicionamento e fixação permitem.
+</ul>
+    
 O sistema de referência no torno utiliza o plano XZ, onde X controla o diâmetro e Z o comprimento.
 
 ### 4. Qualidade e Acabamento Superficial (Rugosidade)
