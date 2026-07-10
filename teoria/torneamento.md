@@ -5,7 +5,7 @@ A usinagem e o torneamento são processos fundamentais de fabricação voltados 
 ### 1. Visão Geral da Usinagem
 A usinagem é o método de produção que permite obter formas, dimensões e acabamentos superficiais específicos, garantindo que a peça esteja de acordo com o desenho técnico
 <p>
-<h3>Finalidade Técnica:</h3> É essencial para garantir a funcionalidade e intercambiabilidade das peças, permitindo que componentes sejam substituídos sem ajustes manuais
+<b>Finalidade Técnica:</b> É essencial para garantir a funcionalidade e intercambiabilidade das peças, permitindo que componentes sejam substituídos sem ajustes manuais.
 <p>
 <b>Classificação por Formato:</b><br> 
 Os processos são selecionados de acordo com a geometria da superfície:
@@ -16,20 +16,17 @@ Os processos são selecionados de acordo com a geometria da superfície:
 </ul>
 
 ### 2. O Processo de Torneamento
-O torneamento é a operação de usinagem destinada à fabricação de peças axisimétricas (cilíndricas ou cônicas)
-. Ele pode ser realizado em tornos convencionais ou em tornos CNC (Comando Numérico Computadorizado), onde o controle dos movimentos é feito por um computador dedicado
-.
-<h3>Principais Operações de Torneamento:</h3>
-Torneamento Longitudinal (Straight Turning): Gera perfis ao longo do eixo da peça
-.
-Faceamento (Facing): Usinagem da face transversal da peça para garantir planeza e comprimento
-.
-Mandrilamento (Boring): Torneamento de superfícies internas (furos existentes)
-.
-Sangramento (Grooving / Cut-off): Abertura de canais ou corte final da peça
-.
-Roscamento (Threading): Abertura de roscas internas ou externas, paralelas ou cônicas
-.
+O torneamento é a operação de usinagem destinada à fabricação de peças axisimétricas (cilíndricas ou cônicas). Ele pode ser realizado em tornos convencionais ou em tornos CNC (Comando Numérico Computadorizado), onde o controle dos movimentos é feito por um computador dedicado
+<p>
+<b>Principais Operações de Torneamento:</b>
+<ul>
+    <li>Torneamento Longitudinal (Straight Turning): Gera perfis ao longo do eixo da peça
+    <li>Faceamento (Facing): Usinagem da face transversal da peça para garantir planeza e comprimento
+    <li>Mandrilamento (Boring): Torneamento de superfícies internas (furos existentes)
+    <li>Sangramento (Grooving / Cut-off): Abertura de canais ou corte final da peça
+    <li>Roscamento (Threading): Abertura de roscas internas ou externas, paralelas ou cônicas
+</ul>
+
 ### 3. Posicionamento e Fixação
 A precisão da usinagem depende diretamente de como a peça é presa à máquina. Os dispositivos de fixação, como placas e castanhas, devem manter a peça firmemente posicionada sob a ação das forças de corte
 .
