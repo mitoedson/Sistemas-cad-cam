@@ -63,6 +63,8 @@ O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 Para racionalizar a produção, a indústria adota sistemas de base fixa:
 *   **Sistema Furo-Base (H):** Ou Furo Padrão, é o sistema de maior aceitação na indústria. Nele, a tolerância do furo permanece fixa (identificada pela letra H) e variam-se as tolerâncias dos eixos para obter o ajuste desejado. No furo H, o afastamento inferior é sempre zero.
 *   **Sistema Eixo-Base (h):** Ou Eixo Padrão, a tolerância do eixo permanece constante (identificada pela letra h) e fabricam-se furos com tolerâncias variáveis. No eixo h, o afastamento superior é sempre zero.
+<p>
+<a href="/exercicios/toleranciadimensional04.md">Exercício 04</a>
 
 3.5. Unidade de Medida e Indicação
 
