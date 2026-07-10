@@ -1,6 +1,6 @@
 <h2>CAE - Computer-Aided Engineering</h2>
 
-CAE é o uso de software especializado para simular, analisar e otimizar o desempenho de produtos e processos de fabrico antes de existir um protótipo físico. Inclui o método ou análise de <a href="elementosfinitos.md">elementos finitos</a> (FEA), dinâmica de fluidos computacional (CFD), dinâmica de multicorpos (MBD), durabilidade e otimização, e é normalmente agrupado com CAD e CAM sob o termo tecnologias assistidas por computador (CAx). Um processo CAE típico compreende três fases: pré-processamento, resolução (solving) e pós-processamento.
+CAE é o uso de software especializado para simular, analisar e otimizar o desempenho de produtos e processos de fabrico antes de existir um protótipo físico. Inclui o método ou análise de <a href="elementosfinitos.md">elementos finitos</a> (FEA), dinâmica de fluidos computacional (CFD), dinâmica de multicorpos (MBD), durabilidade e otimização, e é normalmente agrupado com CAD e CAM sob o termo tecnologias assistidas por computador (CAx). Um processo CAE típico compreende três fases: pré-processamento, resolução (solving) e pós-rocessamento.
 
 
 ## Planejamento de Processos
