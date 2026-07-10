@@ -33,7 +33,15 @@ Elementos de fixação mal projetados podem causar acúmulo de erros e afetar a 
 O sistema de referência no torno utiliza o plano XZ, onde X controla o diâmetro e Z o comprimento.
 
 ### 4. Qualidade e Acabamento Superficial (Rugosidade)
-A usinagem deixa marcas ou sulcos na superfície (erros microgeométricos), conhecidos como <a href="rugosidade.md">rugosidade</a>. O planejamento do processo deve considerar a rugosidade média (Ra) desejada:
+A usinagem deixa marcas ou sulcos na superfície (erros microgeométricos), conhecidos como <a href="rugosidade.md">rugosidade</a>. Qualquer processo de usinagem envolve uma ferramenta física com uma geometria de corte (aresta, raio de ponta, ângulos) a remover material em movimento relativo com a peça. Esse contacto mecânico, por mais fino que seja o corte, deixa inevitavelmente:
+<ul>
+<li>Marcas ou sulcos correspondentes ao trajeto da ferramenta (por exemplo, a "espiral" deixada pelo avanço no torneamento).
+<li>Deformações microscópicas do material na superfície, causadas pela pressão e pelo calor do corte.
+</ul>
+Isso é o que se chama de erro microgeométrico, ou rugosidade — não é um defeito de fabricação no sentido de "algo deu errado", é uma consequência física inerente ao próprio ato de cortar material.
+
+
+O planejamento do processo deve considerar a rugosidade média (Ra) desejada:
 <ul>
 <li>Desbaste: Apenas 1 processo, para rugosidades de até 10 µm
 <li>Semi-acabamento: 2 processos, para rugosidades de até 6,3 µm
