@@ -4,9 +4,9 @@
 
 Observando as cotas indicadas nos desenhos:
 
-- **Ø 30 H7** — notação com letra **maiúscula (H)** → indica **furo**
-- **Ø 30 f7** — notação com letra **minúscula (f)** → indica **eixo**
-- **Ø 30 p6** — notação com letra **minúscula (p)** → indica **eixo**
+- **Ø 30 H7** — notação com letra **maiúscula (H)** → indica **furo**, com IT7
+- **Ø 30 f7** — notação com letra **minúscula (f)** → indica **eixo**, com IT7
+- **Ø 30 p6** — notação com letra **minúscula (p)** → indica **eixo**, com IT6
 
 ### Identificação do Sistema
 
