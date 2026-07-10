@@ -5,7 +5,7 @@ A usinagem e o torneamento são processos fundamentais de fabricação voltados 
 ### 1. Visão Geral da Usinagem
 A usinagem é o método de produção que permite obter formas, dimensões e acabamentos superficiais específicos, garantindo que a peça esteja de acordo com o desenho técnico
 .
-Finalidade Técnica: É essencial para garantir a funcionalidade e intercambiabilidade das peças, permitindo que componentes sejam substituídos sem ajustes manuais
+<h3>Finalidade Técnica:</h3> É essencial para garantir a funcionalidade e intercambiabilidade das peças, permitindo que componentes sejam substituídos sem ajustes manuais
 .
 <h3>Classificação por Formato:</h3> 
 Os processos são selecionados de acordo com a geometria da superfície:
