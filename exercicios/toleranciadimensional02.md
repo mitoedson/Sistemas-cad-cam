@@ -1,4 +1,4 @@
-<img width="639" height="216" alt="image" src="https://github.com/user-attachments/assets/903318aa-0d2e-46a2-98be-d218aaf46be6" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/903318aa-0d2e-46a2-98be-d218aaf46be6" />
 
 ## Análise do pino: ⌀12 ±0,02
 
