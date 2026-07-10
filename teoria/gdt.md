@@ -32,8 +32,6 @@ O material baseia-se na norma **ASME Y14.5M-1994**. Ele estabelece dez regras fu
 *   As dimensões são aplicadas a uma temperatura padrão de **20º C**.
 *   Os métodos de manufatura não devem ser especificados no desenho.
 O GD&T é apresentado como uma linguagem matemática precisa que melhora a comunicação entre projeto, produção e inspeção, reduzindo custos e controvérsias.
-<p>
-<a href="toleranciadimensional.md">Leia sobre Tolerância Dimensional</a>
 
 <hr>
 
