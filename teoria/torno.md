@@ -10,6 +10,9 @@ O deslocamento da ferramenta no torno ocorre no **plano XZ**.
 *   **Eixo Z:** Refere-se ao movimento **longitudinal**, controlando o comprimento da usinagem.
 *   **Sentido dos Movimentos:** Pela regra da mão direita, o sentido positivo ocorre quando a ferramenta se afasta da peça.
 *   **Torres de Ferramentas:** A máquina pode possuir torre dianteira ou traseira, e alguns modelos utilizam revólveres com até 12 posições para diferentes ferramentas.
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b2c022ef-602e-4d22-a251-6da11d6352cd" />
+
+
 
 ### **2. Processos de Torneamento**
 As operações de torneamento são classificadas de acordo com o formato final desejado e a trajetória da ferramenta:
