@@ -39,8 +39,6 @@ Como nenhum processo é perfeitamente exato, aplicam-se normas (como a **ISO 110
 *   **Batimento (Runout):** É a tolerância composta mais importante para peças que giram. Ela representa a variação máxima permitida em relação a um eixo de referência quando a peça sofre uma **rotação completa de 360º**.
 *   **Forma e Orientação:** O torno deve garantir que a peça mantenha a **circularidade** (ovalização controlada) e a **cilindricidade** (controle ao longo de todo o comprimento).
 
-Aqui está um complemento à sua análise sobre o torno, seguindo a numeração como continuação:
-
 ### **5. Tipos de Torno**
 Antes de detalhar o CNC, vale situar as variantes de máquina que compartilham a mesma lógica de fabricação:
 
