@@ -17,6 +17,4 @@
 **d)** Eixo: 50,011 mm | Furo: 50,006 mm
 → Eixo é **maior** que o furo (50,011 > 50,006) → **Interferência (I)** ✅
 
-**Resultado: F, I, F, I** — exatamente como você calculou! 🎯
 
-Isso confirma na prática por que esse ajuste é classificado como **incerto**: dependendo de qual peça específica do lote você pegar, o resultado pode ser ora folga, ora interferência — e é justamente isso que caracteriza um ajuste incerto (também chamado de "indeterminado"), diferente de um ajuste com folga ou com interferência garantidas em 100% das peças.
