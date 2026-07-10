@@ -61,9 +61,9 @@ Processos que complementam torneamento ou fresamento, gerando furos e roscas, ap
 <li>**Mandrilamento (boring)** — torneamento de superfícies internas em furos já existentes, permitindo corrigir diâmetro, concentricidade e alinhamento.
 <li>**Roscamento (threading)** — geração de roscas internas ou externas, paralelas ou cônicas, seja por corte com ferramenta de perfil de rosca (torno) ou por macho/cossinete (furação).
 </ul>
-
-## Resumo em tabela
-
+<p>
+<b>Resumo em tabela</b>
+<p>
 | Categoria | Geometria gerada | Processos |
 |---|---|---|
 | Axissimétricos | Cilindros, cones, esferas | Torneamento, retificação cilíndrica, brunimento, polimento |
