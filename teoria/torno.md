@@ -8,6 +8,8 @@ Abaixo, apresento uma análise detalhada sobre a máquina, seus processos e mét
 O deslocamento da ferramenta no torno ocorre no **plano XZ**.
 *   **Eixo X:** Refere-se ao movimento **transversal**, controlando a medida do raio ou diâmetro da peça.
 *   **Eixo Z:** Refere-se ao movimento **longitudinal**, controlando o comprimento da usinagem.
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ec1b58a2-31e1-4cac-925b-aaab4a2e7a0a" />
+
 *   **Sentido dos Movimentos:** Pela regra da mão direita, o sentido positivo ocorre quando a ferramenta se afasta da peça.
 *   **Torres de Ferramentas:** A máquina pode possuir torre dianteira ou traseira, e alguns modelos utilizam revólveres com até 12 posições para diferentes ferramentas.
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b2c022ef-602e-4d22-a251-6da11d6352cd" />
