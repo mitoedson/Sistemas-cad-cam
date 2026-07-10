@@ -8,7 +8,7 @@ A usinagem é o método de produção que permite obter formas, dimensões e aca
 <b>Finalidade Técnica:</b> É essencial para garantir a funcionalidade e intercambiabilidade das peças, permitindo que componentes sejam substituídos sem ajustes manuais.
 <p>
 <b>Classificação por Formato:</b><br> 
-Os processos são selecionados de acordo com a geometria da superfície:
+Os processos são selecionados com base na análise da capacidade do processo de executar o formato da peça com a exatidão e acabamento superficial requeridos:
 <ul>
 <li>Axisimétricos: Torneamento, retificação, brunimento e polimento
 <li>Prismáticos: Fresamento, retificação e lapidação
