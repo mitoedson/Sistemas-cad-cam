@@ -72,6 +72,9 @@ A ideia central do MEF é a **divisão do domínio** (o corpo físico contínuo 
 *   **Elementos Finitos:** São esses subdomínios que possuem dimensões finitas, daí o nome do método.
 *   **Nós (Pontos Nodais):** São os pontos que conectam os elementos finitos entre si.
 *   **Malha de Elementos Finitos:** É o conjunto formado por todos os elementos e nós que representam a peça. Através da malha, o número infinito de pontos do modelo real é substituído por um número finito de pontos nodais, permitindo o cálculo computacional.
+<p>
+<img width="497" height="243" alt="image" src="https://github.com/user-attachments/assets/f46c7153-b125-46e5-bc18-1fd1cfdf14fa" />
+
 
 ### **2. Funcionamento da Análise Estrutural**
 O MEF utiliza modelos matemáticos (equações diferenciais) para prever como a peça reagirá a forças externas. A análise baseia-se em dois pilares fundamentais:
