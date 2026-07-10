@@ -14,6 +14,9 @@ Os processos são selecionados com base na análise da capacidade do processo de
 <li>Prismáticos: Fresamento, retificação e lapidação
 <li>Recursos Adicionais: Furação, alargamento, mandrilamento e roscamento
 </ul>
+<p>
+<img width="483" height="571" alt="image" src="https://github.com/user-attachments/assets/d749e3ba-188f-43be-907f-43b65666f356" />
+
 
 ### 2. O Processo de Torneamento
 O torneamento é a operação de usinagem destinada à fabricação de peças axisimétricas (cilíndricas ou cônicas). Ele pode ser realizado em tornos convencionais ou em tornos CNC (Comando Numérico Computadorizado), onde o controle dos movimentos é feito por um computador dedicado
