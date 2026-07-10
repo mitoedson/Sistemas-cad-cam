@@ -30,6 +30,54 @@ O torneamento é a operação de usinagem destinada à fabricação de peças ax
     <li>Roscamento (Threading): Abertura de roscas internas ou externas, paralelas ou cônicas
 </ul>
 
+<p>
+<b>Processos Axissimétricos</b>
+<p>
+Geram peças com simetria de revolução em torno de um eixo (cilindros, cones, esferas).
+<p>
+<ul>
+<li>**Torneamento** — peça gira, ferramenta se desloca; gera cilindros, cones e perfis de revolução externos e internos.
+<li>**Retificação (cilíndrica)** — acabamento fino por abrasão, usando um rebolo rotativo; corrige forma e reduz rugosidade a valores muito baixos.
+<li>**Brunimento** — acabamento de furos internos por ferramenta abrasiva com movimento rotativo + alternativo, gerando o padrão característico de cruzeta (já detalhado acima).
+<li>**Polimento** — etapa final de acabamento, remove riscos residuais deixados por processos anteriores, sem finalidade de correção dimensional.
+</ul>
+<p><b>Processos Prismáticos</b>
+<p>
+Geram superfícies planas, contornos e cavidades — sem simetria de revolução.
+<p>
+<ul>
+<li>**Fresamento** — ferramenta gira, peça geralmente fixa/transladada; gera faces planas, rasgos, cantos e contornos complexos (inclusive engrenagens e cavidades de moldes).
+<li>**Retificação (plana)** — versão do processo de retificação aplicada a superfícies planas, para acabamento fino de faces.
+<li>**Lapidação** — acabamento final de superfícies planas de altíssima precisão, usando abrasivos muito finos numa pasta ou suspensão.
+</ul>
+<p>
+<b>Recursos Adicionais</b>
+<p>
+Processos que complementam torneamento ou fresamento, gerando furos e roscas, aplicáveis tanto em contexto axissimétrico quanto prismático.
+<p>
+<ul>
+<li>**Furação (drilling)** — abertura de furos cilíndricos, geralmente com broca rotativa; no torno, é realizada no centro de rotação da peça.
+<li>**Alargamento (reaming)** — operação de acabamento de furos já existentes, para melhorar precisão dimensional e acabamento sem alterar significativamente o diâmetro.
+<li>**Mandrilamento (boring)** — torneamento de superfícies internas em furos já existentes, permitindo corrigir diâmetro, concentricidade e alinhamento.
+<li>**Roscamento (threading)** — geração de roscas internas ou externas, paralelas ou cônicas, seja por corte com ferramenta de perfil de rosca (torno) ou por macho/cossinete (furação).
+</ul>
+
+## Resumo em tabela
+
+| Categoria | Geometria gerada | Processos |
+|---|---|---|
+| Axissimétricos | Cilindros, cones, esferas | Torneamento, retificação cilíndrica, brunimento, polimento |
+| Prismáticos | Faces planas, contornos, cavidades | Fresamento, retificação plana, lapidação |
+| Recursos adicionais | Furos e roscas (em qualquer geometria) | Furação, alargamento, mandrilamento, roscamento |
+
+## Nota sobre acabamento vs. geração de forma
+
+Vale notar que alguns destes processos (retificação, brunimento, lapidação, polimento) raramente criam a geometria original — eles refinam uma forma já gerada por torneamento, fresamento ou furação, exatamente como discutimos no caso do brunimento. Ou seja, dentro de cada categoria, há normalmente uma distinção entre **processos de geração** (que criam a forma bruta) e **processos de acabamento** (que refinam essa forma até à qualidade final exigida pelo desenho técnico).
+
+Se quiser, posso integrar esta classificação completa (com esta tabela) no seu documento principal, junto com o restante conteúdo já compilado.
+
+
+
 ### 3. Posicionamento e Fixação
 A precisão da usinagem depende diretamente de como a peça é presa à máquina. Os dispositivos de fixação, como placas e castanhas, devem manter a peça firmemente posicionada sob a ação das forças de corte, sem danificar a peça, e permitir o acesso das ferramentas.
 <p>
