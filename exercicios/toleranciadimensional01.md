@@ -4,7 +4,7 @@
 - **Afastamento superior:** +0,05 mm
 - **Afastamento inferior:** +0,03 mm
 
-# a) Completando os espaços:
+a) Completando os espaços:
 
 | Campo | Cálculo | Resultado |
 |---|---|---|
@@ -15,7 +15,7 @@
 
 > A **tolerância** (IT) = 0,05 − 0,03 = **0,02 mm**
 
-# b) Cotas que podem ser dimensões efetivas:
+b) Cotas que podem ser dimensões efetivas:
 
 A peça é aceita se a medida real estiver **entre 20,03 e 20,05 mm** (inclusive).
 
