@@ -1,4 +1,4 @@
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/cc6c2d11-67bf-4d06-9320-9847b3d3aba7" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/cc6c2d11-67bf-4d06-9320-9847b3d3aba7" />
 
 - **Dimensão nominal:** 20 mm
 - **Afastamento superior:** +0,05 mm
