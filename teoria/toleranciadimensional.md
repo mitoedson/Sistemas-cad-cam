@@ -56,7 +56,7 @@ O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/d1aed5c6-2846-495f-8520-2eee2d8d75d5" />
 
 *   **Ajuste com Folga:** A dimensão máxima do eixo é menor ou, em casos extremos, igual à dimensão mínima do furo, permitindo rotação ou deslizamento.
-<p><img width="400" alt="image" src="https://github.com/user-attachments/assets/af901173-1dac-4f26-bef6-d8342f7ae5d9" />
+<p><center><img width="400" alt="image" src="https://github.com/user-attachments/assets/af901173-1dac-4f26-bef6-d8342f7ae5d9" /></center>
 <p>
 
 *   **Ajuste com Interferência:** A dimensão mínima do eixo é maior ou, em casos extremos, igual à dimensão máxima do furo, exigindo esforço ou pressão para a montagem, resultando em um encaixe fixo.
