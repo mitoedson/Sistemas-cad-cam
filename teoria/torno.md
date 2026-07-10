@@ -11,6 +11,8 @@ O deslocamento da ferramenta no torno ocorre no **plano XZ**.
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ec1b58a2-31e1-4cac-925b-aaab4a2e7a0a" />
 
 *   **Sentido dos Movimentos:** Pela regra da mão direita, o sentido positivo ocorre quando a ferramenta se afasta da peça.
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9d7ce9d6-4d9d-40d6-a5fe-11f992194400" />
+
 *   **Torres de Ferramentas:** A máquina pode possuir torre dianteira ou traseira, e alguns modelos utilizam revólveres com até 12 posições para diferentes ferramentas.
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b2c022ef-602e-4d22-a251-6da11d6352cd" />
 
