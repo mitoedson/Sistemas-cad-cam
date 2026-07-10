@@ -6,6 +6,13 @@ CAE é o uso de software especializado para simular, analisar e otimizar o desem
 
 Uma abordagem comum é dividir o sistema geométrico complexo em pequenos elementos regulares, cada um fácil de resolver individualmente — cada elemento interage com os vizinhos segundo equações físicas, e isto é resolvido repetidamente até o sistema convergir para um conjunto útil de resultados. É essencialmente isto que é a análise de <a href="elementosfinitos.md">elementos finitos</a> (FEA).
 
+## Planejamento de Processos
+
+Planejamento de Processos é a ligação entre CAD e CAM, porque determina como um produto é fabricado. Além disso tem grande influência no custo do produto. Por outro lado, não existe uma metodologia formal para o treinamento de novos Processistas.
+
+O Planejamento de processo auxiliado por computador (CAPP) é o uso de tecnologias computadorizadas para auxiliar no planejamento de processos para a produção de uma peça ou produto. O CAPP é o elo entre CAD e CAM, pois fornece o planejamento do processo a ser usado na produção de uma peça projetada. O CAPP dependem de especialistas para preparar regras e planos de produção.
+
+
 ## Principais softwares no mercado
 
 - **Ansys Mechanical/Fluent** — muito versátil, forte em CFD e dinâmica explícita, interface considerada mais amigável para iniciantes.
