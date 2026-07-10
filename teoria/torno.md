@@ -41,7 +41,7 @@ Como nenhum processo é perfeitamente exato, aplicam-se normas (como a **ISO 110
 
 Aqui está um complemento à sua análise sobre o torno, seguindo a numeração como continuação:
 
-### **5. Tipos de Torno
+### **5. Tipos de Torno**
 
 Antes de detalhar o CNC, vale situar as variantes de máquina que compartilham a mesma lógica de fabricação:
 
@@ -50,7 +50,7 @@ Antes de detalhar o CNC, vale situar as variantes de máquina que compartilham a
 - **Torno revólver:** voltado para fabricação em série de peças pequenas (buchas, pinos), com um cabeçote adaptado para fixar várias ferramentas simultaneamente, agilizando a troca entre operações.
 - **Torno automático:** realiza toda a sequência — da alimentação da barra bruta até a peça finalizada — sem intervenção humana, sendo aplicado em produção seriada de médios e grandes lotes.
 
-### **6. Dispositivos de Fixação (aprofundamento)
+### **6. Dispositivos de Fixação (aprofundamento)**
 
 Complementando o que você já tem na seção 3, os principais dispositivos de fixação incluem:
 
@@ -63,7 +63,7 @@ Complementando o que você já tem na seção 3, os principais dispositivos de f
 
 A escolha do dispositivo certo impacta diretamente a precisão dimensional, o tempo de setup e a segurança operacional, especialmente em peças de paredes finas, grandes comprimentos ou formas assimétricas.
 
-### **7. Tolerâncias Geométricas (aprofundamento conforme ISO 1101)
+### **7. Tolerâncias Geométricas (aprofundamento conforme ISO 1101)**
 
 Complementando o que você já introduziu com o batimento, a norma ISO 1101 (Geometrical Product Specifications — Geometric Tolerancing) padroniza a simbologia e os critérios de forma, orientação, posição e batimento aplicáveis a peças torneadas:
 
