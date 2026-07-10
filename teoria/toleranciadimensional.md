@@ -38,6 +38,8 @@ O sistema estabelece 18 qualidades de trabalho, identificadas pela sigla IT (I d
 * IT 01 a IT 3 (eixos) / IT 4 (furos): Associados à mecânica extraprecisa, utilizados principalmente na fabricação de calibradores e instrumentos de medição
 * IT 4/5 a IT 11: Destinados à mecânica corrente ou de precisão, aplicados em peças que funcionam acopladas (eixos e furos)
 * IT 12 a IT 16: Utilizados na mecânica grosseira ou para peças isoladas que não exigem grande precisão
+<p>
+<a href="/exercicios/toleranciadimensional12.md">Exercício 12</a>
 
 Quanto menor o número IT, menor é a variação permitida e mais preciso é o acabamento da peça
 
@@ -76,7 +78,7 @@ Para racionalizar a produção, a indústria adota sistemas de base fixa:
 *   **Sistema Furo-Base (H):** Ou Furo Padrão, é o sistema de maior aceitação na indústria. Nele, a tolerância do furo permanece fixa (identificada pela letra H) e variam-se as tolerâncias dos eixos para obter o ajuste desejado. No furo H, o afastamento inferior é sempre zero.
 *   **Sistema Eixo-Base (h):** Ou Eixo Padrão, a tolerância do eixo permanece constante (identificada pela letra h) e fabricam-se furos com tolerâncias variáveis. No eixo h, o afastamento superior é sempre zero.
 <p>
-<a href="/exercicios/toleranciadimensional04.md">Exercício 04</a>
+<a href="/exercicios/toleranciadimensional04.md">Exercício 04</a>, <a href="/exercicios/toleranciadimensional13.md">Exercício 13</a>
 
 3.5. Unidade de Medida e Indicação
 
