@@ -13,6 +13,8 @@ O Planejamento de processo auxiliado por computador (CAPP) é o uso de tecnologi
 ## FEA: Como funciona (na prática)
 
 Uma abordagem comum é dividir o sistema geométrico complexo em pequenos elementos regulares, cada um fácil de resolver individualmente — cada elemento interage com os vizinhos segundo equações físicas, e isto é resolvido repetidamente até o sistema convergir para um conjunto útil de resultados. É essencialmente isto que é a análise de <a href="elementosfinitos.md">elementos finitos</a> (FEA).
+<p>
+<img width="412" height="302" alt="image" src="https://github.com/user-attachments/assets/a705a9b7-e20e-471b-b1f1-4f4cdd9d545e" />
 
 ## Principais softwares no mercado
 
