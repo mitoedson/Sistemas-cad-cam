@@ -1,4 +1,4 @@
-<img width="665" height="364" alt="image" src="https://github.com/user-attachments/assets/011ca8ff-beeb-46e3-9c12-b21f7110fa79" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/011ca8ff-beeb-46e3-9c12-b21f7110fa79" />
 
 ## Cálculo da Tolerância
 
