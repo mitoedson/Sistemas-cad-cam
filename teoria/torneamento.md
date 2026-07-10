@@ -38,9 +38,7 @@ A usinagem deixa marcas ou sulcos na superfície (erros microgeométricos), conh
 <li>Marcas ou sulcos correspondentes ao trajeto da ferramenta (por exemplo, a "espiral" deixada pelo avanço no torneamento).
 <li>Deformações microscópicas do material na superfície, causadas pela pressão e pelo calor do corte.
 </ul>
-Isso é o que se chama de erro microgeométrico, ou rugosidade — não é um defeito de fabricação no sentido de "algo deu errado", é uma consequência física inerente ao próprio ato de cortar material.
-<p>
-Não há processo de usinagem capaz de gerar uma superfície perfeitamente lisa a nível atômico. O que existe são diferentes níveis de rugosidade alcançáveis. O planejamento do processo deve considerar a rugosidade média (Ra) desejada:
+Isso é o que se chama de erro microgeométrico, ou rugosidade — não é um defeito de fabricação no sentido de "algo deu errado", é uma consequência física inerente ao próprio ato de cortar material. Não há processo de usinagem capaz de gerar uma superfície perfeitamente lisa a nível atômico. O que existe são diferentes níveis de rugosidade alcançáveis. O planejamento do processo deve considerar a rugosidade média (Ra) desejada:
 <ul>
 <li>Desbaste: Apenas 1 processo, para rugosidades de até 10 µm
 <li>Semi-acabamento: 2 processos, para rugosidades de até 6,3 µm
