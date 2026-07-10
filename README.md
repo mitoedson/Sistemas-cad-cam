@@ -20,6 +20,9 @@ Essa integração reduz erros, aumenta a produtividade e permite fabricar peças
 <h4><a href="/teoria/gdt.md">Dimensionamento e Tolerância Geométrica</a></h4>
 O Dimensionamento e Tolerância Geométrica, conhecido mundialmente pela sigla GD&T (Geometric Dimensioning and Tolerancing), é uma linguagem internacional utilizada em desenhos de engenharia para descrever de forma exata e matemática o tamanho, a forma, a orientação e a localização dos elementos de uma peça.<br>
 
+<h4><a href="/teoria/torneamento.md">Processos de usinagem em torneamento</a></h4>
+ <br>
+ 
 <h4><a href="/teoria/cae.md">CAE - Computer-Aided Engineering</a></h4>
 O CAE (Computer-Aided Engineering, ou Engenharia Auxiliada por Computador) é a tecnologia que utiliza softwares de computador para simular, validar e otimizar projetos e processos de engenharia. <br>
  
