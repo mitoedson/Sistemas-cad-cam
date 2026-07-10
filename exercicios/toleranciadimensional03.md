@@ -1,5 +1,5 @@
-<img width="653" alt="image" src="https://github.com/user-attachments/assets/ed802bac-c7ac-47ba-9ca6-891444d7715f" />
-<img width="653" alt="image" src="https://github.com/user-attachments/assets/71ed1d79-63df-4d64-88c8-0232b4928a78" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ed802bac-c7ac-47ba-9ca6-891444d7715f" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/71ed1d79-63df-4d64-88c8-0232b4928a78" />
 
 
 ## Análise do pino com rebaixo
