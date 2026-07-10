@@ -15,7 +15,7 @@ Para entender como uma dimensão varia, utilizam-se os seguintes conceitos:
 <p>
 <a href="/exercicios/toleranciadimensional01.md">Exercício 01</a>, <a href="/exercicios/toleranciadimensional02.md">Exercício 02</a>,
 <a href="/exercicios/toleranciadimensional03.md">Exercício 03</a>, <a href="/exercicios/toleranciadimensional06.md">Exercício 06</a>, 
-<a href="/exercicios/toleranciadimensional07.md">Exercício 07</a>, <a href="/exercicios/toleranciadimensional08.md">Exercício 08</a>,
+<a href="/exercicios/toleranciadimensional07.md">Exercício 07</a>, <a href="/exercicios/toleranciadimensional08.md">Exercício 08</a>
 
 ### **2. Sistema ISO de Tolerâncias (ABNT NBR 6158)**
 A norma padroniza a indicação de tolerâncias para facilitar a produção global:
@@ -58,6 +58,8 @@ O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 *   **Ajuste com Folga:** A dimensão máxima do eixo é menor ou, em casos extremos, igual à dimensão mínima do furo, permitindo rotação ou deslizamento.
 *   **Ajuste com Interferência:** A dimensão mínima do eixo é maior ou, em casos extremos, igual à dimensão máxima do furo, exigindo esforço ou pressão para a montagem, resultando em um encaixe fixo.
 *   **Ajuste Incerto:** Os campos de tolerância se sobrepõem, podendo resultar em folga ou interferência conforme as medidas reais fabricadas. A dimensão máxima do eixo é maior que a dimensão mínima do furo, e a dimensão máxima do furo é maior que a dimensão mínima do eixo. O resultado depende das dimensões efetivas após a fabricação.
+<p>
+<a href="/exercicios/toleranciadimensional09.md">Exercício 09</a>
 
 3.4. Sistemas de Referência
  
