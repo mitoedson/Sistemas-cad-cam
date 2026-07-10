@@ -28,6 +28,6 @@ A peça é aceita se a medida real estiver **entre 20,03 e 20,05 mm** (inclusive
 
 ---
 
-### Resumo:
-- **20,04** ✅ e **20,03** ✅ são dimensões efetivas válidas.
-- **20,5** ❌ e **20,06** ❌ estão fora da tolerância.
+
+
+
