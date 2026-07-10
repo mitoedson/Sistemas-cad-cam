@@ -42,7 +42,6 @@ Como nenhum processo é perfeitamente exato, aplicam-se normas (como a **ISO 110
 Aqui está um complemento à sua análise sobre o torno, seguindo a numeração como continuação:
 
 ### **5. Tipos de Torno**
-
 Antes de detalhar o CNC, vale situar as variantes de máquina que compartilham a mesma lógica de fabricação:
 
 - **Torno mecânico convencional:** operado manualmente, é o modelo clássico e é composto essencialmente por barramento, cabeçote fixo, cabeçote móvel, carro principal, carro transversal, carro superior e placa de fixação. É indicado para peças de precisão em pequenas séries, mas depende fortemente da habilidade do operador.
@@ -51,7 +50,6 @@ Antes de detalhar o CNC, vale situar as variantes de máquina que compartilham a
 - **Torno automático:** realiza toda a sequência — da alimentação da barra bruta até a peça finalizada — sem intervenção humana, sendo aplicado em produção seriada de médios e grandes lotes.
 
 ### **6. Dispositivos de Fixação (aprofundamento)**
-
 Complementando o que você já tem na seção 3, os principais dispositivos de fixação incluem:
 
 - **Placa autocentrante de 3 castanhas:** as castanhas movem-se simultaneamente, garantindo centralização automática — ideal para peças cilíndricas ou hexagonais e trocas rápidas de peça.
@@ -64,7 +62,6 @@ Complementando o que você já tem na seção 3, os principais dispositivos de f
 A escolha do dispositivo certo impacta diretamente a precisão dimensional, o tempo de setup e a segurança operacional, especialmente em peças de paredes finas, grandes comprimentos ou formas assimétricas.
 
 ### **7. Tolerâncias Geométricas (aprofundamento conforme ISO 1101)**
-
 Complementando o que você já introduziu com o batimento, a norma ISO 1101 (Geometrical Product Specifications — Geometric Tolerancing) padroniza a simbologia e os critérios de forma, orientação, posição e batimento aplicáveis a peças torneadas:
 
 - **Circularidade:** controla o desvio da seção transversal em relação a um círculo perfeito, num único plano perpendicular ao eixo. Valores típicos alcançáveis no torneamento situam-se até cerca de 0,01 mm, contra 0,01–0,015 mm no mandrilamento e 0,005–0,015 mm na retificação.
