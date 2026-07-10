@@ -10,8 +10,8 @@ A usinagem é o método de produção que permite obter formas, dimensões e aca
 <b>Classificação por Formato:</b><br> 
 Os processos são selecionados com base na análise da capacidade do processo de executar o formato da peça com a exatidão e acabamento superficial requeridos:
 <ul>
-<li>Axisimétricos: Torneamento, retificação, brunimento e polimento
-<li>Prismáticos: Fresamento, retificação e lapidação
+<li>Axisimétricos: Uma peça é axissimétrica quando a sua forma é simétrica em relação a um eixo de rotação — ou seja, se você girasse a peça 360° em torno desse eixo, o contorno da secção transversal seria sempre o mesmo, a qualquer ângulo. Na prática, isso descreve formas como: cilindros, cones, esferas, e qualquer peça de revolução (eixos, buchas, polias, pinos). Envolvem processos de torneamento, retificação, brunimento e polimento.
+<li>Prismáticos: Uma peça é prismática quando a sua geometria é definida por faces planas, contornos, cantos e superfícies não circulares — ou seja, não tem simetria de revolução em torno de nenhum eixo. Se você tentasse girar a peça 360°, o contorno mudaria constantemente de forma, ao contrário do que acontece com um cilindro ou cone. Exemplos típicos: blocos e placas, peças com furos, rasgos, cavidades ou ressaltos em várias faces, moldes e matrizes, suportes, flanges com contornos irregulares, carcaças. Envolvem processos de fresamento, retificação e lapidação.
 <li>Recursos Adicionais: Furação, alargamento, mandrilamento e roscamento
 </ul>
 <p>
