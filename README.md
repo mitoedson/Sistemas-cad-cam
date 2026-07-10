@@ -18,7 +18,7 @@ Essa integração reduz erros, aumenta a produtividade e permite fabricar peças
 <h3>Conteúdo programático</h3>
 <ul>
 <h4><a href="/teoria/toleranciadimensional.md">Tolerância Dimensional</a></h4>
-<br>
+Tolerância Dimensional trata especificamente de variações permitidas nas medidas lineares (comprimentos, diâmetros, espessuras) de uma peça — ou seja, o quanto uma dimensão pode variar em relação ao valor nominal e ainda ser considerada aceitável.<br>
 
  
 <h4><a href="/teoria/gdt.md">Dimensionamento e Tolerância Geométrica</a></h4>
