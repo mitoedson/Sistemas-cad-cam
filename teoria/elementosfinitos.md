@@ -61,6 +61,30 @@ Depois de várias iterações, obtém-se um suporte talvez 20-30% mais leve, mas
 
 Este mesmo fluxo aplica-se a problemas muito diferentes — análise térmica de uma placa eletrónica, aerodinâmica de uma carroçaria (CFD), ou vibração de uma estrutura de edifício — muda a física envolvida, mas o processo de pré-processar → resolver → pós-processar → iterar mantém-se.
 
+## Método dos Elementos Finitos (MEF)
 
+O **Método dos Elementos Finitos (MEF)** é um método numérico utilizado na engenharia para encontrar soluções aproximadas para problemas complexos, especialmente em **análise estrutural**, onde muitas vezes não existem soluções matemáticas exatas. Surgido na década de 1960, ele é hoje a ferramenta mais ampla e eficiente para simular o comportamento de corpos rígidos sob esforço.
+
+Abaixo, apresento uma análise detalhada dos fundamentos e do funcionamento do MEF conforme as fontes:
+
+### **1. O Conceito de Discretização**
+A ideia central do MEF é a **divisão do domínio** (o corpo físico contínuo da peça) em subdomínios menores de geometria simples, como formatos triangulares, quadrilaterais ou cúbicos. 
+*   **Elementos Finitos:** São esses subdomínios que possuem dimensões finitas, daí o nome do método.
+*   **Nós (Pontos Nodais):** São os pontos que conectam os elementos finitos entre si.
+*   **Malha de Elementos Finitos:** É o conjunto formado por todos os elementos e nós que representam a peça. Através da malha, o número infinito de pontos do modelo real é substituído por um número finito de pontos nodais, permitindo o cálculo computacional.
+
+### **2. Funcionamento da Análise Estrutural**
+O MEF utiliza modelos matemáticos (equações diferenciais) para prever como a peça reagirá a forças externas. A análise baseia-se em dois pilares fundamentais:
+*   **Esforços Discretos:** As forças de interação entre os elementos da malha são representadas como esforços aplicados diretamente nos nós.
+*   **Relação Força-Deslocamento:** O ponto de partida para o cálculo é a relação matemática entre as **forças nodais** e os **deslocamentos nodais** em cada elemento individual.
+
+### **3. Aplicações Práticas no CAE**
+O MEF é a base do **CAE** (*Computer Aided Engineering* ou Engenharia Auxiliada por Computador). Ele permite realizar simulações de esforços em corpos rígidos antes mesmo da fabricação de um protótipo físico. As principais verificações incluem:
+*   **Análise de Tensões:** Identifica os pontos da peça que sofrem maior carga (geralmente visualizados em escalas de cores, como o gráfico de *von Mises*).
+*   **Gráfico de Deslocamentos:** Mostra o quanto a peça se deforma ou se move sob a ação das cargas.
+*   **Otimização Estrutural:** Com base nos resultados, o projetista pode reposicionar furos ou alterar dimensões para economizar material sem comprometer a resistência.
+
+### **4. Softwares Utilizados**
+A ampla adoção do MEF na indústria é facilitada por softwares comerciais especializados citados nas fontes, como **ANSYS, NASTRAN, COSMOS e ADINA**. Esses sistemas integram-se ao CAD para transformar o desenho geométrico em uma malha pronta para simulação.
 
 
