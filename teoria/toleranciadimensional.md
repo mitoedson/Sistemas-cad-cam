@@ -70,13 +70,13 @@ O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 
 Os ajustes incertos (ou "de transição") ocupam um espaço muito importante na engenharia justamente porque equilibram dois objetivos que, à primeira vista, parecem opostos: **facilidade de montagem** e **posicionamento preciso/fixação**.
 
-## Por que são tão úteis?
+<b>Por que são tão úteis?</b>
 
 - Um ajuste com **folga** garante fácil montagem/desmontagem, mas pode gerar folga excessiva (vibração, desalinhamento)
 - Um ajuste com **interferência** garante fixação firme, mas exige montagem forçada (prensa, aquecimento) e dificulta desmontagem
 - O ajuste **incerto** fica no meio-termo: na maioria das vezes garante um encaixe justo, sem folga perceptível, mas sem exigir força excessiva para montar
 
-## Aplicações práticas comuns
+<b>Aplicações práticas comuns</b>
 
 - **Engrenagens em eixos** que precisam ser desmontáveis para manutenção, mas não podem "balançar" durante o funcionamento
 - **Polias e mancais** que exigem alinhamento preciso, mas ainda permitem montagem manual ou com leve martelamento
