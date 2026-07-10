@@ -30,6 +30,7 @@ As operações de torneamento são classificadas de acordo com o formato final d
 ### **3. Métodos de Posicionamento e Fixação**
 A qualidade da usinagem depende diretamente da estabilidade da peça na máquina.
 *   **Dispositivos de Fixação:** Utilizam-se **placas e castanhas** para manter a peça firmemente posicionada sob as forças de corte.
+<img width="356" height="296" alt="image" src="https://github.com/user-attachments/assets/3054f98e-4e62-4aa4-b9f1-31d30f02a2b1" />
 *   **Impacto na Precisão:** Elementos de fixação inadequados podem causar **acúmulo de erros**, afetando as tolerâncias dimensionais e geométricas.
 *   **Pontos de Referência:** Para a execução correta, o programador define o **Ponto Zero da Peça (W)**, facilitando a conversão das medidas do desenho em coordenadas de máquina.
 
