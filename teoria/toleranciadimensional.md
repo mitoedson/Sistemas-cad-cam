@@ -74,6 +74,9 @@ A unidade de medida padrão para as tolerâncias no sistema ABNT/ISO é o microm
 <img width="381" height="199" alt="image" src="https://github.com/user-attachments/assets/dcb78a22-640f-4dcc-b563-5274ef1af80c" />
 
 A dimensão nominal comum ao eixo e ao furo é 25 mm. A tolerância do furo vem sempre indicada ao alto: H8; a do eixo vem indicada abaixo: g7
+<p>
+<a href="/exercicios/toleranciadimensional05.md">Exercício 05</a>
+
 
 ### **4. Relação com a Rugosidade**
 As fontes indicam que o controle dimensional e o acabamento superficial estão interligados. Uma regra prática para estimar a tolerância dimensional possível de se obter em um processo é dividir o valor da rugosidade (**Ra** em mícrons) por 40.
