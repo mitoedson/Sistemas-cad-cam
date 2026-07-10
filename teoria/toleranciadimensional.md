@@ -68,7 +68,7 @@ O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a9ef12ed-51de-4857-9f52-77cda1138a15" />
 <p>
-<a href="/exercicios/toleranciadimensional09.md">Exercício 09</a>
+<a href="/exercicios/toleranciadimensional09.md">Exercício 09</a>, <a href="/exercicios/toleranciadimensional10.md">Exercício 10</a>, <a href="/exercicios/toleranciadimensional11.md">Exercício 11</a>
 
 3.4. Sistemas de Referência
  
