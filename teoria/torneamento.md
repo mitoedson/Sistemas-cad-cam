@@ -103,6 +103,10 @@ O desgaste da ferramenta de corte ocorre por diversos mecanismos que atuam simul
 ### Referências:
 
 <pre>
+GROOVER M.P.; ZIMMERS, E. W.; CAD/CAM: Computer-Aided Design And Manufacturing, Upper Saddle River, USA: Prentice Hall PTR, 1984. Xix, 489p., il ISBN 9780131101302.
+    
+HALEVI, G.; Process and operation planning. Dordrecht, NLD: Kluwer Academic/PlenumPublishers, 2003. Xvi, 335., il ISBN 9789048164370.
+    
 AULA Nº 3 — mecanismo de formação do cavaco. **LABUSIG/UFPR**, [s.d.]. Disponível em: https://labusig.ufpr.br/wp-content/uploads/2024/02/aula3_2017s1.pdf. Acesso em: 9 jul. 2026.
 
 CAVACO de usinagem: o que é, tipos e como otimizá-lo. **FBM**, 13 jan. 2026. Disponível em: https://www.fbm.ind.br/blog/cavaco/cavaco-de-usinagem-o-que-e-tipos-e-como-otimiza-lo/. Acesso em: 9 jul. 2026.
