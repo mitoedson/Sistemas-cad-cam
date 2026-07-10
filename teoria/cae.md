@@ -27,3 +27,38 @@ Automóvel, aeroespacial, eletrónica, dispositivos médicos, energia e manufatu
 - **IA integrada na simulação**: algoritmos de IA já analisam dados históricos de simulação para prever resultados, otimizar geometrias e detetar falhas de design antes mesmo de correr simulações completas — a colaboração da Ansys com a NVIDIA é um exemplo notável, permitindo feedback em tempo real durante alterações de design.
 - **Gémeos digitais (digital twins)**: o CAE está a evoluir para além do design, apoiando a gestão do ciclo de vida completo do produto através de gémeos digitais, especialmente relevante em manufatura inteligente e manutenção preditiva.
 - **Consolidação multi-física**: o software CAE está a consolidar-se em torno de um acoplamento mais estreito entre estrutura, térmica e fluidos, partilhando um modelo consistente e definições de fronteira.
+
+## Referências
+<pre>
+ABAQUS vs ANSYS: difference between ansys and abaqus - 2026. **CAE Assistant**, 22 abr. 2025. Disponível em: https://caeassistant.com/blog/ansys-vs-abaqus/. Acesso em: 9 jul. 2026.
+
+ABAQUS vs ANSYS: which simulation software is better in 2025? **EngineeringDownloads**, 21 set. 2025. Disponível em: https://engineeringdownloads.com/abaqus-vs-ansys-comparison/. Acesso em: 9 jul. 2026.
+
+BEST simulation software 2026: CAE suites vs new constellation. **DemystifyingPLM**, 30 maio 2026. Disponível em: https://www.demystifyingplm.com/best-simulation-software-2026. Acesso em: 9 jul. 2026.
+
+CHOOSING the right FEA software for your needs. **FEAssistant**, 15 nov. 2024. Disponível em: https://feassistant.com/choosing-the-right-finite-element-analysis-fea-software-for-your-needs/. Acesso em: 9 jul. 2026.
+
+COMPARATIVE study of finite element analysis software packages. **Journal of Physics: Conference Series**, [S.l.], 2020. Disponível em: https://iopscience.iop.org/article/10.1088/1742-6596/1515/3/032073/pdf. Acesso em: 9 jul. 2026.
+
+COMPUTER aided engineering (CAE) overview. **DTIC**, [s.d.]. Disponível em: https://apps.dtic.mil/sti/tr/pdf/ADA280966.pdf. Acesso em: 9 jul. 2026.
+
+COMPUTER aided engineering market size & share, 2026-2033. **Coherent Market Insights**, 2026. Disponível em: https://www.coherentmarketinsights.com/industry-reports/computer-aided-engineering-market. Acesso em: 9 jul. 2026.
+
+COMPUTER-AIDED engineering. In: **WIKIPEDIA**: a enciclopédia livre. [S.l.]: Wikimedia Foundation, 5 jan. 2026. Disponível em: https://en.wikipedia.org/wiki/Computer-aided_engineering. Acesso em: 9 jul. 2026.
+
+COMPUTER-AIDED engineering (CAE). **Siemens**, [s.d.]. Disponível em: https://www.siemens.com/en-us/technology/computer-aided-engineering-cae/. Acesso em: 9 jul. 2026.
+
+COMPUTER-AIDED engineering (CAE): definition & guide for 2026. **DocShipper**, 22 abr. 2026. Disponível em: https://docshipper.com/glossary/computer-aided-engineering-cae-definition-logistics/. Acesso em: 9 jul. 2026.
+
+COMPUTER-AIDED engineering - an overview. **ScienceDirect Topics**, [s.d.]. Disponível em: https://www.sciencedirect.com/topics/engineering/computer-aided-engineering. Acesso em: 9 jul. 2026.
+
+COMPUTER-AIDED engineering statistics and facts (2026). **Scoop Market.us**, 15 mar. 2025. Disponível em: https://scoop.market.us/computer-aided-engineering-statistics/. Acesso em: 9 jul. 2026.
+
+RAMESHBABU, C. Which software is the best FEA software? ANSYS or NASTRAN? Why? **ResearchGate**, 31 mar. 2022. Disponível em: https://www.researchgate.net/post/Which_Software_is_the_best_FEA_software_ANSYS_or_NASTRAN_Why. Acesso em: 9 jul. 2026.
+
+TOP 10 Abaqus alternatives & competitors in 2026. **G2**, [s.d.]. Disponível em: https://www.g2.com/products/abaqus/competitors/alternatives. Acesso em: 9 jul. 2026.
+
+TOP 10 best CAE simulation software of, tested in 2026. **ZipDo**, 12 mar. 2026. Disponível em: https://zipdo.co/best/cae-simulation-software/. Acesso em: 9 jul. 2026.
+
+WHAT is Computer-Aided Engineering (CAE)? **PTC**, 18 jun. 2025. Disponível em: https://www.ptc.com/en/technologies/cad/computer-aided-engineering. Acesso em: 9 jul. 2026.
+</pre>
