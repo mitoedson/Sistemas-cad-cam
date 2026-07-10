@@ -4,7 +4,7 @@ Elementos finitos são a ideia central por trás do método de análise mais usa
 
 ## A ideia básica
 
-Imagina que queres calcular como uma peça complexa — por exemplo, o chassis de um carro — se deforma sob uma força. Resolver as equações físicas (elasticidade, calor, fluidos, etc.) para a forma inteira e complexa de uma só vez é praticamente impossível analiticamente.
+Imagina que quer calcular como uma peça complexa — por exemplo, o chassis de um carro — se deforma sob uma força. Resolver as equações físicas (elasticidade, calor, fluidos, etc.) para a forma inteira e complexa de uma só vez é praticamente impossível analiticamente.
 
 A solução: **dividir a peça em muitos pedaços pequenos e simples** — triângulos, quadrados, tetraedros, cubos — chamados **elementos finitos**. Cada elemento é pequeno e regular o suficiente para que as equações físicas sejam fáceis de resolver dentro dele.
 
@@ -35,7 +35,7 @@ O **redesenho de um suporte metálico (bracket)** que segura um componente num b
 
 ## O cenário
 
-A equipa de engenharia quer tornar o suporte mais leve (para poupar combustível/autonomia), mas ele precisa de aguentar as forças da estrada sem fraturar nem deformar-se permanentemente.## Passo a passo do exemplo
+A equipe de engenharia quer tornar o suporte mais leve (para poupar combustível/autonomia), mas ele precisa de aguentar as forças da estrada sem fraturar nem deformar-se permanentemente.## Passo a passo do exemplo
 
 **1. Modelo CAD** — o engenheiro desenha a geometria 3D do suporte em SolidWorks, Catia ou similar — a versão original, mais pesada.
 
