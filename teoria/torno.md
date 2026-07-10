@@ -74,4 +74,45 @@ Complementando o que você já introduziu com o batimento, a norma ISO 1101 (Geo
 
 Essas tolerâncias são especialmente críticas em componentes rotativos de precisão (eixos, mancais), onde erros de forma se traduzem diretamente em vibração, desgaste prematuro de rolamentos e perda de desempenho em serviço.
 
----
+### Referências
+
+<pre>
+GROOVER M.P.; ZIMMERS, E. W.; CAD/CAM:Computer-Aided Design And Manufacturing, Upper Saddle River, USA: Prentice Hall PTR, 1984. Xix, 489p., il ISBN 9780131101302.
+
+HALEVI, G.; Process and operation planning.Dordrecht, NLD: Kluwer academic/PlenumPublishers, 2003. Xvi, 335., il ISBN 9789048164370.
+  
+COMO a eletroerosão lida com tolerâncias geométricas extremas. **Galpão das Máquinas**, 6 fev. 2026. Disponível em: https://galpaodasmaquinas.com.br/blog/metal_e_mecanica/eletroerosao/eletroerosao-e-tolerancias-geometricas/. Acesso em: 9 jul. 2026.
+
+COMPONENTES para placas de torno. **World Tools**, [s.d.]. Disponível em: https://www.worldtools.com.br/acessorios-para-maquinas/placa-de-torno/componentes-para-placas-de-torno. Acesso em: 9 jul. 2026.
+
+DIFERENTES tipos de tornos CNC. **Indusmart**, 17 jan. 2025. Disponível em: https://indusmart.com.br/usinagem-tornos-cnc/. Acesso em: 9 jul. 2026.
+
+ESCOLA ESTADUAL DE EDUCAÇÃO PROFISSIONAL (EEEP). **Mecânica: usinagem com máquinas convencionais**. Ensino Médio Integrado à Educação Profissional. Ceará: SEDUC, [s.d.]. Disponível em: https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2012/06/mecanica_usinagem_com_maquinas_convencionais.pdf. Acesso em: 9 jul. 2026.
+
+GD&T — tolerâncias geométricas. **Metrology RS**, [s.d.]. Disponível em: https://www.metrologyrs.com.br/treinamentos2/tolerancias-geometricas/. Acesso em: 9 jul. 2026.
+
+INSTITUTO FEDERAL DE BRASÍLIA. **Tolerância geométrica**: elementos de máquinas. Técnico em Eletromecânica, [s.d.]. Disponível em: https://s14057791a82db508.jimcontent.com/download/version/1402614008/module/8801738369/name/Tolerancia_Geom%C3%A9trica.pdf. Acesso em: 9 jul. 2026.
+
+INTERPRETAÇÃO de GD&T conforme ISO 1101. **Udemy**, 19 jan. 2024. Disponível em: https://www.udemy.com/course/interpretacao-de-gdt-conforme-iso-1101/. Acesso em: 9 jul. 2026.
+
+NBR ISO 2768: tolerâncias gerais, parte 2. **[documento técnico]**, [s.d.]. Disponível em: https://hudsonbonazza.wordpress.com/wp-content/uploads/2012/09/nbr-iso-2768-tolerancias-gerais-parte-2.pdf. Acesso em: 9 jul. 2026.
+
+O PROCESSO mecânico de usinagem: torneamento. **[apostila]**, [s.d.]. Disponível em: https://www.jorgestreet.com.br/offline/4BN/4BN_MATERIAL_PFB%20IV_MENEZES_Apostila%20Torneamento.pdf. Acesso em: 9 jul. 2026.
+
+PLACA para torno: autocentrante 3, 4 e 6 castanhas. **Fermec**, [s.d.]. Disponível em: https://fermec.com.br/cat/Placas-para-Torno-69.html. Acesso em: 9 jul. 2026.
+
+PLACA para torno mecânico: conheça os tipos e usos comuns. **Wolf Brasil**, 5 nov. 2023. Disponível em: https://wolfbrasil.com.br/placa-torno-mecanico/. Acesso em: 9 jul. 2026.
+
+QUAL a definição de tolerância geométrica (GD&T)? **GBR Engenharia**, 15 abr. 2026. Disponível em: https://gbrengenharia.com/qual-a-definicao-de-tolerancia-geometrica/. Acesso em: 9 jul. 2026.
+
+TOLERÂNCIAS geométricas e GD&T: o guia para peças. **Bruson**, 18 maio 2026. Disponível em: https://bruson.com.br/blog/tolerancias-geometricas-e-gdt/. Acesso em: 9 jul. 2026.
+
+TORNO mecânico: guia completo 2026. **Galpão das Máquinas**, 13 mar. 2026. Disponível em: https://galpaodasmaquinas.com.br/blog/metal_e_mecanica/tornos/torno-mecanico/. Acesso em: 9 jul. 2026.
+
+TORNOS convencionais horizontais. **Automatools**, [s.d.]. Disponível em: https://www.automatools.com.br/folder/Folder-InterCNC-Torno-Convencional.pdf. Acesso em: 9 jul. 2026.
+
+USINAGEM convencional. **[apostila]**. Instituto Federal de Santa Catarina (IFSC), [s.d.]. Disponível em: https://docente.ifsc.edu.br/cleverson.guandalin/fic/Apostila_Usinagem_Convencional_Operacoes.pdf. Acesso em: 9 jul. 2026.
+
+WHAT are the standards for the cylindricity of metal turned parts? **CJ Metal Parts Blog**, 6 nov. 2025. Disponível em: https://www.cjmetalparts.com/blog/what-are-the-standards-for-the-cylindricity-of-metal-turned-parts-1695441.html. Acesso em: 9 jul. 2026.
+</pre>
+
