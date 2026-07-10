@@ -4,17 +4,17 @@ A usinagem e o torneamento são processos fundamentais de fabricação voltados 
 
 ### 1. Visão Geral da Usinagem
 A usinagem é o método de produção que permite obter formas, dimensões e acabamentos superficiais específicos, garantindo que a peça esteja de acordo com o desenho técnico
-.
+<p>
 <h3>Finalidade Técnica:</h3> É essencial para garantir a funcionalidade e intercambiabilidade das peças, permitindo que componentes sejam substituídos sem ajustes manuais
-.
-<h3>Classificação por Formato:</h3> 
+<p>
+<b>Classificação por Formato:</b><br> 
 Os processos são selecionados de acordo com a geometria da superfície:
-Axisimétricos: Torneamento, retificação, brunimento e polimento
-.
-Prismáticos: Fresamento, retificação e lapidação
-.
-Recursos Adicionais: Furação, alargamento, mandrilamento e roscamento
-.
+<ul>
+<li>Axisimétricos: Torneamento, retificação, brunimento e polimento
+<li>Prismáticos: Fresamento, retificação e lapidação
+<li>Recursos Adicionais: Furação, alargamento, mandrilamento e roscamento
+</ul>
+
 ### 2. O Processo de Torneamento
 O torneamento é a operação de usinagem destinada à fabricação de peças axisimétricas (cilíndricas ou cônicas)
 . Ele pode ser realizado em tornos convencionais ou em tornos CNC (Comando Numérico Computadorizado), onde o controle dos movimentos é feito por um computador dedicado
