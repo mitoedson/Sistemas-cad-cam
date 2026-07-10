@@ -70,13 +70,6 @@ Processos que complementam torneamento ou fresamento, gerando furos e roscas, ap
 | Prismáticos | Faces planas, contornos, cavidades | Fresamento, retificação plana, lapidação |
 | Recursos adicionais | Furos e roscas (em qualquer geometria) | Furação, alargamento, mandrilamento, roscamento |
 
-## Nota sobre acabamento vs. geração de forma
-
-Vale notar que alguns destes processos (retificação, brunimento, lapidação, polimento) raramente criam a geometria original — eles refinam uma forma já gerada por torneamento, fresamento ou furação, exatamente como discutimos no caso do brunimento. Ou seja, dentro de cada categoria, há normalmente uma distinção entre **processos de geração** (que criam a forma bruta) e **processos de acabamento** (que refinam essa forma até à qualidade final exigida pelo desenho técnico).
-
-Se quiser, posso integrar esta classificação completa (com esta tabela) no seu documento principal, junto com o restante conteúdo já compilado.
-
-
 
 ### 3. Posicionamento e Fixação
 A precisão da usinagem depende diretamente de como a peça é presa à máquina. Os dispositivos de fixação, como placas e castanhas, devem manter a peça firmemente posicionada sob a ação das forças de corte, sem danificar a peça, e permitir o acesso das ferramentas.
