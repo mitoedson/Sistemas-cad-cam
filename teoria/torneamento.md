@@ -39,16 +39,17 @@ A usinagem deixa marcas ou sulcos na superfície (erros microgeométricos), conh
 <li>Deformações microscópicas do material na superfície, causadas pela pressão e pelo calor do corte.
 </ul>
 Isso é o que se chama de erro microgeométrico, ou rugosidade — não é um defeito de fabricação no sentido de "algo deu errado", é uma consequência física inerente ao próprio ato de cortar material.
-
-
-O planejamento do processo deve considerar a rugosidade média (Ra) desejada:
+<p>
+Não há processo de usinagem capaz de gerar uma superfície perfeitamente lisa a nível atômico. O que existe são diferentes níveis de rugosidade alcançáveis. O planejamento do processo deve considerar a rugosidade média (Ra) desejada:
 <ul>
 <li>Desbaste: Apenas 1 processo, para rugosidades de até 10 µm
 <li>Semi-acabamento: 2 processos, para rugosidades de até 6,3 µm
 <li>Acabamento: 3 ou mais processos (incluindo retificação), para rugosidades finas de até 1,6 µm ou menos
 </ul>
 <p>
-As fontes indicam que quanto melhor o acabamento exigido, maior será o custo de fabricação. Existe também uma relação direta entre o acabamento e a precisão: a tolerância dimensional em milímetros que se pode obter pode ser estimada dividindo-se o valor da rugosidade (em mícron) por 40.
+Mesmo os processos de acabamento mais refinados (polimento, lapidação) reduzem a rugosidade a valores extremamente baixos, mas não a eliminam por completo — apenas a tornam imperceptível para a aplicação em questão.
+<p>
+As fontes indicam que quanto melhor o acabamento exigido, maior será o custo de fabricação. Existe também uma relação direta entre o acabamento e a precisão: a tolerância dimensional em milímetros que se pode obter pode ser estimada dividindo-se o valor da rugosidade (em mícron) por 40. 
 
 ### 5. Programação e Execução (CNC)
 No torneamento moderno, utiliza-se a programação via funções preparatórias (G) e auxiliares (M) para automatizar o caminho da ferramenta. O uso de ciclos automáticos (como o G71 para desbaste e G76 para roscas) simplifica a fabricação de geometrias complexas, enquanto a compensação do raio da ferramenta (G41/G42) garante a exatidão em superfícies inclinadas e raios.
