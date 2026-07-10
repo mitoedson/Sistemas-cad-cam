@@ -63,7 +63,7 @@ Processos que complementam torneamento ou fresamento, gerando furos e roscas, ap
 </ul>
 <p>
 <b>Resumo em tabela</b>
-<p>
+
 | Categoria | Geometria gerada | Processos |
 |---|---|---|
 | Axissimétricos | Cilindros, cones, esferas | Torneamento, retificação cilíndrica, brunimento, polimento |
