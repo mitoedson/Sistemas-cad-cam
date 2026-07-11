@@ -14,6 +14,10 @@ A verificação ocorre em pontos ou seções determinadas da peça, não fornece
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a1782f51-c8e9-4009-8ed2-8607c49b1c21" />
 
 *   **Axial:** Refere-se ao deslocamento máximo permitido ao longo do eixo de simetria durante o giro. O campo de tolerância é definido por duas circunferências idênticas e coaxiais que delimitam uma superfície cilíndrica teórica.
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d0748b38-b736-4ed3-88d5-c8b865a9de75" />
+
+  
 *   **Qualquer Direção ou Direção Especificada:** Comumente indicado em superfícies oblíquas, onde a medição deve ser perpendicular à superfície ou seguir um ângulo "$\alpha$" exato prescrito no desenho.
 
 ### **3. Batimento Total**
