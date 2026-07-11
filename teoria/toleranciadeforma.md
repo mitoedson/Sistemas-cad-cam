@@ -1,6 +1,6 @@
 <h2>Tolerância de forma</h2>
 
-São um grupo de controles geométricos que limitam o quanto um elemento (como uma linha ou superfície) pode variar em relação à sua **forma geométrica teórica/ideal** representada no desenho. Diferente de outras tolerâncias, estas se aplicam exclusivamente a **elementos isolados**, o que significa que não dependem de um elemento de referência (*datum*) para serem verificadas.
+São um grupo de controles geométricos que limitam o quanto um elemento (como uma linha ou superfície) pode variar em relação à sua **forma geométrica teórica/ideal** representada no desenho. Diferente de outras tolerâncias, estas se aplicam exclusivamente a **elementos isolados**, o que significa que <font color="red">não dependem de um elemento de referência (*datum*)</font> para serem verificadas.
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/e7bd61f5-0971-415a-a235-4721a8cd56a1" />
 <p>
