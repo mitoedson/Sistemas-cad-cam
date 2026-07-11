@@ -22,7 +22,7 @@ A avaliação pode ser qualitativa (pela visão ou tato) ou quantitativa, utiliz
 
 ### **3. Parâmetro Ra (Rugosidade Média)**
 O parâmetro de rugosidade mais utilizado mundialmente, e adotado pela ABNT, é o **Ra (Desvio Médio Aritmético)**.
-*   Ele é calculado como a média aritmética dos valores absolutos das ordenadas dos pontos do perfil real em relação a uma **linha média** (uma linha teórica que divide o perfil de modo que as áreas dos picos e vales sejam iguais).
+*   Ele é calculado como a média aritmética dos valores absolutos das ordenadas dos pontos do perfil real em relação a uma **linha média** (uma linha teórica que divide o perfil de modo que as áreas dos picos e vales sejam iguais). A rugosidade é avaliada em relação a uma linha de comprimento c, que representa uma amostra do perfil real da superfície examinada.
 *   A unidade de medida padrão é o **micrometro ($\mu\text{m}$)**.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9e798376-ef86-457e-948a-924721b0e488" />
