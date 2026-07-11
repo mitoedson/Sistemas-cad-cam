@@ -10,6 +10,9 @@ Diferente de outras tolerâncias, o batimento representa a variação máxima ad
 ### **2. Batimento Circular**
 A verificação ocorre em pontos ou seções determinadas da peça, não fornecendo uma análise completa de toda a superfície de uma só vez.
 *   **Radial:** O campo de tolerância é limitado, em qualquer plano perpendicular ao eixo, por dois círculos concêntricos afastados pela distância "**t**". É usado para controlar o "balanço" da superfície cilíndrica ou cônica.
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a1782f51-c8e9-4009-8ed2-8607c49b1c21" />
+
 *   **Axial:** Refere-se ao deslocamento máximo permitido ao longo do eixo de simetria durante o giro. O campo de tolerância é definido por duas circunferências idênticas e coaxiais que delimitam uma superfície cilíndrica teórica.
 *   **Qualquer Direção ou Direção Especificada:** Comumente indicado em superfícies oblíquas, onde a medição deve ser perpendicular à superfície ou seguir um ângulo "$\alpha$" exato prescrito no desenho.
 
