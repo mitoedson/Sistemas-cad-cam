@@ -19,6 +19,9 @@ O sistema GD&T (NBR 6409 / ISO 1101) divide este grupo em:
 
 *   **Posição de uma Linha (Eixo):** O campo de tolerância pode ser um **paralelepípedo** (seção transversal $t_1 \times t_2$) ou um **cilindro** (se o valor for precedido pelo símbolo $\varnothing$). O eixo real da peça deve situar-se dentro deste volume imaginário posicionado exatamente sobre a linha teórica.
 *   **Posição de uma Superfície ou Plano Médio:** Define o desvio permitido para um plano em relação à sua localização ideal. O campo é limitado por **dois planos paralelos** afastados pela distância "t" e dispostos simetricamente em relação à posição teórica.
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8332ee9a-530e-44cb-970b-3d158ba36313" />
+
 *   **Concentricidade:** Trata do desvio permitido na posição do centro de um círculo em relação ao centro de outro círculo tomado como referência. O campo é um círculo de diâmetro "t" concêntrico ao elemento de referência.
 *   **Coaxialidade:** É um caso de concentricidade aplicado ao longo de eixos de simetria. O eixo da parte tolerada deve estar contido dentro de um **cilindro de tolerância** cujo eixo central é o elemento de referência.
 
