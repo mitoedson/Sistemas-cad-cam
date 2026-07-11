@@ -14,6 +14,9 @@ Para definir a localização ideal, utilizam-se as **cotas básicas** (dimensõe
 O sistema GD&T (NBR 6409 / ISO 1101) divide este grupo em:
 
 *   **Posição de um Ponto:** O campo de tolerância é geralmente uma área circular ou uma esfera cujo centro coincide com a posição teórica exata. Para ser aprovado, o ponto efetivo deve estar contido dentro desse diâmetro "t".
+<p>
+<img width="458" height="208" alt="image" src="https://github.com/user-attachments/assets/01857014-1add-4030-b1d4-551f29f0ddf8" />
+
 *   **Posição de uma Linha (Eixo):** O campo de tolerância pode ser um **paralelepípedo** (seção transversal $t_1 \times t_2$) ou um **cilindro** (se o valor for precedido pelo símbolo $\varnothing$). O eixo real da peça deve situar-se dentro deste volume imaginário posicionado exatamente sobre a linha teórica.
 *   **Posição de uma Superfície ou Plano Médio:** Define o desvio permitido para um plano em relação à sua localização ideal. O campo é limitado por **dois planos paralelos** afastados pela distância "t" e dispostos simetricamente em relação à posição teórica.
 *   **Concentricidade:** Trata do desvio permitido na posição do centro de um círculo em relação ao centro de outro círculo tomado como referência. O campo é um círculo de diâmetro "t" concêntrico ao elemento de referência.
