@@ -35,6 +35,8 @@ A norma (NBR 8404 / ISO 1302) organiza os níveis de acabamento em 12 classes, o
 *   **N5 a N9 (0,4 a 6,3 $\mu\text{m}$):** Aplicados em superfícies usinadas comuns, eixos, mancais de bronze e engrenagens.
 *   **N10 a N12 (12,5 a 50 $\mu\text{m}$):** Acabamentos mais grosseiros, típicos de superfícies desbastadas, fundidas ou forjadas.
 <img width="397" height="457" alt="image" src="https://github.com/user-attachments/assets/62ab123f-4314-4114-93fd-974edcafa54f" />
+<p>
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/992286a5-4c48-43d9-8e51-05654a5d3c07" />
 
 <hr>
 
