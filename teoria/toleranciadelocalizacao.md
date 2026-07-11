@@ -1,8 +1,8 @@
 <h2>Tolerância de Localização (Posição)</h2>
 
 As **tolerâncias de localização (ou posição)** estabelecem o desvio admissível na localização de um elemento geométrico (ponto, reta ou plano) em relação à sua **posição teoricamente exata** prescrita no projeto. Elas são aplicadas obrigatoriamente a **elementos associados**, o que significa que exigem elementos de referência (*datums*) para sua verificação.
-
-Abaixo, apresento uma análise detalhada sobre o funcionamento e as categorias deste grupo de tolerâncias:
+<p>
+<img width="401" height="163" alt="image" src="https://github.com/user-attachments/assets/9cf292c5-a5bd-4094-9ea3-40e9a414cd10" />
 
 ### **1. Importância e Objetivo**
 A principal função das tolerâncias de localização é **racionalizar os processos de montagem**. Elas garantem que peças fabricadas separadamente se encaixem perfeitamente, evitando a necessidade de ajustes manuais custosos. Um benefício técnico crucial é a **prevenção do acúmulo de erros** que ocorre em sistemas de cotagem em cadeia tradicionais, onde cada tolerância dimensional se soma à anterior.
