@@ -1,8 +1,6 @@
 <h2>Tolerância de Batimento</h2>
 
-A **tolerância de batimento** (também referida como "batida" em algumas fontes) é classificada como uma **tolerância composta**, pois permite analisar simultaneamente uma combinação de desvios de forma, orientação e posição de elementos de uma peça. Ela é aplicada exclusivamente a superfícies de revolução (como cilindros e cones) e é verificada em relação a um eixo de simetria tomado como referência (*datum*).
-
-Abaixo, detalho as categorias e o funcionamento desse sistema conforme os materiais técnicos:
+A **tolerância de batimento** (também referida como "batida" em algumas fontes) é classificada como uma **tolerância composta**, pois permite analisar simultaneamente uma combinação de desvios de forma, orientação e posição de elementos de uma peça. Ela é aplicada exclusivamente a superfícies de revolução (como cilindros e cones) e é verificada em relação a um eixo de simetria tomado como referência (*datum*). Quando um elemento dá uma volta completa e torno do seu eixo de rotação, oscilações podem ocorrer. Estas oscilações devem ser controladas para não comprometer a funcionalidade da peça.
 
 ### **1. Princípio de Funcionamento**
 Diferente de outras tolerâncias, o batimento representa a variação máxima admissível observada quando a peça sofre uma **rotação completa** (360º) em torno de seu eixo de referência. Durante a medição, a peça deve estar travada para evitar deslocamentos axiais que possam gerar erros de leitura. O valor indicado no projeto representa a soma de todos os desvios acumulados (como circularidade, coaxialidade e perpendicularidade).
