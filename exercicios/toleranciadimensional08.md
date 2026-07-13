@@ -1,3 +1,5 @@
+<h2>Tolerância dimensional - Exercícios</h2>
+
 <img width="319" height="44" alt="image" src="https://github.com/user-attachments/assets/86aeb201-5f3e-42f1-b4d0-ea0b6c83e1b2" />
 
 # Cálculo da Tolerância
@@ -23,3 +25,7 @@ $$\boxed{T = 0{,}07 \text{ mm}}$$
 | **Tolerância** | 27,87 − 27,80 | **0,07 mm** |
 
 > A tolerância é sempre um valor **positivo**, representando a **variação total permitida** na dimensão.
+
+---
+
+<a href="/teoria/toleranciadimensional.md">Ir para Tolerância Dimensional - Teoria</a>
