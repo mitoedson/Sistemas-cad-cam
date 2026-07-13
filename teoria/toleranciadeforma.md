@@ -50,3 +50,7 @@ Semelhante ao perfil de linha, mas aplicado de forma tridimensional a superfíci
 *   **Campo de Tolerância:** É o espaço entre duas superfícies envolventes geradas por esferas de diâmetro "t", cujos centros situam-se exatamente sobre a **superfície teórica** projetada.
 
 **Regra importante:** Salvo indicação contrária, a tolerância de forma aplica-se a toda a extensão (comprimento ou largura) do elemento considerado.
+
+---
+
+<a href="gdt.md">Ir para Dimensionamento e Tolerância Geométrica</a>
