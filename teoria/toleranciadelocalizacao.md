@@ -40,3 +40,8 @@ Diferente das tolerâncias cartesianas, que geram zonas quadradas, o GD&T utiliz
 
 ### **5. Modificadores (Bônus de Tolerância)**
 A aplicação da **Condição de Máximo Material ($\textcircled{M}$)** é comum em tolerâncias de posição de furos e eixos. Ela permite que, se o elemento for fabricado fora de sua dimensão de máximo material (ex: um furo maior que o mínimo permitido), a diferença se transforme em um **bônus**, aumentando a tolerância de localização daquela peça e reduzindo o descarte de componentes funcionais.
+
+---
+
+<a href="gdt.md">Ir para Dimensionamento e Tolerância Geométrica</a>
+
