@@ -21,7 +21,7 @@ Essa integração reduz erros, aumenta a produtividade e permite fabricar peças
 Tolerância Dimensional trata especificamente de variações permitidas nas medidas lineares (comprimentos, diâmetros, espessuras) de uma peça — ou seja, o quanto uma dimensão pode variar em relação ao valor nominal e ainda ser considerada aceitável.<br>
 
 <h4><a href="/teoria/rugosidade.md">Acabamento Superficial / Rugosidade</a></h4>
-<br>
+A rugosidade refere-se às imperfeições superficiais de uma peça resultantes do seu processo de fabricação (usinagem, tratamento térmico, forjamento ou fundição).<br>
  
 <h4><a href="/teoria/gdt.md">Dimensionamento e Tolerância Geométrica</a></h4>
 O Dimensionamento e Tolerância Geométrica, conhecido mundialmente pela sigla GD&T (Geometric Dimensioning and Tolerancing), é uma linguagem internacional utilizada em desenhos de engenharia para descrever de forma exata e matemática o tamanho, a forma, a orientação e a localização dos elementos de uma peça.<br>
