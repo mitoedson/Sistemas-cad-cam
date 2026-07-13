@@ -55,8 +55,7 @@ Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
 
 ### **6. Simbologia para indicação da direção de estrias**
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6c23146f-4b6d-402d-96fc-553ead487db3" />
-
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4fe522a1-2495-4991-8b12-ee4bf23503a0" />
 
 <hr>
 
