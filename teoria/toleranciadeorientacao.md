@@ -37,3 +37,7 @@ O campo de tolerância é a região espacial dentro da qual o elemento real deve
 
 ### **4. Relação com outras Tolerâncias**
 É importante notar que algumas tolerâncias englobam outras. Por exemplo, a especificação de **paralelismo** contém implicitamente a condição de **retitude** (retilineidade), embora o inverso não seja verdadeiro: uma peça pode ser perfeitamente reta, mas não estar paralela à sua base. Além disso, desvios de orientação são frequentemente captados durante a medição de **batimento total**, que analisa simultaneamente forma, orientação e posição.
+
+---
+
+<a href="gdt.md">Ir para Dimensionamento e Tolerância Geométrica</a>
