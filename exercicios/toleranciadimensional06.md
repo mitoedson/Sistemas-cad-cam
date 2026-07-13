@@ -13,3 +13,7 @@ e) Dimensão mínima: 20 + 0,008 = 20,008 mm
 Como **ambos os afastamentos são positivos (+)**, o campo de tolerância está **inteiramente acima** da dimensão nominal, o que indica um **furo ou eixo com interferência leve** dependendo do contexto do ajuste.
 
 A **tolerância total** (IT) = 0,021 − 0,008 = **0,013 mm**
+
+---
+
+<a href="/teoria/toleranciadimensional.md">Ir para Tolerância Dimensional - Teoria</a>
