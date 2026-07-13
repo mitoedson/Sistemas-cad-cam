@@ -5,6 +5,10 @@ As **tolerâncias de orientação** estabelecem os limites para os desvios angul
 ### **1. Categorias e Simbologia**
 O sistema GD&T (NBR 6409 / ISO 1101) classifica as condições de orientação em três tipos principais:
 *   **Paralelismo (//):** Os elementos devem manter uma distância equidistante constante e não formar ângulo entre si.
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3623d245-56ce-41c9-91f6-238fbb7d1e1c" />
+
+
 *   **Perpendicularidade (⊥):** Condição onde o elemento tolerado deve formar um ângulo reto exato de 90º em relação à referência.
 *   **Inclinação ou Angularidade (∠):** Aplicada quando o projeto exige um ângulo específico diferente de 90º entre as partes.
 
