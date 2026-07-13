@@ -1,3 +1,5 @@
+<h2>Tolerância dimensional - Exercícios</h2>
+
 <img width="527" height="152" alt="image" src="https://github.com/user-attachments/assets/70029cb8-becb-4716-9073-a24e2e88d87b" />
 
 ### a) Dimensão nominal:
