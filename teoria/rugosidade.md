@@ -49,9 +49,18 @@ Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/a26caf57-a178-495e-9801-de48c8eb0c57" />
 
+
+
 <hr>
 
-### **6. Relação com Tolerâncias Dimensionais**
+### **6. Simbologia para indicação da direção de estrias**
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6c23146f-4b6d-402d-96fc-553ead487db3" />
+
+
+<hr>
+
+### **7. Relação com Tolerâncias Dimensionais**
 As fontes indicam uma regra prática para estimar a tolerância dimensional possível de se obter: ela pode ser estimada dividindo-se o valor da rugosidade em mícron por 40. Por exemplo, uma rugosidade **Ra de 0,1 $\mu\text{m}$** equivaleria a uma tolerância dimensional de aproximadamente **$\pm 0,0025\text{ mm}$**.
 
 <a href="toleranciadimensional.md">Leia sobre Tolerâncias Dimensionais</a>
