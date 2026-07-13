@@ -37,3 +37,7 @@ Lembrando que chanfro, mostrado na imagem, representa uma linha com 45° de incl
 **d) Diâmetro maior (⌀16 −0,20/−0,41):**
 - Tem 2 afastamentos negativos, logo a dimensão efetiva é **menor** que a dimensão nominal (16 mm)
 - Fica entre 15,59 mm e 15,80 mm
+
+---
+
+<a href="/teoria/toleranciadimensional.md">Ir para Tolerância Dimensional - Teoria</a>
