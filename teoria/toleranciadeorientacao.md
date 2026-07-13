@@ -20,7 +20,8 @@ Como o eixo do furo C é a referência, o campo de tolerância do eixo do furo B
 *   **Inclinação ou Angularidade (∠):** Aplicada quando o projeto exige um ângulo específico diferente de 90º entre as partes.
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9d6175d8-c2d5-4c4d-a4b4-63083c4eea82" />
-
+<p>
+O campo de tolerância é limitado por duas retas paralelas, distantes entre si de uma distância t, e que estejam inclinadas em um ângulo especificado.
 
 ### **2. Campo de Tolerância (Zona de Tolerância)**
 O campo de tolerância é a região espacial dentro da qual o elemento real deve estar contido para ser aprovado. Na orientação, esse campo é definido por planos ou linhas que guardam a relação angular exata com a referência:
