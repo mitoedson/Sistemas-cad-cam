@@ -50,7 +50,7 @@ A posição da tolerância em relação à "linha zero" (dimensão nominal) é i
 * Letras Maiúsculas (A até ZC): Identificam campos de tolerância para furos (medidas internas)
 * Letras Minúsculas (a até zc): Identificam campos de tolerância para eixos (medidas externas)
 
-Nos desenhos técnicos com indicação de tolerância, a qualidade de trabalho vem indicada apenas pelo numeral, semo IT. Antes do numeral vem uma ou duas letras, que representam o campo de tolerância no sistema ISO.
+Nos desenhos técnicos com indicação de tolerância, a qualidade de trabalho vem indicada apenas pelo numeral, sem o IT. Antes do numeral vem uma ou duas letras, que representam o campo de tolerância no sistema ISO.
 <p>
 <img width="279" height="176" alt="image" src="https://github.com/user-attachments/assets/3f36748a-a417-4817-abf7-af50d324c9be" />
 <p>
