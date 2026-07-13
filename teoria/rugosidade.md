@@ -47,7 +47,7 @@ Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
 *   **Círculo no vértice ($\circ$):** Indica que a remoção de material **não é permitida** (a peça deve manter o estado de fabricação anterior).
 *   **Indicações complementares:** Sobre o símbolo, podem ser anotados o processo de fabricação (ex: fresado), o comprimento de amostragem e a direção das estrias (paralela, perpendicular, cruzada, etc.).
 <p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/a26caf57-a178-495e-9801-de48c8eb0c57" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a26caf57-a178-495e-9801-de48c8eb0c57" />
 
 
 
