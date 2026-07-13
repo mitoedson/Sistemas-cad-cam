@@ -33,3 +33,7 @@ Ao contrário do circular, o batimento total exige que a verificação seja feit
 
 ### **4. Importância Industrial**
 A aplicação desta tolerância é vital para peças que giram em altas velocidades, como eixos de motores e engrenagens, onde desvios compostos poderiam causar vibrações excessivas e falhas prematuras. O sistema utiliza símbolos específicos (uma seta inclinada para batimento circular e duas setas para batimento total) indicados em quadros de tolerância que remetem sempre a um elemento de referência geometricamente ideal.
+
+---
+
+<a href="gdt.md">Ir para Dimensionamento e Tolerância Geométrica</a>
