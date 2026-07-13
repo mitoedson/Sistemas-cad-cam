@@ -33,6 +33,7 @@ A peça é aceita se a medida real estiver **entre 20,03 e 20,05 mm** (inclusive
 
 ---
 
+<a href="/teoria/toleranciadimensional.md">Ir para Tolerância Dimensional - Teoria</a>
 
 
 
