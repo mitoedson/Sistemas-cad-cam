@@ -26,9 +26,9 @@ Utilizada para controlar formas irregulares compostas por raios e curvas.
 *   **Campo de Tolerância:** É a região limitada por duas linhas envolventes que tangenciam círculos de diâmetro "t", cujos centros estão localizados sobre a **linha geométrica ideal**.
 
 
-### 2. Tolerâncias de forma de superfície
+## 2. Tolerâncias de forma de superfície
 
-## 2.1. Planeza (Planicidade) — Símbolo: ⏥
+### 2.1. Planeza (Planicidade) — Símbolo: ⏥
 Controla o desvio de uma superfície em relação a um plano perfeitamente liso. 
 *   **Campo de Tolerância:** É definido pelo espaço entre **dois planos paralelos** afastados pela distância "t". Apoiamos a peça em um suporte, em três pontos. Através do relógio comparador, aplicamos a medição em cada um dos três pontos, de modo que ele fique "zerado". Claro que para tentar fazer com que o ponteiro do relógio coincida com a posição do ponto pode estar alinhado. Assim, existe uma margem aceitável que viabilize a medição. O processo de medição da superfície tem seus padrões para medição da superfície. 
   
@@ -38,14 +38,14 @@ Controla o desvio de uma superfície em relação a um plano perfeitamente liso.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f2a2dcae-7202-4150-add6-9fd5984e2197" />
  
-## 2.2. Cilindricidade — Símbolo: ⌭
+### 2.2. Cilindricidade — Símbolo: ⌭
 É um controle mais abrangente que a circularidade, pois analisa toda a superfície cilíndrica de uma vez, incluindo erros de forma ao longo do comprimento (como conicidade ou concavidade).
 *   **Campo de Tolerância:** É o espaço entre **dois cilindros coaxiais** cujos raios diferem pelo valor "t". Note que a especificação de cilindricidade já inclui implicitamente a de circularidade e retilineidade das geratrizes.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/fbac61f2-ba53-4762-971a-1cba2cf89ee4" />
 
 
-## 2.3. Perfil de uma Superfície Qualquer — Símbolo: ⌓
+### 2.3. Perfil de uma Superfície Qualquer — Símbolo: ⌓
 Semelhante ao perfil de linha, mas aplicado de forma tridimensional a superfícies complexas.
 *   **Campo de Tolerância:** É o espaço entre duas superfícies envolventes geradas por esferas de diâmetro "t", cujos centros situam-se exatamente sobre a **superfície teórica** projetada.
 
