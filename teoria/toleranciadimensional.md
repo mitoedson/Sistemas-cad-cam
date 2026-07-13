@@ -98,7 +98,7 @@ Os ajustes incertos (ou "de transição") ocupam um espaço muito importante na 
 3.4. Sistemas de Referência
  
 Para racionalizar a produção, a indústria adota sistemas de base fixa:
-*   **Sistema Furo-Base (H):** Ou Furo Padrão, é o sistema de maior aceitação na indústria. Nele, a tolerância do furo permanece fixa (identificada pela letra H) e variam-se as tolerâncias dos eixos para obter o ajuste desejado. No furo H, o afastamento inferior é sempre zero. A linha zero indica a dimensão nominal e fixar a origem dos afastamentos.
+*   **Sistema Furo-Base (H):** Ou Furo Padrão, é o sistema de maior aceitação na indústria. Nele, a tolerância do furo permanece fixa (identificada pela letra H) e variam-se as tolerâncias dos eixos para obter o ajuste desejado. No furo H, o afastamento inferior é sempre zero. A linha zero indica a dimensão nominal e fixar a origem dos afastamentos. Note que ela também serve como referência visual ao classificar os ajustes.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7f3359c2-f048-4fa8-b24d-fd95ba72f90d" />
 <p>
