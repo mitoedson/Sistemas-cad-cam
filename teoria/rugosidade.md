@@ -45,6 +45,9 @@ Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
 *   **Símbolo básico ($\sqrt{\text{ }}$):** Indica a necessidade de acabamento, mas sem detalhes isoladamente.
 *   **Triângulo aberto ($\nabla$):** Indica que a remoção de material por usinagem é **exigida**.
 *   **Círculo no vértice ($\circ$):** Indica que a remoção de material **não é permitida** (a peça deve manter o estado de fabricação anterior).
+<p>
+<img width="00" alt="image" src="https://github.com/user-attachments/assets/d260a6dc-92c8-47a7-a949-750a9a967b50" />
+
 *   **Indicações complementares:** Sobre o símbolo, podem ser anotados o processo de fabricação (ex: fresado), o comprimento de amostragem e a direção das estrias (paralela, perpendicular, cruzada, etc.).
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a26caf57-a178-495e-9801-de48c8eb0c57" />
