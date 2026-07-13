@@ -8,7 +8,7 @@ O sistema GD&T (NBR 6409 / ISO 1101) classifica as condições de orientação e
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/3623d245-56ce-41c9-91f6-238fbb7d1e1c" />
 <p>
-O eixo do furo superior deve ficar paralelo ao eixo do furo inferior, que é a referência (Datum).
+O eixo do furo superior deve ficar paralelo ao eixo do furo inferior, que é a referência (Datum). O eixo do furo superior deve estar compreendido dentro da zona cilíndrica de diâmetro t, paralela ao eixo do furo inferior.
 
 *   **Perpendicularidade (⊥):** Condição onde o elemento tolerado deve formar um ângulo reto exato de 90º em relação à referência.
 <p>
