@@ -23,3 +23,7 @@ A notação **±0,02** significa que o afastamento é **simétrico** — mesmo v
 | Tolerância (IT) | 12,02 − 11,98 = **0,04 mm** |
 
 > O pino será aceito se seu diâmetro real estiver entre **11,98 mm** e **12,02 mm**.
+
+---
+
+<a href="/teoria/toleranciadimensional.md">Ir para Tolerância Dimensional - Teoria</a>
