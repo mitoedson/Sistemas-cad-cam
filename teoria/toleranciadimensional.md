@@ -56,6 +56,7 @@ Para entender o que são ajustes precisamos antes saber o que são eixos e furos
 peça, ou parte de peça, que funciona alojada em outra. Em geral, a superfície externa de um eixo trabalha acoplada à superfície interna de um furo. É frequente que os furos são mostrados em corte (ilustrados com linha hachurada), para distinguir de um eixo.
 
 O ajuste é o encaixe entre duas peças (eixo e furo), e existem três classes (ajuste com folga, ajuste com interferência, e ajuste incerto:
+<p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/d1aed5c6-2846-495f-8520-2eee2d8d75d5" />
 
 *   **Ajuste com Folga:** A dimensão máxima do eixo é menor ou, em casos extremos, igual à dimensão mínima do furo, permitindo rotação ou deslizamento.
