@@ -36,7 +36,7 @@ A norma (NBR 8404 / ISO 1302) organiza os níveis de acabamento em 12 classes, o
 *   **N10 a N12 (12,5 a 50 $\mu\text{m}$):** Acabamentos mais grosseiros, típicos de superfícies desbastadas, fundidas ou forjadas.
 <img width="397" height="457" alt="image" src="https://github.com/user-attachments/assets/62ab123f-4314-4114-93fd-974edcafa54f" />
 <p>
-<img width="397" alt="image" src="https://github.com/user-attachments/assets/992286a5-4c48-43d9-8e51-05654a5d3c07" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a26caf57-a178-495e-9801-de48c8eb0c57" />
 
 <hr>
 
@@ -50,19 +50,14 @@ Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
 
 *   **Indicações complementares:** Sobre o símbolo, podem ser anotados o processo de fabricação (ex: fresado), o comprimento de amostragem e a direção das estrias (paralela, perpendicular, cruzada, etc.).
 <p>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/a26caf57-a178-495e-9801-de48c8eb0c57" />
-
-
-
-<hr>
-
-### **6. Simbologia para indicação da direção de estrias**
-
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/4fe522a1-2495-4991-8b12-ee4bf23503a0" />
 
+<p>
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/992286a5-4c48-43d9-8e51-05654a5d3c07" />
+
 <hr>
 
-### **7. Relação com Tolerâncias Dimensionais**
+### **6. Relação com Tolerâncias Dimensionais**
 As fontes indicam uma regra prática para estimar a tolerância dimensional possível de se obter: ela pode ser estimada dividindo-se o valor da rugosidade em mícron por 40. Por exemplo, uma rugosidade **Ra de 0,1 $\mu\text{m}$** equivaleria a uma tolerância dimensional de aproximadamente **$\pm 0,0025\text{ mm}$**.
 
 <a href="toleranciadimensional.md">Leia sobre Tolerâncias Dimensionais</a>
