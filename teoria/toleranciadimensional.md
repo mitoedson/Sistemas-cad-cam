@@ -9,7 +9,7 @@ Para entender como uma dimensão varia, utilizam-se os seguintes conceitos:
     *   **Afastamento Superior:** Define o limite máximo da cota.
     *   **Afastamento Inferior:** Define o limite mínimo da cota.
 *   **Limites Dimensionais:** A **Dimensão Máxima** e a **Dimensão Mínima** são os valores extremos aceitáveis. A medida real da peça após a fabricação (**Dimensão Efetiva** = **Dimensão Real**) deve estar entre esses dois limites.
-*   **Cálculo da Tolerância:** Corresponde ao valor absoluto da diferença entre a dimensão máxima e a mínima.
+*   **Cálculo da Tolerância:** Corresponde ao valor absoluto da diferença entre a dimensão máxima e a mínima. Ou seja, a tolerância é sempre um valor positivo.
 <p>
 <a href="/exercicios/toleranciadimensional01.md">Exercício 01</a>, <a href="/exercicios/toleranciadimensional02.md">Exercício 02</a>,
 <a href="/exercicios/toleranciadimensional03.md">Exercício 03</a>, <a href="/exercicios/toleranciadimensional06.md">Exercício 06</a>, 
