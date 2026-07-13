@@ -10,8 +10,10 @@ O sistema GD&T (NBR 6409 / ISO 1101) classifica as condições de orientação e
 <p>
 O eixo do furo superior deve ficar paralelo ao eixo do furo inferior, que é a referência (Datum).
 
-
 *   **Perpendicularidade (⊥):** Condição onde o elemento tolerado deve formar um ângulo reto exato de 90º em relação à referência.
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/146e77e1-8d9e-488d-a55a-b59e3d1561f6" />
+
 *   **Inclinação ou Angularidade (∠):** Aplicada quando o projeto exige um ângulo específico diferente de 90º entre as partes.
 
 ### **2. Campo de Tolerância (Zona de Tolerância)**
