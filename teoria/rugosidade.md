@@ -28,7 +28,7 @@ O parâmetro de rugosidade mais utilizado mundialmente, e adotado pela ABNT, é 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9e798376-ef86-457e-948a-924721b0e488" />
 
 
-## **3.1. Relação com Tolerâncias Dimensionais**
+## 3.1. Relação com Tolerâncias Dimensionais
 Uma regra prática para estimar a tolerância dimensional possível de se obter: ela pode ser estimada dividindo-se o valor da rugosidade em mícron por 40. Por exemplo, uma rugosidade **Ra de 0,1 $\mu\text{m}$** equivaleria a uma tolerância dimensional de aproximadamente **$\pm 0,0025\text{ mm}$**.
 
 <a href="toleranciadimensional.md">Leia sobre Tolerâncias Dimensionais</a>
