@@ -2,12 +2,7 @@
 
 <img width="616" height="75" alt="image" src="https://github.com/user-attachments/assets/b986a840-0bcd-4a0f-83fa-5dbfa7584685" />
 
-# Campo de Tolerância: 16 +0,18 / -0,05
-
-## Calculando os limites:
-
 **Dimensão máxima** = 16 + 0,18 = **16,18 mm**
-
 **Dimensão mínima** = 16 - 0,05 = **15,95 mm**
 
 ---
