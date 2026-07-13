@@ -2,8 +2,6 @@
 
 As **tolerâncias de orientação** estabelecem os limites para os desvios angulares aceitáveis de um elemento da peça (como uma linha ou superfície) em relação a uma inclinação ideal prescrita no desenho técnico. Diferente das tolerâncias de forma, que se aplicam a elementos isolados, as de orientação aplicam-se obrigatoriamente a **elementos associados**, o que significa que exigem sempre um **elemento de referência** (conhecido como *datum*) para que a verificação seja realizada.
 
-Abaixo, apresento uma análise detalhada baseada nas fontes:
-
 ### **1. Categorias e Simbologia**
 O sistema GD&T (NBR 6409 / ISO 1101) classifica as condições de orientação em três tipos principais:
 *   **Paralelismo (//):** Os elementos devem manter uma distância equidistante constante e não formar ângulo entre si.
