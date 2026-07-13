@@ -59,7 +59,10 @@ Abaixo, temos os símbolos que são utilizados atualmente:
 *   **Círculo no vértice ($\circ$):** Indica que a remoção de material **não é permitida** (a peça deve manter o estado de fabricação anterior).
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/d260a6dc-92c8-47a7-a949-750a9a967b50" />
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f5effc4c-be24-4261-9d8c-3bf979bcfa69" />
 
+  
 *   **Indicações complementares:** Sobre o símbolo, podem ser anotados o processo de fabricação (ex: fresado), o comprimento de amostragem e a direção das estrias (paralela, perpendicular, cruzada, etc.).
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/4fe522a1-2495-4991-8b12-ee4bf23503a0" />
