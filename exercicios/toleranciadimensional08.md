@@ -7,18 +7,8 @@ Tolerância = Afastamento Superior − Afastamento Inferior
 $$T = (-0{,}13) - (-0{,}20)$$
 $$T = -0{,}13 + 0{,}20$$
 $$\boxed{T = 0{,}07 \text{ mm}}$$
-
----
-
-## Verificando os limites:
-
-| | Cálculo | Resultado |
-|---|---|---|
-| **Dimensão máxima** | 28 + (−0,13) | 27,87 mm |
-| **Dimensão mínima** | 28 + (−0,20) | 27,80 mm |
-| **Tolerância** | 27,87 − 27,80 | **0,07 mm** |
-
-> A tolerância é sempre um valor **positivo**, representando a **variação total permitida** na dimensão.
+<p>
+A tolerância é sempre um valor **positivo**, representando a **variação total permitida** na dimensão.
 
 ---
 
