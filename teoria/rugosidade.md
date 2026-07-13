@@ -42,6 +42,12 @@ A norma (NBR 8404 / ISO 1302) organiza os níveis de acabamento em 12 classes, o
 
 ### **5. Simbologia no Desenho Técnico**
 Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
+<p>
+Abaixo, temos os símbolos que não são utilizados, mas que podem constar em alguns projetos.<br>
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/992286a5-4c48-43d9-8e51-05654a5d3c07" />
+<p>
+Abaixo, temos os símbolos que são utilizados atualmente:
+  
 *   **Símbolo básico ($\sqrt{\text{ }}$):** Indica a necessidade de acabamento, mas sem detalhes isoladamente.
 *   **Triângulo aberto ($\nabla$):** Indica que a remoção de material por usinagem é **exigida**.
 *   **Círculo no vértice ($\circ$):** Indica que a remoção de material **não é permitida** (a peça deve manter o estado de fabricação anterior).
@@ -51,9 +57,6 @@ Os desenhos utilizam símbolos para indicar como a superfície deve ser tratada:
 *   **Indicações complementares:** Sobre o símbolo, podem ser anotados o processo de fabricação (ex: fresado), o comprimento de amostragem e a direção das estrias (paralela, perpendicular, cruzada, etc.).
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/4fe522a1-2495-4991-8b12-ee4bf23503a0" />
-
-<p>
-<img width="397" alt="image" src="https://github.com/user-attachments/assets/992286a5-4c48-43d9-8e51-05654a5d3c07" />
 
 <hr>
 
