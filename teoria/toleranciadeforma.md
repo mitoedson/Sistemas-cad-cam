@@ -5,9 +5,9 @@ São um grupo de controles geométricos que limitam o quanto um elemento (como u
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/e7bd61f5-0971-415a-a235-4721a8cd56a1" />
 <p>
 
-### 1. Tolerâncias de forma de linha
+## 1. Tolerâncias de forma de linha
 
-## 1.1. Retilineidade (Retitude) — Símbolo: —
+### 1.1. Retilineidade (Retitude) — Símbolo: —
 Refere-se ao desvio permitido de uma linha real em relação a uma linha reta teórica. O **campo de tolerância** pode assumir três formas principais:
 *   **No plano:** Duas retas paralelas afastadas pela distância "t".
 *   **Cilíndrica:** Quando aplicada a eixos de revolução, o campo é um cilindro imaginário de diâmetro "t" dentro do qual o eixo real deve estar contido (indicado pelo símbolo $\varnothing$ antes do valor).
@@ -15,13 +15,13 @@ Refere-se ao desvio permitido de uma linha real em relação a uma linha reta te
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/28ccb390-205c-4918-b8c3-b9dc0324a868" />
 
-## 1.2. Circularidade — Símbolo: ○
+### 1.2. Circularidade — Símbolo: ○
 Define o desvio aceitável de uma forma circular em seções transversais, sendo aplicada principalmente em peças cônicas e cilíndricas.
 *   **Campo de Tolerância:** Consiste na área entre **dois círculos concêntricos e coplanares** (no mesmo plano) afastados radialmente por uma distância "t".
 
 <img width="427" height="195" alt="image" src="https://github.com/user-attachments/assets/018ac931-7338-43bd-9dfa-0deb6949f3b0" />
 
-## 1.3. Perfil de uma Linha Qualquer — Símbolo: ⌒
+### 1.3. Perfil de uma Linha Qualquer — Símbolo: ⌒
 Utilizada para controlar formas irregulares compostas por raios e curvas.
 *   **Campo de Tolerância:** É a região limitada por duas linhas envolventes que tangenciam círculos de diâmetro "t", cujos centros estão localizados sobre a **linha geométrica ideal**.
 
