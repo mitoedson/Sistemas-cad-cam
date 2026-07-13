@@ -6,15 +6,8 @@ Tolerância máxima = +0,18 mm<br>
 Tolerância mínima = -0,05 mm<br>
 Dimensão máxima = 16 + 0,18 = 16,18 mm<br>
 Dimensão mínima = 16 - 0,05 = 15,95 mm
-
----
-
-## Campo de tolerância:
-
-```
-15,95 mm  ≤  dimensão aceita  ≤  16,18 mm
-```
-
+<p>
+Campo de tolerância: 15,95 mm  ≤  dimensão aceita  ≤  16,18 mm
 ---
 
 ## Análise de cada alternativa:
