@@ -1,6 +1,6 @@
 <h2>Tolerância dimensional</h2>
 
-A **tolerância dimensional** é a variação permitida em uma dimensão específica de uma peça, essencial porque é impossível fabricar componentes com medidas rigorosamente exatas devido a imprecisões inerentes aos processos de manufatura (máquinas, materiais e falhas humanas). Seu principal objetivo é garantir a **intercambiabilidade**, permitindo que peças sejam substituídas sem a necessidade de reparos ou ajustes manuais. Através dos desenhos técnicos as tolerâncias são indicadas, por valores e símbolos apropriados. 
+A **tolerância dimensional** é a variação permitida em uma dimensão específica de uma peça, essencial porque é impossível fabricar componentes com medidas rigorosamente exatas devido a imprecisões inerentes aos processos de manufatura (máquinas, materiais e falhas humanas). Seu principal objetivo é garantir a **intercambiabilidade**, permitindo que peças sejam substituídas sem a necessidade de reparos ou ajustes manuais. Através dos desenhos técnicos as tolerâncias são indicadas por meio de valores e símbolos apropriados. 
 
 ### **1. Elementos da Cota com Tolerância**
 Para entender como uma dimensão varia, utilizam-se os seguintes conceitos:
