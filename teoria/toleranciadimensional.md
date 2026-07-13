@@ -23,7 +23,7 @@ A norma padroniza a indicação de tolerâncias para facilitar a produção glob
 
 ### **3. Sistema de Tolerâncias, Tipos de Ajustes e Sistemas de Referência**
 
-O sistema de tolerâncias e ajustes ABNT/ISO, regido principalmente pela norma NBR 6158, consiste em um conjunto de princípios, regras e tabelas padronizadas internacionalmente para a escolha racional de limites dimensionais
+O sistema de tolerâncias e ajustes ABNT/ISO, regido principalmente pela norma NBR 6158, consiste em um conjunto de princípios, regras e tabelas padronizadas internacionalmente, em 1926, para a escolha racional de limites dimensionais
 
 O objetivo principal deste sistema é garantir a intercambiabilidade das peças, permitindo que componentes semelhantes possam ser substituídos entre si sem a necessidade de ajustes manuais ou reparos, o que torna a produção industrial mais econômica e competitiva
 
