@@ -2,8 +2,8 @@
 
 <img width="616" height="75" alt="image" src="https://github.com/user-attachments/assets/b986a840-0bcd-4a0f-83fa-5dbfa7584685" />
 <p>
-Tolerância máxima = +0,18<br>
-Tolerância mínima = -0,05<br>
+Tolerância máxima = +0,18 mm<br>
+Tolerância mínima = -0,05 mm<br>
 Dimensão máxima = 16 + 0,18 = 16,18 mm<br>
 Dimensão mínima = 16 - 0,05 = 15,95 mm
 
