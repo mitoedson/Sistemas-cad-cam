@@ -28,8 +28,7 @@ Utilizada para controlar formas irregulares compostas por raios e curvas.
 
 ### 2. Tolerâncias de forma de superfície
 
-
-### 2.1. Planeza (Planicidade) — Símbolo: ⏥
+## 2.1. Planeza (Planicidade) — Símbolo: ⏥
 Controla o desvio de uma superfície em relação a um plano perfeitamente liso. 
 *   **Campo de Tolerância:** É definido pelo espaço entre **dois planos paralelos** afastados pela distância "t". Apoiamos a peça em um suporte, em três pontos. Através do relógio comparador, aplicamos a medição em cada um dos três pontos, de modo que ele fique "zerado". Claro que para tentar fazer com que o ponteiro do relógio coincida com a posição do ponto pode estar alinhado. Assim, existe uma margem aceitável que viabilize a medição. O processo de medição da superfície tem seus padrões para medição da superfície. 
   
