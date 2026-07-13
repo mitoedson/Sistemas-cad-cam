@@ -4,7 +4,6 @@ São um grupo de controles geométricos que limitam o quanto um elemento (como u
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/e7bd61f5-0971-415a-a235-4721a8cd56a1" />
 <p>
-Abaixo, detalho os tipos de tolerâncias de forma conforme o material técnico:
 
 ### 1. Retilineidade (Retitude) — Símbolo: —
 Refere-se ao desvio permitido de uma linha real em relação a uma linha reta teórica. O **campo de tolerância** pode assumir três formas principais:
