@@ -53,7 +53,7 @@ A posição da tolerância em relação à "linha zero" (dimensão nominal) é i
 3.3. Classes de Ajustes
 
 Para entender o que são ajustes precisamos antes saber o que são eixos e furos de peças. Eixo é o nome genérico dado a qualquer
-peça, ou parte de peça, que funciona alojada em outra. Em geral, a superfície externa de um eixo trabalha acoplada à superfície interna de um furo. É frequente que os furos são mostrados em corte (ilustrados com linha hachurada).
+peça, ou parte de peça, que funciona alojada em outra. Em geral, a superfície externa de um eixo trabalha acoplada à superfície interna de um furo. É frequente que os furos são mostrados em corte (ilustrados com linha hachurada), para distinguir de um eixo.
 
 O ajuste é o encaixe entre duas peças (eixo e furo). Existem três classes:
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/d1aed5c6-2846-495f-8520-2eee2d8d75d5" />
