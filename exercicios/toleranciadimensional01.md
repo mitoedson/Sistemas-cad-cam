@@ -1,3 +1,8 @@
+<h2>Tolerância dimensional - Exercícios</h2>
+
+As cotas indicadas no desenho técnico são chamadas de dimensões nominais. É impossível executar as peças com os valores exatos dessas
+dimensões porque vários fatores interferem no processo de produção, tais como imperfeições dos instrumentos de medição e das máquinas, deformações do material e falhas do operador. Então, procura-se determinar desvios, dentro dos quais a peça possa funcionar corretamente. Esses desvios são chamados de afastamentos.
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/cc6c2d11-67bf-4d06-9320-9847b3d3aba7" />
 
 - **Dimensão nominal:** 20 mm
