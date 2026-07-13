@@ -50,6 +50,12 @@ A posição da tolerância em relação à "linha zero" (dimensão nominal) é i
 * Letras Maiúsculas (A até ZC): Identificam campos de tolerância para furos (medidas internas)
 * Letras Minúsculas (a até zc): Identificam campos de tolerância para eixos (medidas externas)
 
+Nos desenhos técnicos com indicação de tolerância, a qualidade de trabalho vem indicada apenas pelo numeral, semo IT. Antes do numeral vem uma ou duas letras, que representam o campo de tolerância no sistema ISO.
+<p>
+<img width="279" height="176" alt="image" src="https://github.com/user-attachments/assets/3f36748a-a417-4817-abf7-af50d324c9be" />
+<p>
+A dimensão nominal da cota é 20 mm. A tolerância é indicada por H7. O número 7, você já sabe, indica a qualidade de trabalho; ele está associado a uma qualidade de trabalho da mecânica corrente.
+
 3.3. Classes de Ajustes
 
 Para entender o que são ajustes precisamos antes saber o que são eixos e furos de peças. Eixo é o nome genérico dado a qualquer
