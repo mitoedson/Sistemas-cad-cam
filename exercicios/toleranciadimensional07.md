@@ -21,10 +21,4 @@ Campo de tolerância: 15,95 mm  ≤  dimensão aceita  ≤  16,18 mm
 
 ---
 
-## Resposta — traço embaixo de:
-
-**<u>a) 16 mm</u>** &nbsp;&nbsp;&nbsp; b) 15,5 mm &nbsp;&nbsp;&nbsp; **<u>c) 16,05 mm</u>** &nbsp;&nbsp;&nbsp; d) 15,82 mm &nbsp;&nbsp;&nbsp; **<u>e) 15,95 mm</u>**
-
----
-
 <a href="/teoria/toleranciadimensional.md">Ir para Tolerância Dimensional - Teoria</a>
