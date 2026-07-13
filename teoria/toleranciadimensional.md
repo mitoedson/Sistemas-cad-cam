@@ -99,6 +99,12 @@ Os ajustes incertos (ou "de transição") ocupam um espaço muito importante na 
  
 Para racionalizar a produção, a indústria adota sistemas de base fixa:
 *   **Sistema Furo-Base (H):** Ou Furo Padrão, é o sistema de maior aceitação na indústria. Nele, a tolerância do furo permanece fixa (identificada pela letra H) e variam-se as tolerâncias dos eixos para obter o ajuste desejado. No furo H, o afastamento inferior é sempre zero.
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7f3359c2-f048-4fa8-b24d-fd95ba72f90d" />
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/28587c25-b0c6-4366-ac83-6227a3413340" />
+
+
 *   **Sistema Eixo-Base (h):** Ou Eixo Padrão, a tolerância do eixo permanece constante (identificada pela letra h) e fabricam-se furos com tolerâncias variáveis. No eixo h, o afastamento superior é sempre zero.
 <p>
 <a href="/exercicios/toleranciadimensional04.md">Exercício 04</a>, <a href="/exercicios/toleranciadimensional13.md">Exercício 13</a>
