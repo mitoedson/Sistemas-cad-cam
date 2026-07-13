@@ -41,8 +41,6 @@ A norma (NBR 8404 / ISO 1302) organiza os níveis de acabamento em 12 classes, o
 *   **N5 a N9 (0,4 a 6,3 $\mu\text{m}$):** Aplicados em superfícies usinadas comuns, eixos, mancais de bronze e engrenagens.
 *   **N10 a N12 (12,5 a 50 $\mu\text{m}$):** Acabamentos mais grosseiros, típicos de superfícies desbastadas, fundidas ou forjadas.
 <img width="397" height="457" alt="image" src="https://github.com/user-attachments/assets/62ab123f-4314-4114-93fd-974edcafa54f" />
-<p>
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/a26caf57-a178-495e-9801-de48c8eb0c57" />
 
 <hr>
 
@@ -61,8 +59,9 @@ Abaixo, temos os símbolos que são utilizados atualmente:
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/d260a6dc-92c8-47a7-a949-750a9a967b50" />
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f5effc4c-be24-4261-9d8c-3bf979bcfa69" />
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a26caf57-a178-495e-9801-de48c8eb0c57" />
 
-  
 *   **Indicações complementares:** Sobre o símbolo, podem ser anotados o processo de fabricação (ex: fresado), o comprimento de amostragem e a direção das estrias (paralela, perpendicular, cruzada, etc.).
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/4fe522a1-2495-4991-8b12-ee4bf23503a0" />
