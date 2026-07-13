@@ -54,7 +54,7 @@ Nos desenhos técnicos com indicação de tolerância, a qualidade de trabalho v
 <p>
 <img width="279" height="176" alt="image" src="https://github.com/user-attachments/assets/3f36748a-a417-4817-abf7-af50d324c9be" />
 <p>
-A dimensão nominal da cota é 20 mm. A tolerância é indicada por H7. O número 7, você já sabe, indica a qualidade de trabalho; ele está associado a uma qualidade de trabalho da mecânica corrente.
+A dimensão nominal da cota é 20 mm. A tolerância é indicada por H7. O número 7 indica a qualidade de trabalho IT7, e está associado a uma qualidade de trabalho da mecânica corrente. H é a tolerância para furo.
 
 3.3. Classes de Ajustes
 
