@@ -34,7 +34,7 @@ O sistema estabelece 18 qualidades de trabalho, identificadas pela sigla IT (I d
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/15d8811a-567a-42f3-9c3a-2fdd06dd77d8" />
 
 * IT 01 a IT 3 (eixos) / IT 4 (furos): Associados à mecânica extraprecisa, utilizados principalmente na fabricação de calibradores e instrumentos de medição.
-* IT 4/5 a IT 11: Destinados à mecânica corrente ou de precisão, aplicados em peças que funcionam acopladas (eixos e furos). Para eixos, estabelece-se padrões entre IT4 a iT11. Para furos, entre IT5 a IT11.
+* IT 4/5 a IT 11: Destinados à mecânica corrente ou de precisão, aplicados em peças que funcionam acopladas (eixos e furos). Para eixos, estabelece-se padrões entre IT4 a IT11. Para furos, entre IT5 a IT11.
 * IT 12 a IT 16: Utilizados na mecânica grosseira ou para peças isoladas que não exigem grande precisão.
 <p>
 <a href="/exercicios/toleranciadimensional12.md">Exercício 12</a>
