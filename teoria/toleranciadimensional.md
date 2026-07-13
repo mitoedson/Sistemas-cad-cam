@@ -106,6 +106,12 @@ Para racionalizar a produção, a indústria adota sistemas de base fixa:
 
 
 *   **Sistema Eixo-Base (h):** Ou Eixo Padrão, a tolerância do eixo permanece constante (identificada pela letra h) e fabricam-se furos com tolerâncias variáveis. No eixo h, o afastamento superior é sempre zero.
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7d88ffc6-fb30-46d7-ab38-9671e3821271" />
+<p>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bd6e06ba-823a-4658-970f-0ba4d0527aa3" />
+
+   
 <p>
 <a href="/exercicios/toleranciadimensional04.md">Exercício 04</a>, <a href="/exercicios/toleranciadimensional13.md">Exercício 13</a>
 
