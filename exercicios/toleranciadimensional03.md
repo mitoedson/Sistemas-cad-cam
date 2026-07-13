@@ -17,6 +17,8 @@ Vamos identificar cada cota do desenho:
 | **40 ±0,25** | Comprimento total da peça |
 | **1×45°** | Chanfro (detalhe construtivo) |
 
+Lembrando que chanfro mostrado na imagem, representa uma linha inclinada, com 45° de inclinação, e seus catetos equivalem a 1 unidade de medida.
+
 ---
 
 ## Respostas:
