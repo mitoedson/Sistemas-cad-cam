@@ -13,7 +13,10 @@ O eixo do furo superior deve ficar paralelo ao eixo do furo inferior, que é a r
 *   **Perpendicularidade (⊥):** Condição onde o elemento tolerado deve formar um ângulo reto exato de 90º em relação à referência.
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/146e77e1-8d9e-488d-a55a-b59e3d1561f6" />
+<p>
+Como o eixo do furo C é a referência, o campo de tolerância do eixo do furo B deve ficar limitado entre dois planos paralelos, distanciados em t, e perpendiculares à reta de referência.
 
+  
 *   **Inclinação ou Angularidade (∠):** Aplicada quando o projeto exige um ângulo específico diferente de 90º entre as partes.
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9d6175d8-c2d5-4c4d-a4b4-63083c4eea82" />
