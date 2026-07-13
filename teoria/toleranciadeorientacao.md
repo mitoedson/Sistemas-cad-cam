@@ -7,6 +7,7 @@ O sistema GD&T (NBR 6409 / ISO 1101) classifica as condições de orientação e
 *   **Paralelismo (//):** Os elementos devem manter uma distância equidistante constante e não formar ângulo entre si.
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/3623d245-56ce-41c9-91f6-238fbb7d1e1c" />
+<p>
 O eixo do furo superior deve ficar paralelo ao eixo do furo inferior, que é a referência (Datum).
 
 
