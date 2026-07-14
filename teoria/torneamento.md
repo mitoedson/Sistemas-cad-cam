@@ -2,6 +2,7 @@
 
 
 Ver também https://www.geocities.ws/cmovbr73/
+https://mk12more.wordpress.com/
 
 A usinagem e o torneamento são processos fundamentais de fabricação voltados para a transformação de um corpo bruto em uma peça acabada através da remoção de material (cavaco)
 
