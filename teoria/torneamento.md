@@ -3,6 +3,7 @@
 
 Ver também https://www.geocities.ws/cmovbr73/
 https://mk12more.wordpress.com/
+https://www.engineeringchoice.org/lathe-machine-operations-and-cutting-tools/#google_vignette
 
 A usinagem e o torneamento são processos fundamentais de fabricação voltados para a transformação de um corpo bruto em uma peça acabada através da remoção de material (cavaco)
 
@@ -28,11 +29,13 @@ O torneamento é a operação de usinagem destinada à fabricação de peças ax
 <b>Principais Operações de Torneamento:</b>
 <ul>
     <li>Torneamento Longitudinal (Straight Turning): Gera perfis ao longo do eixo da peça
-    <li>Faceamento (Facing): Usinagem da face transversal da peça para garantir planeza e comprimento
+    <li>Faceamento (Facing): Usinagem da face transversal da peça, com o objetivo obter uma face plana, lisa, nivelada e perpendicular.
     <li>Mandrilamento (Boring): Torneamento de superfícies internas (furos existentes)
     <li>Sangramento (Grooving / Cut-off): Abertura de canais ou corte final da peça
     <li>Roscamento (Threading): Abertura de roscas internas ou externas, paralelas ou cônicas
 </ul>
+
+<img src="https://i0.wp.com/engineeringchoice.org/wp-content/uploads/2025/09/Lathe-Machine-Operations.webp?resize=840%2C473&amp;ssl=1" alt="Lathe Machine Operations"/><img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/4e7c41b5-a1d9-4063-8583-8cf0db8a77d1" />
 
 <p>
 <b>Processos Axissimétricos</b>
