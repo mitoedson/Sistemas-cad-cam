@@ -180,6 +180,8 @@ FUNDAMENTOS do processo de usinagem. **Molde Injeção Plásticos**, 20 fev. 202
 
 INFLUÊNCIA da velocidade de corte na integridade superficial em torneamento de aço inoxidável duplex. **CEFET-RJ**, [s.d.]. Disponível em: https://www.cefet-rj.br/attachments/article/2943/Projeto%20Final%202017_1%20Influ%C3%AAncia%20da%20Velocidade%20de%20Corte%20na%20Integridade%20Superficial%20em%20Toneamento%20A%C3%A7o%20Inoxid%C3%A1vel%20Duples.pdf. Acesso em: 9 jul. 2026.
 
+MACIEL, Carla Isabel dos Santos; Processos de fabricação. Londrina: Editora e Distribuidora Educacional S.A., 2017.
+    
 O QUE é cavaco e quais as suas características. **Simco**, 16 set. 2025. Disponível em: http://simcomaq.com.br/o-que-e-cavaco-e-quais-as-suas-caracteristicas/. Acesso em: 9 jul. 2026.
 
 OS MATERIAIS das ferramentas de corte. **CIMM**, 27 fev. 2014. Disponível em: https://www.cimm.com.br/portal/noticia/exibir_noticia/7058-os-materiais-das-ferramentas-de-corte. Acesso em: 9 jul. 2026.
