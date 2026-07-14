@@ -52,7 +52,7 @@ Abaixo, temos os símbolos que não são utilizados, mas que podem constar em al
 <p>
 Abaixo, temos os símbolos que são utilizados atualmente:
   
-*   **Símbolo básico ($\sqrt{\text{ }}$):** Indica a necessidade de acabamento, mas sem detalhes isoladamente.
+*   **Símbolo básico ($\sqrt{\text{ }}$):** Indica a necessidade de acabamento, mas o processo escolhido é facultativo, desde que atinja o que foi indicado.
 *   **Triângulo aberto ($\nabla$):** Indica que a remoção de material por usinagem é **exigida**.
 *   **Círculo no vértice ($\circ$):** Indica que a remoção de material **não é permitida** (a peça deve manter o estado de fabricação anterior).
 <p>
