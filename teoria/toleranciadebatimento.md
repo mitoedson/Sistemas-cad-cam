@@ -19,7 +19,7 @@ A verificação ocorre em pontos ou seções determinadas da peça, não fornece
 
 ### **3. Batimento Total**
 Ao contrário do circular, o batimento total exige que a verificação seja feita ao longo de **toda a extensão** da superfície tolerada. 
-*   **Radial:** Analisa simultaneamente a cilindricidade do elemento e o batimento circular radial. Durante a medição, além da rotação da peça, o instrumento desloca-se longitudinalmente, descrevendo uma trajetória **helicoidal**.
+*   **Radial:** Analisa simultaneamente a cilindricidade do elemento e o batimento circular radial. Durante a medição, além da rotação da peça, o instrumento desloca-se longitudinalmente, descrevendo uma trajetória **helicoidal**. É o controle mais rigoroso para cilindros. Ele soma os erros de circularidade, coaxialidade, cilindricidade (se a peça tem formato de barril ou ampulheta) e conicidade/retilineidade do eixo.
 <p>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/92f6dd59-57c9-4651-ab6b-4ab185094b87" />
 
