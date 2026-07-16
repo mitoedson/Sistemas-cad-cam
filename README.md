@@ -31,6 +31,9 @@ Usinagem é o processo de fabricação como um todo: qualquer método que produz
 
 <h4><a href="/teoria/torno.md">Torno</a></h4>
 O torno é uma máquina-ferramenta destinada à fabricação de peças axisimétricas (geometrias cilíndricas ou cônicas) através do processo de torneamento, que consiste na remoção de material (cavaco) enquanto a peça rotaciona. 
+
+<h4><a href="/teoria/fresamento.md">Fresamento</a></h4>
+
  
 <h4><a href="/teoria/cae.md">CAE - Computer-Aided Engineering</a></h4>
 O CAE (Computer-Aided Engineering, ou Engenharia Auxiliada por Computador) é a tecnologia que utiliza softwares de computador para simular, validar e otimizar projetos e processos de engenharia. <br>
