@@ -1,6 +1,6 @@
 <h1>Fresamento</h1>
 
-O **fresamento** é um processo de usinagem destinado à obtenção de superfícies planas, contornos, perfis e cavidades em peças de geometria **prismática**. Diferente do torneamento, onde a peça gira, no fresamento a ferramenta de corte é que possui o movimento de rotação.
+É um processo de usinagem destinado à obtenção de superfícies planas, contornos, perfis e cavidades em peças de geometria **prismática**. Diferente do torneamento, onde a peça gira, no fresamento a ferramenta de corte é que possui o movimento de rotação.
 
 Abaixo, detalho a análise do processo e o método de usinagem com base nas fontes:
 
