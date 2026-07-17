@@ -56,7 +56,7 @@ Clicando com o botão direito em Configuração1, em Navegação, escolhemos "Si
 
 ### Desbaste de Perfil 2
 
-Para realizar outro desbaste no último segmento da peça, repetimos os passos anteriores. Desta vez modificaremos na aba Ferramentas, e utilizaremos a ferramenta "VNMT09T302-DVLN (VNMT Left Hand)". Na aba Geometrial, o deslocamento frontal será ajustado no extremo inicial do segmento da peça que não foi concluído.
+Para realizar outro desbaste no último segmento da peça, repetimos os passos anteriores. Desta vez modificaremos na aba Ferramentas, e utilizaremos a ferramenta "VNMT09T302-DVLN (VNMT Left Hand)". Se utilizarmos a ferramenta anterior, provavelmente o desbaste não conseguirá remover por completo a última parte da peça. Na aba Geometria, o deslocamento frontal será ajustado no extremo inicial do segmento da peça que não foi concluído.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/91bfc036-eecc-4837-9906-eef32b1fce29" />
 <p>
