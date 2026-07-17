@@ -44,9 +44,14 @@ Faremos o desbaste no primeiro segmento da peça, utilizando em Torneamento, a o
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9130123e-9ecf-4053-b2f4-4aae3dab6a0e" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9509cdf1-c072-4f05-980e-96488e3f3b03" />
 <p>
-Na aba Geometrial, iremos ajustar os limites que a ferramenta percorrerá ao longo do segmento a ser desbastado. Para isso, arrastamos a linha "Voltar" até o extremo do segmento desejado.
+Na aba Geometria, iremos ajustar os limites que a ferramenta percorrerá ao longo do segmento a ser desbastado. Para isso, arrastamos a linha "Voltar" até o extremo do segmento desejado. Finalizamos com Ok.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9e2f9580-fb88-4661-91c5-c7880c4b36df" />
+<p>
+Clicando com o botão direito em Configuração1, em Navegação, escolhemos "Simular". Note que a partir de um cilíndro cinza, aparecerá uma face verde, que foi facejada, e uma área azul, por onde a ferramenta realizou o desbaste. 
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/76698be4-dc25-43f5-81c7-95011ee8e89a" />
+
 
 ### Desbaste de Perfil 2
 
