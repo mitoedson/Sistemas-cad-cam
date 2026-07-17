@@ -1,4 +1,4 @@
-<h1>SIMULAÇÕES DE PROCESSOS DE TORNEAMENTO</h1>
+<h1>Simulação de Processo de Torneamento</h1>
 
 ## Peça 3
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ef3d712f-43ae-48dc-97be-31fa10471873" />
