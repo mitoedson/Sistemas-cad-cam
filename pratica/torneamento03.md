@@ -80,7 +80,7 @@ Note que algumas áreas desbastadas formaram cantos arredondados, em vez de cant
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1a3c3beb-5012-4ed4-803e-d6eead089971" />
 <p>
-Outro recurso é modificar a ferramenra, editar as cofigurações de desbaste, e na aba Geometria, habilitar a opção "Usinagem de Resíduos". Selecionamos "De operações anteriores". Temos que gerar novamente, clicando no botão direito em "Configuração1", em Navegação, e simular.
+Outro recurso é modificar a ferramenta, editar as cofigurações de desbaste, e na aba Geometria, habilitar a opção "Usinagem de Resíduos". Selecionamos "De operações anteriores". Temos que gerar novamente, clicando no botão direito em "Configuração1", em Navegação, e simular.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/380e1537-51c2-41b9-915b-e3cd76ada563" />
 <p>
