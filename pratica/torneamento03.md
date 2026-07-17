@@ -56,6 +56,10 @@ Clicando com o botão direito em Configuração1, em Navegação, escolhemos "Si
 
 ### Desbaste de Perfil 2
 
+Para realizar outro desbaste no último segmento da peça, repetimos os passos anteriores. Na aba Geometrial, o deslocamento frontal será ajustado no extremo inicial do segmento da peça que não foi concluído.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6b036acc-85d8-401e-bda1-48fd2ad86752" />
+<p>
 
 ### Acabamento de Perfil 1
 
