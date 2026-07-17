@@ -15,5 +15,9 @@ Uma janela de configuração será aberta, onde teremos três abas. A primeira a
 Na aba Bloco, o Modo será um "Cilíndro de tamanho fixo", Posição do modelo como "Deslocamento da frente", com 60mm de Diâmetro de bloco, 122mm de Comprimento e 2mm de Deslocamento. Note que as Dimensões do modela já são exibidas como referência.  
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b4cd33ce-5bd2-4e29-8a02-810a26da9523" />
+<p>
+A primeira etapa do processo será Facejar a peça. Selecionamos na aba Torneamento, o primeiro ícone. Ou expandir a aba, e selecionar "Facejar"
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9fda857f-3995-43c8-bdb8-d7a50b92ad70" />
 
 
