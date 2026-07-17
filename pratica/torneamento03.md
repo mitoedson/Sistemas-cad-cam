@@ -38,11 +38,15 @@ Em Navegador (lado esquerdo), clicamos com o botão direito em [T1] Face, e esco
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7c6d03a4-fa9a-44fc-85a4-a0d6cdccad46" />
 
-
 ### Desbaste de Perfil 1
-
-
-
+Faremos o desbaste no primeiro segmento da peça, utilizando em Torneamento, a opção "Desbaste do perfil de torneamento". Será aberta uma janela, semelhante aos recursos de Facejamento, chamada "Desbaste de Perfil". Na aba Ferramentas, manteremos as mesmas configurações utilizadas anteriormente.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9130123e-9ecf-4053-b2f4-4aae3dab6a0e" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9509cdf1-c072-4f05-980e-96488e3f3b03" />
+<p>
+Na aba Geometrial, iremos ajustar os limites que a ferramenta percorrerá ao longo do segmento a ser desbastado. Para isso, arrastamos a linha "Voltar" até o extremo do segmento desejado.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9e2f9580-fb88-4661-91c5-c7880c4b36df" />
 
 ### Desbaste de Perfil 2
 
