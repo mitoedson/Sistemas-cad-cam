@@ -90,8 +90,8 @@ Outro recurso é modificar a ferramenta, editar as cofigurações de desbaste, e
 
 
 ### Acabamento de Perfil 1
-
-
+Nesta etapa utilizamos a mesma ferramenta para desbastar. Lembrando que ao reeditar as configurações, devemos Gerar a Configuração, e assim conseguimos simular.
+<p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1d480302-910f-4502-a57b-e283a3af67e7" />
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/8f5b1584-b467-4cbd-9708-9f40664e797a" />
