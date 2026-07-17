@@ -75,6 +75,8 @@ Após o processo gerar os percursos, simulamos novamente e desta vez temos três
 Note que algumas áreas desbastadas formaram cantos arredondados, em vez de cantos retos. Será necessário um ajuste do tipo de ferramenta, e modificar as configurações de sua dimensão.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/2c7dc2c7-4a58-45f7-8b8d-45e68a92cd85" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/23da0212-80dc-4098-8b8d-66f5a303c7a4" />
 
 
 ### Acabamento de Perfil 1
