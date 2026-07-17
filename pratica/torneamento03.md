@@ -12,7 +12,8 @@ Uma janela de configuração será aberta, onde teremos três abas. A primeira a
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/18845a8b-404d-47ee-85a8-5aac41eeaccb" />
 <p>
+Na aba Bloco, o Modo será um "Cilíndro de tamanho fixo", Posição do modelo como "Deslocamento da frente", com 60mm de Diâmetro de bloco, 122mm de Comprimento e 2mm de Deslocamento. Note que as Dimensões do modela já são exibidas como referência.  
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b4cd33ce-5bd2-4e29-8a02-810a26da9523" />
 
-  
-<img width="600" alt="1006_5" src="https://github.com/user-attachments/assets/351ea182-28d0-49b0-a500-10b6daaf6b1d" />
-<img width="600" alt="1006_6" src="https://github.com/user-attachments/assets/d564dc14-1d29-4e3c-8f57-3deb64f13c15" />
+
