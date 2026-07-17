@@ -84,9 +84,9 @@ Outro recurso é modificar a ferramenta, editar as cofigurações de desbaste, e
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/380e1537-51c2-41b9-915b-e3cd76ada563" />
 <p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/55d7c32d-66f9-4c85-9ca5-a5265e48a01d" />
-<p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ca151c4c-7231-4394-a6d8-35c8e09b2b05" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/55d7c32d-66f9-4c85-9ca5-a5265e48a01d" />
 
 
 ### Acabamento de Perfil 1
