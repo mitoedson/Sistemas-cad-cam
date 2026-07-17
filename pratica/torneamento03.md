@@ -16,8 +16,12 @@ Na aba Bloco, o Modo será um "Cilíndro de tamanho fixo", Posição do modelo c
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b4cd33ce-5bd2-4e29-8a02-810a26da9523" />
 <p>
-A primeira etapa do processo será Facejar a peça. Selecionamos na aba Torneamento, o primeiro ícone. Ou expandir a aba, e selecionar "Facejar"
+A primeira etapa do processo será Facejar a peça. Selecionamos na aba Torneamento, o primeiro ícone. Ou expandir a aba, e selecionar "Facejar". Uma janela será aberta chamada Face contendo cinco abas: Ferramenta, Geometria, Raio, Passos e Vincular.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9fda857f-3995-43c8-bdb8-d7a50b92ad70" />
+<p>
+Na primeira aba, Ferramenta, devemos selecionar qual ferramenta fará o Facejamento da peça. 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1bd6599c-9cbf-4747-a327-ba2161d4d983" />
+
 
 
