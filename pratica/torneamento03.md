@@ -90,7 +90,7 @@ Outro recurso é modificar a ferramenta, editar as cofigurações de desbaste, e
 
 
 ### Acabamento de Perfil 1
-Nesta etapa utilizamos a mesma ferramenta para desbastar. Lembrando que ao reeditar as configurações, devemos Gerar a Configuração, e assim conseguimos simular.
+Nesta etapa utilizamos a mesma ferramenta para desbastar. Ao passar a ferramenta de acabamento, a superfície aplicada mudará de cor.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1d480302-910f-4502-a57b-e283a3af67e7" />
 <p>
@@ -100,4 +100,11 @@ Nesta etapa utilizamos a mesma ferramenta para desbastar. Lembrando que ao reedi
 
 
 ### Acabamento de Perfil 2
+
+Aplicamos também para o último segmento da peça, concluíndo a simulação.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/15de8140-cf19-4799-adfe-a6bd325bd86d" />
+
+
+
 
