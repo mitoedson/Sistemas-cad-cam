@@ -90,7 +90,7 @@ Outro recurso é modificar a ferramenta, editar as cofigurações de desbaste, e
 
 
 ### Acabamento de Perfil 1
-Nesta etapa utilizamos a mesma ferramenta para desbastar. Ao passar a ferramenta de acabamento, a superfície aplicada mudará de cor.
+Nesta etapa utilizamos a mesma ferramenta para desbastar. Não esquecendo que deve-se mudar, na aba Geometria, as áreas por onde a ferramenta percorrerá, evitando que faça o acabamento em áreas que não foram indicadas. Ao passar a ferramenta de acabamento, a superfície aplicada mudará de cor.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1d480302-910f-4502-a57b-e283a3af67e7" />
 <p>
