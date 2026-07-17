@@ -92,5 +92,12 @@ Outro recurso é modificar a ferramenta, editar as cofigurações de desbaste, e
 ### Acabamento de Perfil 1
 
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1d480302-910f-4502-a57b-e283a3af67e7" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8f5b1584-b467-4cbd-9708-9f40664e797a" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/befb398b-d11c-436e-b4a5-80836134270f" />
+
+
 ### Acabamento de Perfil 2
 
