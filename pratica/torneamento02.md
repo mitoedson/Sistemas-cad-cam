@@ -1,6 +1,5 @@
 <h1>Simulação de Processo de Torneamento</h1>
 
-<hr>
 <h3>Peça 2</h4>
 <h4>Configuração</h4>
 <img width="600" alt="1005_5" src="https://github.com/user-attachments/assets/bc24f8f1-2e74-4d57-a7ac-ba4de939a2b6" />
