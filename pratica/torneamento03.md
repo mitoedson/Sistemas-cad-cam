@@ -79,6 +79,14 @@ Note que algumas áreas desbastadas formaram cantos arredondados, em vez de cant
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/23da0212-80dc-4098-8b8d-66f5a303c7a4" />
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1a3c3beb-5012-4ed4-803e-d6eead089971" />
+<p>
+Outro recurso é modificar a ferramenra, editar as cofigurações de desbaste, e na aba Geometria, habilitar a opção "Usinagem de Resíduos". Selecionamos "De operações anteriores". Temos que gerar novamente, clicando no botão direito em "Configuração1", em Navegação, e simular.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/380e1537-51c2-41b9-915b-e3cd76ada563" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/55d7c32d-66f9-4c85-9ca5-a5265e48a01d" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ca151c4c-7231-4394-a6d8-35c8e09b2b05" />
 
 
 ### Acabamento de Perfil 1
