@@ -77,6 +77,8 @@ Note que algumas áreas desbastadas formaram cantos arredondados, em vez de cant
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/2c7dc2c7-4a58-45f7-8b8d-45e68a92cd85" />
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/23da0212-80dc-4098-8b8d-66f5a303c7a4" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1a3c3beb-5012-4ed4-803e-d6eead089971" />
 
 
 ### Acabamento de Perfil 1
