@@ -38,3 +38,17 @@ Em Navegador (lado esquerdo), clicamos com o botão direito em [T2] Face, e esco
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/382aee1e-5996-4de1-9b3e-7e23b641a0f3" />
 
+### Desbaste de Perfil 1
+
+
+
+
+### Desbaste de Perfil 2
+
+
+### Acabamento de Perfil 1
+
+
+
+### Acabamento de Perfil 2
+
