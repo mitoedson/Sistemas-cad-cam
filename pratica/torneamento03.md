@@ -70,8 +70,14 @@ Após o processo gerar os percursos, simulamos novamente e desta vez temos três
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/4f4626af-5a83-42b8-9a45-399605984a8b" />
 
-### Acabamento de Perfil 1
+### Ajustes 
 
+Note que algumas áreas desbastadas formaram cantos arredondados, em vez de cantos retos. Será necessário um ajuste do tipo de ferramenta, e modificar as configurações de sua dimensão.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2c7dc2c7-4a58-45f7-8b8d-45e68a92cd85" />
+
+
+### Acabamento de Perfil 1
 
 
 ### Acabamento de Perfil 2
