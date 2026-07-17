@@ -63,8 +63,12 @@ Para realizar outro desbaste no último segmento da peça, repetimos os passos a
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7b900681-98cb-4a26-a8fc-091a7b920d03" />
 <p>  
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/20248d9b-b565-418d-9bcc-6a6a3a6efb97" />
-
 <p>
+Após o processo gerar os percursos, simulamos novamente e desta vez temos três áreas destacadas, mostrando que o processo de facejamento e desbaste foi concluído.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1496a423-2625-4384-911a-a39c23698a0c" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/4f4626af-5a83-42b8-9a45-399605984a8b" />
 
 ### Acabamento de Perfil 1
 
