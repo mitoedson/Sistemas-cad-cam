@@ -36,7 +36,8 @@ A ferramenta já é vista na visão frontal, posicionada no lado direito da peç
 <p>
 Em Navegador (lado esquerdo), clicamos com o botão direito em [T2] Face, e escolhemos "Simular". Esta etapa dará início ao processo de simulação de Facejamento, onde a face frontal será facejada pela ferramenta. Clicando na seta de animação para direita, a ferramenta se moverá, deixando uma área verde, indicando que a superfície foi trabalhada.
 <p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/382aee1e-5996-4de1-9b3e-7e23b641a0f3" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/7c6d03a4-fa9a-44fc-85a4-a0d6cdccad46" />
+
 
 ### Desbaste de Perfil 1
 
