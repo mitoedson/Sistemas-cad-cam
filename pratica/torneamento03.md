@@ -20,8 +20,16 @@ A primeira etapa do processo será Facejar a peça. Selecionamos na aba Torneame
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9fda857f-3995-43c8-bdb8-d7a50b92ad70" />
 <p>
-Na primeira aba, Ferramenta, devemos selecionar qual ferramenta fará o Facejamento da peça. 
+Na primeira aba, Ferramenta, devemos selecionar qual ferramenta fará o Facejamento da peça.
+<p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1bd6599c-9cbf-4747-a327-ba2161d4d983" />
-
-
+<p>
+Optaremos na Biblioteca do Fusion, Ferramentas de torneamento (métrico). Escolheremos a ferramenta CNMT09T308-DCLN-R (CNMT Right Hand).
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1d7237fe-0cf0-4ae7-a23b-05170dae7cc1" />
+<p>
+A ferramenta já é vista na visão frontal, posicionada no lado direito da peça, aguardando o término da configuração, e execução da simulação.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2bd7f753-4b8c-4cb8-8e3d-cd0180a2f2fb" />
+<p>
 
