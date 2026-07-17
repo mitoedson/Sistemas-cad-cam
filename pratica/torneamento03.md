@@ -48,7 +48,7 @@ Na aba Geometria, iremos ajustar os limites que a ferramenta percorrerá ao long
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9e2f9580-fb88-4661-91c5-c7880c4b36df" />
 <p>
-Clicando com o botão direito em Configuração1, em Navegação, escolhemos "Simular". Note que a partir de um cilíndro cinza, aparecerá uma face verde, que foi facejada, e uma área azul, por onde a ferramenta realizou o desbaste. 
+Clicando com o botão direito em Configuração1, em Navegação, escolhemos "Simular". Note que a partir de um cilíndro cinza, ao final da simulação aparecerá uma face verde, que foi facejada, e uma área azul, por onde a ferramenta realizou o desbaste. 
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/f622bafc-34f2-42c0-bab0-e4046ed2ac84" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/76698be4-dc25-43f5-81c7-95011ee8e89a" />
