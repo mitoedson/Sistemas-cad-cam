@@ -50,6 +50,7 @@ Ao simular, obtemos o faceamento executado na peça.
 Pode-se ajustar em Passos -> Deslocamento do Bloco, e configurar em alguns mm além do limite do bloco. Deve-se considerar se ao ultrapassar o limite, não afetará outras áreas da peça. 
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/3df1681c-68b4-4a32-9487-afe4d53a115a" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2949a0be-6592-4261-a2b1-349601f4544e" />
 
 
 <h4>Contorno 2D</h4>
