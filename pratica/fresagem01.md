@@ -9,10 +9,16 @@ Ao abrir a Figura no Autodesk Fusion 360, trabalharemos no Espaço de Trabalho d
 <h4>Configuração</h4>
 Uma janela será aberta no lado direito, contendo três abas: Configuração, Bloco e Pós-Processar. Trabalharemos apenas com os dois primeiros. Logo no início, um envólucro transparente envolverá a peça, e em suas arestas e faces laterais aparecerão pontos brancos, e o eixo de coordenadas poderá aparecer no meio da peça. Como é uma fresa, o eixo Z deverá apontar para o eixo vertical, enquanto que o eixo X e Y formarão um plano horizontal. O eixo de coordenadas deverá ser deslocado para um dos extremos do envólucro, onde será nosso ponto zero.
 
-Na aba Configuração, optaremos pelos seguintes valores:
+Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a configuração):
 
 - Configuração -> Tipo de operação: Fresamento
 - Sistema de coordenadas de trabalho (WCS) -> Orientação: Eixos X & Y
+- Sistema de coordenadas de trabalho (WCS) -> Eixo X: Selecionar -> Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo X, ou um aresta paralela ao eixo X. 
+- Sistema de coordenadas de trabalho (WCS) -> Eixo Y: Selecionar -> Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo Y, ou um aresta paralela ao eixo Y. 
+  
+- Sistema de coordenadas de trabalho (WCS) -> Origem: Ponto de caixa do bloco
+- Sistema de coordenadas de trabalho (WCS) -> Ponto do bloco: Ponto da caixa -> Seleciono o extremo esquerdo superior do envólucro.
+
  
 - deve-se posicionar o eixo de coordenadas de trabalho. Escolhemos uma das bordas da peça, e ajustamos os eixos conforme mostrado na imagem. Em Ponto do bloco, selecione "Ponto da caixa", e clique em um dos pontos da borda da peça. 
 <p>
