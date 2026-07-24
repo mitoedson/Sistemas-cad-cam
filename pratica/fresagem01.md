@@ -17,7 +17,7 @@ Em Bloco, selecionamos em Modo, a opção "Caixa de tamanho relativo".
 
 <h4>Face</h4>
 
-Na aba 2D, clique em Face. Ao abrir a janela Face, deve-se escolher a Ferramenta, em "Selecionar...". Nas Bilbiotecas de usuário -> Biblioteca do Fusion, opte por "Ferramentas de fresamento (métrico)". Ative a Biblioteca, e escolha ∅10mm (10mm Flat Endmill). Podemos tambem experimentar ∅20mm (20mm Flat Endmill).  
+Na aba 2D, clique em Face. Ao abrir a janela Face, deve-se escolher a Ferramenta, em "Selecionar...". Nas Bilbiotecas de usuário -> Biblioteca do Fusion, opte por "Ferramentas de fresamento (métrico)". Ative a Biblioteca, e escolha ∅10mm (10mm Flat Endmill). Podemos também experimentar ∅20mm (20mm Flat Endmill).  
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/efd8d715-1bcd-4740-b85a-407c17fe056b" />
 <p>
@@ -33,7 +33,7 @@ Em Passos, selecione Passagens Múltiplas.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/127740b3-7b35-4669-8f51-eaed58e1086f" />
 <p>
-Ao final da configuração, deve-se ter a seguinte imagem, com a ferramenta posiciona e o caminho que ela irá percorrer. Ao simular, obtemos a face executada na peça.
+Ao final da configuração, deve-se ter a seguinte imagem com a ferramenta ∅20mm (20mm Flat Endmill) posicionada e o caminho que ela irá percorrer. Ao simular, obtemos a face executada na peça.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1bfb12fe-ebed-4d32-9128-02c643537982" />
 <p>
