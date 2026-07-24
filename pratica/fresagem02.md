@@ -69,7 +69,7 @@ Habilitamos a opção Face, na aba Fresagem => 2D. Será aberto uma janela no la
 <img width="600" alt="image" src="fresagem02_07.jpg">
 <img width="600" alt="image" src="fresagem02_08.jpg">
 <p>
-<i>Figura 7:</i>
+<i>Figura 7 e 8:</i>
 </div>
 
 Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => Selecionar. Uma outra janela será aberta, com diversas Bibliotecas do Fusion. Optaremos pelas Ferramentas de Fresagem (métrico) => Ø20mm (20mm Flat Endmill). Caso a biblioteca esteja desativada, basta Ativar Biblioteca.
@@ -77,7 +77,7 @@ Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_09.jpg">
 <p>
-<i>Figura 8:</i>
+<i>Figura 9:</i>
 </div>
 
 Repare que as informações sobre Parâmetros de corte mudaram após habilitar a ferramenta. As informações serão úteis para ajuste quando analisarmos o processo de fresamento, o material a ser trabalhado, etc. Por hora, não alteraremos os valores já que não estamos ainda aplicando para um processo real.
@@ -85,9 +85,21 @@ Repare que as informações sobre Parâmetros de corte mudaram após habilitar a
 <div align="center">
 <img width="600" alt="image" src="fresagem02_10.jpg">
 <p>
-<i>Figura 9:</i>
+<i>Figura 10:</i>
 </div>
 
-Na aba Planos de trabalho, 
+Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça: Deslocamento da altura da folga (vermelho), Deslocamento da altura do avanço (verde), Deslocamento superior (azul claro), Offset ao fundo (azul escuro). O deslocamento superior corresponde justamente ao valor de deslocamento (offset) configurado em bloco, indicando onde a superfície do material bruto está posicionado (no caso, 2mm). O deslocamento de altura do avanço é a área onde a ferramenta ficará posicionada antes de começar o faceamento. 
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_11.jpg">
+<p>
+<i>Figura 11:</i>
+</div>
 
 
+Na aba Passos, habilitamos Passagens Múltiplas
+<div align="center">
+<img width="600" alt="image" src="fresagem02_12.jpg">
+<p>
+<i>Figura 12:</i>
+</div>
