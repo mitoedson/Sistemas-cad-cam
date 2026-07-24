@@ -146,6 +146,15 @@ Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alter
 <i>Figura 19: Configuração em Planos de trabalho</i>
 </div>
 
+Na aba Passos, habilitamos a opção Passagens Múltiplas. O passo vertical máximo indicamos 4.0 mm, com 4 passos verticais, e 2.00 mm de passo vertical de acabamento.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_20.jpg">
+<p>
+<i>Figura 20: Configuração em Passos</i>
+</div>
+
+
 
 
 
