@@ -48,8 +48,12 @@ Na aba 2D, clique em Contorno 2D. Ao abrir a janela Face, deve-se escolher a Fer
 Em Passos -> Passagens Múltiplas, coloque 4 para Passos verticais de acabamento, e 4.00mm para Passo vertical de acabamento.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/153b40c3-2bdb-4894-9d7b-367441e5b96b" />
-
-
+<p>
+Antes da simulação, podemos ver o caminho que a ferramenta caminhará. Concluíndo a simulação, temos a peça desbastada.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/804e8a82-2248-42b1-8008-0c908703fcaf" />
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6a242513-7817-44a3-81c0-c85e3cdeaec6" />
 
 
 
