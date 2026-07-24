@@ -24,7 +24,11 @@ Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a
 - Sistema de coordenadas de trabalho (WCS) => Origem => Ponto de caixa do bloco
 - Sistema de coordenadas de trabalho (WCS) => Ponto do bloco =>  Ponto da caixa => Seleciono o extremo esquerdo superior do envólucro, que deslocará o eixo de coordenadas para aquele ponto.
 
-<img width="600" alt="image" src="fresagem02.jpg">
+<div align="center">
+<img width="600" alt="image" src="fresagem02_02.jpg">
+<p>
+<i>Figura 2: Peça para fresagem</i>
+</div>
 
 <p>
 Na aba Bloco, na configuração em Modo, há duas opções de envólucros que se encaixam em nossa peça: "Caixa de tamanho relativo" e "Caixa de tamanho fixo". Se optarmos pelo tamanho relativo, os valores para ajustes de deslocamento lateral, superior e inferior serão adicionados proporcionalmente para cada dimensão, respectivamente. Por um lado distribui as dimensões, por outro não temos um controle real das dimensões quando colocarmos em prática no equipamento uma peça bruta, e executar a tarefa de fresamento.
