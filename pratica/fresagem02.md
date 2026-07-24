@@ -10,7 +10,7 @@ Ao abrir o arquivo da Figura 1 no Autodesk Fusion 360, trabalharemos no Espaço 
 <i>Figura 1: Peça para fresagem</i>
 </div>
 
-<h4>Configuração</h4>
+<h3>Configuração</h3>
 Uma janela será aberta no lado direito, contendo três abas: Configuração, Bloco e Pós-Processar. Trabalharemos apenas com os dois primeiros. Logo no início, um envólucro transparente envolverá a peça, e em suas arestas e faces laterais aparecerão pontos brancos, e o eixo de coordenadas poderá aparecer no meio da peça. Como é uma fresa, o eixo Z deverá apontar para o eixo vertical, enquanto que o eixo X e Y formarão um plano horizontal. O eixo de coordenadas deverá ser deslocado para um dos extremos do envólucro, onde será nosso ponto zero.
 
 Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a configuração):
@@ -50,5 +50,16 @@ Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y)
 
 <b>Observações:</b><br>
 Note que há a opção Arredondamento para o mais próximo. Não iremos alterar este valor, por hora, já que ele fará o arredondamento para cima das dimensões de todo o bloco. Um dos motivos para que ela exista é quando ao adquirir uma matéria prima para realizar a fresagem, ela vem com dimensões específicas para venda, nunca valores quebrados. Portanto, esta opção é útil nessa situação. Para fins didáticos, ela é mais um item a ser conhecido.
-<p>
+
 Outra opção que não utilizaremos é a opção Bloco fixo na origem do modelo, que desabilitaremos pois o eixo de coordenadas de trabalho que configuramos pode não ser o mesmo que o eixo origem da peça quando foi modelada, e aberta em Projeto.  Se habilitarmos, toda a configuração realizada será deslocada para o eixo origem do Projeto, não da Manufatura.
+
+
+<h3>Fresagem</h3>
+
+
+
+
+
+
+
+
