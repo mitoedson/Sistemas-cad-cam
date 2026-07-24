@@ -27,7 +27,7 @@ Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a
 <div align="center">
 <img width="600" alt="image" src="fresagem02_02.jpg">
 <p>
-<i>Figura 2: Peça para fresagem</i>
+<i>Figura 2: Ambiente de configuração</i>
 </div>
 
 <p>
