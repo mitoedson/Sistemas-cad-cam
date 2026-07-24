@@ -126,10 +126,26 @@ O processo para remoção do contorno da peça tem passos parecidos com a que re
 <div align="center">
 <img width="600" alt="image" src="fresagem02_15.jpg">
 <img width="600" alt="image" src="fresagem02_16.jpg">
-<img width="600" alt="image" src="fresagem02_17.jpg">
 <p>
-<i>Figura 15:</i>
+<i>Figura 15 e 16</i>
 </div>
+
+Na aba Geometria, em Seleção de contorno => Selecionar, devemos selecionar a borda inferior do plano. Note que uma seta vermelha aparecerá paralelo à aresta inferior. 
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_18.jpg">
+<p>
+<i>Figura 18: Configuração em Geometria</i>
+</div>
+
+Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento foi executado, e a ferramenta partirá da posição onde está sinalizado "Deslocamento superior".
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_19.jpg">
+<p>
+<i>Figura 19: Configuração em Planos de trabalho</i>
+</div>
+
 
 
 
