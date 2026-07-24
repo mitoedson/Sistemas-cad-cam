@@ -33,11 +33,13 @@ Em Passos, selecione Passagens Múltiplas.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/127740b3-7b35-4669-8f51-eaed58e1086f" />
 <p>
-Ao final da configuração, deve-se visualizar as seguintes imagens: com a ferramenta ∅10mm (10mm Flat Endmill) e ∅20mm (20mm Flat Endmill). Cada uma posicionada e o caminho que ela irá percorrer. Ao simular, obtemos o faceamento executado na peça.
+Ao final da configuração, deve-se visualizar as seguintes imagens: com a ferramenta ∅10mm (10mm Flat Endmill) e ∅20mm (20mm Flat Endmill). Cada uma posicionada e o caminho que ela irá percorrer.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/317f3b40-e6be-4fe2-8cc4-a98d63d77249" />
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1bfb12fe-ebed-4d32-9128-02c643537982" />
+<p>
+Ao simular, obtemos o faceamento executado na peça.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/2beefd25-36da-46eb-ab47-fb8a451ae22f" />
 
