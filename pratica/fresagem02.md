@@ -88,6 +88,6 @@ Repare que as informações sobre Parâmetros de corte mudaram após habilitar a
 <i>Figura 9:</i>
 </div>
 
-
+Na aba Planos de trabalho, 
 
 
