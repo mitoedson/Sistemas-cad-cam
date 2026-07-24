@@ -39,6 +39,23 @@ Ao final da configuração, deve-se ter a seguinte imagem com a ferramenta ∅20
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/2beefd25-36da-46eb-ab47-fb8a451ae22f" />
 
+<h4>Contorno 2D</h4>
+
+Na aba 2D, clique em Contorno 2D. Ao abrir a janela Face, deve-se escolher a Ferramenta, em "Selecionar...". Nas Bilbiotecas de usuário -> Biblioteca do Fusion, opte por "Ferramentas de fresamento (métrico)". Ative a Biblioteca, e escolha ∅25mm (25mm Flat Endmill). Em Geometria, faça o mesmo que em Face. Em Planos de Trabalho, 
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/bd51a647-7537-4c6e-92f6-e46479cc0c8a" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
