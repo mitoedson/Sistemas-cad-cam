@@ -49,7 +49,7 @@ Em Passos -> Passagens Múltiplas, coloque 4 para Passos verticais de acabamento
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/153b40c3-2bdb-4894-9d7b-367441e5b96b" />
 <p>
-Antes da simulação, podemos ver o caminho que a ferramenta caminhará. Concluíndo a simulação, temos a peça desbastada.
+Antes da simulação, podemos ver o caminho que a ferramenta caminhará. Concluíndo a simulação, temos a peça desbastada. Note que aplicamos a simulação em "Configuração1", executando o faceamento e o desbaste da peça.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/804e8a82-2248-42b1-8008-0c908703fcaf" />
 <p>
