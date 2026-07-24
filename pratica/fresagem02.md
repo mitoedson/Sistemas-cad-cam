@@ -104,15 +104,14 @@ Na aba Passos, habilitamos Passagens Múltiplas.
 <i>Figura 12:</i>
 </div>
 
-Note que o caminho ficará visíve por onde a ferramenta irá fazer o faceamento.
+Note que o caminho ficará visível por onde a ferramenta irá fazer o faceamento.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_13.jpg">
 <p>
 <i>Figura 13:</i>
 </div>
 
-
-Se tudo estiver correto, a área faceada mudará de cor.
+Ao executar a simulação, em Navegação => Setups => Configuração. Clique com o botão direito, e opte por Simular. Se tudo estiver correto, a ferramenta movimentará, e ao concluir a simulação, a área faceada mudará de cor.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_14.jpg">
 <p>
