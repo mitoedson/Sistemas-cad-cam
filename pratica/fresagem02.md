@@ -138,7 +138,7 @@ Na aba Geometria, em Seleção de contorno => Selecionar, devemos selecionar a b
 <i>Figura 18: Configuração em Geometria</i>
 </div>
 
-Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento foi executado, e a ferramenta partirá da posição onde está sinalizado "Deslocamento superior".
+Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento foi executado, e a ferramenta partirá da posição onde está sinalizado na linha azul (Deslocamento superior).
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_19.jpg">
