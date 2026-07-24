@@ -18,12 +18,10 @@ Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a
 - Sistema de coordenadas de trabalho (WCS) -> Eixo X: Selecionar -> Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo X, ou um aresta paralela ao eixo X. 
 - Sistema de coordenadas de trabalho (WCS) -> Inverter eixo X: seleciono caso a direção do eixo X apontar para o sentido contrário.
 - Sistema de coordenadas de trabalho (WCS) -> Origem -> Ponto de caixa do bloco
-- Sistema de coordenadas de trabalho (WCS) -> Ponto do bloco ->  Ponto da caixa -> Seleciono o extremo esquerdo superior do envólucro.
+- Sistema de coordenadas de trabalho (WCS) -> Ponto do bloco ->  Ponto da caixa -> Seleciono o extremo esquerdo superior do envólucro, que deslocará o eixo de coordenadas para aquele ponto.
 
-<p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/ecef2f79-bb2b-4c92-831c-52007bd3393c" />
-<p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/4373bbe3-644f-494b-b362-31913d45b18f" />
+<img width="600" alt="image" src="fresagem02.jpg">
+
 <p>
 Em Bloco, selecionamos em Modo, a opção "Caixa de tamanho relativo".
 <p>
