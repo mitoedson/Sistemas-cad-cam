@@ -121,3 +121,15 @@ Ao executar a simulação, em Navegador => Setups => Configuração. Clique com 
 
 <h3>Contorno 2D</h3>
 
+O processo para remoção do contorno da peça tem passos parecidos com a que realizamos para o faceamento. Selecionamos uma ferramenta para remover os contornos, através de Fresagem => 2D => Contorno 2D. Escolhemos a seguir uma ferramenta, desta vez com um diâmetro menor, já que iremos apenas remover contornos.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_15.jpg">
+<img width="600" alt="image" src="fresagem02_16.jpg">
+<img width="600" alt="image" src="fresagem02_17.jpg">
+<p>
+<i>Figura 15:</i>
+</div>
+
+
+
