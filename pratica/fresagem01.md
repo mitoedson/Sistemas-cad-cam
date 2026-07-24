@@ -41,9 +41,14 @@ Ao final da configuração, deve-se ter a seguinte imagem com a ferramenta ∅20
 
 <h4>Contorno 2D</h4>
 
-Na aba 2D, clique em Contorno 2D. Ao abrir a janela Face, deve-se escolher a Ferramenta, em "Selecionar...". Nas Bilbiotecas de usuário -> Biblioteca do Fusion, opte por "Ferramentas de fresamento (métrico)". Ative a Biblioteca, e escolha ∅25mm (25mm Flat Endmill). Em Geometria, faça o mesmo que em Face. Em Planos de Trabalho, 
+Na aba 2D, clique em Contorno 2D. Ao abrir a janela Face, deve-se escolher a Ferramenta, em "Selecionar...". Nas Bilbiotecas de usuário -> Biblioteca do Fusion, opte por "Ferramentas de fresamento (métrico)". Ative a Biblioteca, e escolha ∅25mm (25mm Flat Endmill). Em Geometria, faça o mesmo que em Face. Em Planos de Trabalho, a Altura superior configuramos para -2.00 mm.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/bd51a647-7537-4c6e-92f6-e46479cc0c8a" />
+<p>
+Em Passos -> Passagens Múltiplas, coloque 4 para Passos verticais de acabamento, e 4.00mm para Passo vertical de acabamento.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/153b40c3-2bdb-4894-9d7b-367441e5b96b" />
+
 
 
 
