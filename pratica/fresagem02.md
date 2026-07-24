@@ -50,7 +50,7 @@ Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y)
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_05.jpg">
-<img width="600" alt="image" src="fresagem02_05.jpg">
+<img width="600" alt="image" src="fresagem02_06.jpg">
 <p>
 <i>Figura 5 e 6: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
 </div>
