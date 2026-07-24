@@ -23,7 +23,7 @@ Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a
 <img width="600" alt="image" src="fresagem02.jpg">
 
 <p>
-Em Bloco, selecionamos em Modo, a opção "Caixa de tamanho relativo".
+Na aba Bloco, na configuração em Modo, há duas opções de envólucros que se encaixam em nossa peça: "Caixa de tamanho relativo" e "Caixa de tamanho fixo". Se optarmos pelo tamanho relativo, os valores para ajustes de deslocamento lateral, superior e inferior serão adicionados proporcionalmente para cada dimensão, respectivamente. Por um lado distribui as dimensões, por outro não temos um controle real das dimensões quando colocarmos em prática no equipamento e executar a tarefa de fresamento.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/65ba9313-6575-46e7-bf6e-fffbd0f94f94" />
 
