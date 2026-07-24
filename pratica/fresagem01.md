@@ -12,13 +12,13 @@ Uma janela será aberta no lado direito, contendo três abas: Configuração, Bl
 Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a configuração):
 
 - Configuração -> Tipo de operação: Fresamento
-- Sistema de coordenadas de trabalho (WCS) -> Orientação -> Plano/eixo Z e eixo X (são os eixos mais importantes para o nosso trabalho de fresagem) 
-- Sistema de coordenadas de trabalho (WCS) -> Eixo Z: Selecionar -> Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo Z, ou um aresta paralela ao eixo Z. 
-- <font color="red">Sistema de coordenadas de trabalho (WCS) -> Inverter eixo Z: seleciono caso a direção do eixo Z apontar para o sentido contrário.</font>  
-- Sistema de coordenadas de trabalho (WCS) -> Eixo X: Selecionar -> Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo X, ou um aresta paralela ao eixo X. 
-- Sistema de coordenadas de trabalho (WCS) -> Inverter eixo X: seleciono caso a direção do eixo X apontar para o sentido contrário.
-- Sistema de coordenadas de trabalho (WCS) -> Origem -> Ponto de caixa do bloco
-- Sistema de coordenadas de trabalho (WCS) -> Ponto do bloco ->  Ponto da caixa -> Seleciono o extremo esquerdo superior do envólucro, que deslocará o eixo de coordenadas para aquele ponto.
+- Sistema de coordenadas de trabalho (WCS) => Orientação => Plano/eixo Z e eixo X (são os eixos mais importantes para o nosso trabalho de fresagem) 
+- Sistema de coordenadas de trabalho (WCS) => Eixo Z: Selecionar => Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo Z, ou um aresta paralela ao eixo Z. 
+- Sistema de coordenadas de trabalho (WCS) => Inverter eixo Z: seleciono caso a direção do eixo Z apontar para o sentido contrário. 
+- Sistema de coordenadas de trabalho (WCS) => Eixo X: Selecionar => Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo X, ou um aresta paralela ao eixo X. 
+- Sistema de coordenadas de trabalho (WCS) => Inverter eixo X: seleciono caso a direção do eixo X apontar para o sentido contrário.
+- Sistema de coordenadas de trabalho (WCS) => Origem => Ponto de caixa do bloco
+- Sistema de coordenadas de trabalho (WCS) => Ponto do bloco =>  Ponto da caixa => Seleciono o extremo esquerdo superior do envólucro, que deslocará o eixo de coordenadas para aquele ponto.
 
 <img width="600" alt="image" src="fresagem02.jpg">
 
