@@ -45,7 +45,7 @@ Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y)
 <div align="center">
 <img width="600" alt="image" src="fresagem02_04.jpg">
 <p>
-<i>Figura 3: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
+<i>Figura 4: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
 </div>
 
 <b>Observações:</b><br>
