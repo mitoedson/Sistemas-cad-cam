@@ -2,7 +2,7 @@
 
 <h3>Peça 1</h4>
 
-Ao abrir a Figura no Autodesk Fusion 360, trabalharemos no Espaço de Trabalho de Manufatura (opção no canto superior esquerdo). 
+Ao abrir a Figura no Autodesk Fusion 360, trabalharemos no Espaço de Trabalho de Manufatura (opção no canto superior esquerdo). O primeiro passo é definir uma nova configuração, na aba Fresagem -> Configuração -> Nova configuração.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/4f7f7009-98df-4425-a204-0ea51885a240" />
 
