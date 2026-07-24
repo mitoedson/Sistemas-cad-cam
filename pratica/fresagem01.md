@@ -4,7 +4,7 @@
 
 Ao abrir a Figura no Autodesk Fusion 360, trabalharemos no Espaço de Trabalho de Manufatura (opção no canto superior esquerdo). O primeiro passo é definir uma nova configuração, na aba Fresagem -> Configuração -> Nova configuração.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/4f7f7009-98df-4425-a204-0ea51885a240" />
+<img width="600" alt="image" src="fresagem01.jpg">
 
 <h4>Configuração</h4>
 Uma janela será aberta no lado direito, contendo três abas: Configuração, Bloco e Pós-Processar. Trabalharemos apenas com os dois primeiros. Logo no início, um envólucro transparente envolverá a peça, e em suas arestas e faces laterais aparecerão pontos brancos, e o eixo de coordenadas poderá aparecer no meio da peça. Como é uma fresa, o eixo Z deverá apontar para o eixo vertical, enquanto que o eixo X e Y formarão um plano horizontal. O eixo de coordenadas deverá ser deslocado para um dos extremos do envólucro, onde será nosso ponto zero.
