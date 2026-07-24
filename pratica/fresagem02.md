@@ -40,12 +40,19 @@ Na aba Bloco, na configuração em Modo, há duas opções de envólucros que se
 
 Em Caixa de tamanho fixo, partimos com os valores dimensionais extremos da peça acabada como referência. Note que as dimensões do modelo, abaixo da janela, são as mesmas e prontas para redimensionar com os valores das dimensões da peça bruta a ser posicionada na fresa.  
 
-Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y). Para Altura (Z), adicionaremos 10mm pois precisamos que a base tenha uma altura suficiente para que a peça seja serrada após concluir a fresagem. Na Posição do modelo, abaixo de Altura (Z), optaremos por "Deslocamento superior (+Z)". Esta opção permitirá que eu controle o deslocamento acima da face superior da peça, permitindo o facejamento, e além disso, deixamos uma sobra abaixo da face inferior para fixação e descarte do material excedente.
-
 <div align="center">
 <img width="600" alt="image" src="fresagem02_04.jpg">
 <p>
 <i>Figura 4: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
+</div>
+
+Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y). Para Altura (Z), adicionaremos 10mm pois precisamos que a base tenha uma altura suficiente para que a peça seja serrada após concluir a fresagem. Na Posição do modelo, abaixo de Altura (Z), optaremos por "Deslocamento superior (+Z)". Esta opção permitirá que eu controle o deslocamento acima da face superior da peça, permitindo o facejamento, e além disso, deixamos uma sobra abaixo da face inferior para fixação e descarte do material excedente.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_05.jpg">
+<img width="600" alt="image" src="fresagem02_05.jpg">
+<p>
+<i>Figura 5 e 6: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
 </div>
 
 <b>Observações:</b><br>
