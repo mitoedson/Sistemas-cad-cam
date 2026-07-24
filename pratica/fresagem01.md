@@ -14,7 +14,9 @@ Na aba Fresagem, clique em Configuração. Ao criar uma nova configuração, dev
 Em Bloco, selecionamos em Modo, a opção "Caixa de tamanho relativo".
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/65ba9313-6575-46e7-bf6e-fffbd0f94f94" />
-<p>
+
+<h4>Face</h4>
+
 Na aba 2D, clique em Face. Ao abrir a janela Face, deve-se escolher a Ferramenta, em "Selecionar...". Nas Bilbiotecas de usuário -> Biblioteca do Fusion, opte por "Ferramentas de fresamento (métrico)". Ative a Biblioteca, e escolha ∅10mm (10mm Flat Endmill). Podemos tambem experimentar ∅20mm (20mm Flat Endmill).  
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/efd8d715-1bcd-4740-b85a-407c17fe056b" />
