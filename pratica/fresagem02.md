@@ -118,3 +118,6 @@ Ao executar a simulação, em Navegador => Setups => Configuração. Clique com 
 <i>Figura 14:</i>
 </div>
 
+
+<h3>Contorno 2D</h3>
+
