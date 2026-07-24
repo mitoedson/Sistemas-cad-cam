@@ -163,4 +163,16 @@ Ao realizar a simulação, removemos o contorno externo.
 <i>Figura 21 e 22: Simulação para Contorno 2D</i>
 </div>
 
+<h3>Cavidade 2D</h3>
+
+Para realizar o desbaste na cavidade da peça, selecionamos a aba Fresagem => 2D => Cavidade 2D. Escolhemos a seguir a ferramenta Ø20mm (20mm Flat Endmill), já que temos uma área ainda extensa. 
+
+
+
+
+
+
+
+
+
 
