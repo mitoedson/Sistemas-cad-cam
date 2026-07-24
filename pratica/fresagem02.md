@@ -88,7 +88,7 @@ Repare que as informações sobre Parâmetros de corte mudaram após habilitar a
 <i>Figura 10:</i>
 </div>
 
-Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça: Deslocamento da altura da folga (vermelho), Deslocamento da altura do avanço (verde), Deslocamento superior (azul claro), Offset ao fundo (azul escuro). O deslocamento superior corresponde justamente ao valor de deslocamento (offset) configurado em bloco, indicando onde a superfície do material bruto está posicionado (no caso, 2mm). O deslocamento de altura do avanço é a área onde a ferramenta ficará posicionada antes de começar o faceamento. 
+Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça: Deslocamento da altura da folga (vermelho), Deslocamento da altura do avanço (verde), Deslocamento superior (azul claro), Offset ao fundo (azul escuro). O deslocamento superior corresponde justamente ao valor de deslocamento (offset) configurado em bloco, indicando onde a superfície do material bruto está posicionado (no caso, 2mm). O deslocamento de altura do avanço é a área onde a ferramenta ficará posicionada antes de começar o faceamento. Mantemos as informações como estão.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_11.jpg">
@@ -97,9 +97,25 @@ Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça
 </div>
 
 
-Na aba Passos, habilitamos Passagens Múltiplas
+Na aba Passos, habilitamos Passagens Múltiplas.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_12.jpg">
 <p>
 <i>Figura 12:</i>
 </div>
+
+Note que o caminho ficará visíve por onde a ferramenta irá fazer o faceamento.
+<div align="center">
+<img width="600" alt="image" src="fresagem02_13.jpg">
+<p>
+<i>Figura 13:</i>
+</div>
+
+
+Se tudo estiver correto, a área faceada mudará de cor.
+<div align="center">
+<img width="600" alt="image" src="fresagem02_14.jpg">
+<p>
+<i>Figura 14:</i>
+</div>
+
