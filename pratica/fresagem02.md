@@ -61,11 +61,32 @@ Note que há a opção Arredondamento para o mais próximo. Não iremos alterar 
 Outra opção que não utilizaremos é a opção Bloco fixo na origem do modelo, que desabilitaremos pois o eixo de coordenadas de trabalho que configuramos pode não ser o mesmo que o eixo origem da peça quando foi modelada, e aberta em Projeto.  Se habilitarmos, toda a configuração realizada será deslocada para o eixo origem do Projeto, não da Manufatura.
 
 
-<h3>Fresagem</h3>
+<h3>Faceamento</h3>
+
+Habilitamos a opção Face, na aba Fresagem => 2D. Será aberto uma janela no lado direito, chamado Face, que possui 6 abas: Ferramenta, Multieixo, Geometria, Planos de trabalho, Passo e Vincular. 
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_07.jpg">
+<p>
+<i>Figura 7:</i>
+</div>
+
+Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => Selecionar. Uma outra janela será aberta, com diversas Bibliotecas do Fusion. Optaremos pelas Ferramentas de Fresagem (métrico) => Ø20mm (20mm Flat Endmill). Caso a biblioteca esteja desativada, basta Ativar Biblioteca.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_08.jpg">
+<p>
+<i>Figura 8:</i>
+</div>
 
 
 
 
+<div align="center">
+<img width="600" alt="image" src="fresagem02_08.jpg">
+<p>
+<i>Figura 8:</i>
+</div>
 
 
 
