@@ -39,7 +39,7 @@ Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y)
 <div align="center">
 <img width="600" alt="image" src="fresagem02_03.jpg">
 <p>
-<i>Figura 2: Ambiente de configuração, em bloco</i>
+<i>Figura 3: Ambiente de configuração, em bloco</i>
 </div>
 
 <b>Observações:</b><br>
