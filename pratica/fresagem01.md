@@ -7,7 +7,9 @@ Ao abrir a Figura no Autodesk Fusion 360, trabalharemos no Espaço de Trabalho d
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/4f7f7009-98df-4425-a204-0ea51885a240" />
 
 <h4>Configuração</h4>
-Na aba Fresagem, clique em Configuração. Ao criar uma nova configuração, deve-se posicionar o eixo de coordenadas de trabalho. Escolhemos uma das bordas da peça, e ajustamos os eixos conforme mostrado na imagem. Em Ponto do bloco, selecione "Ponto da caixa", e clique em um dos pontos da borda da peça. 
+Uma janela será aberta no lado direito, contendo três abas: Configuração, Bloco e Pós-Processar. Trabalharemos apenas com os dois primeiros. 
+
+Na aba Configuração, deve-se posicionar o eixo de coordenadas de trabalho. Escolhemos uma das bordas da peça, e ajustamos os eixos conforme mostrado na imagem. Em Ponto do bloco, selecione "Ponto da caixa", e clique em um dos pontos da borda da peça. 
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ecef2f79-bb2b-4c92-831c-52007bd3393c" />
 <p>
