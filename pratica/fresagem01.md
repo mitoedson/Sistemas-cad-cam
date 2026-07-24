@@ -42,6 +42,15 @@ Ao final da configuração, deve-se visualizar as seguintes imagens: com a ferra
 Ao simular, obtemos o faceamento executado na peça.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/2beefd25-36da-46eb-ab47-fb8a451ae22f" />
+<p>
+<b>Obs.:</b> Repare que as vezes o facejamento deixa alguma borda em um dos lados, após a ferramenta executar a tarefa. 
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6ee18eb4-d81d-495b-8826-ecd5ba0e41d0" />
+<p>
+Pode-se ajustar em Passos -> Deslocamento do Bloco, e configurar em alguns mm além do limite do bloco. Deve-se considerar se ao ultrapassar o limite, não afetará outras áreas da peça. 
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3df1681c-68b4-4a32-9487-afe4d53a115a" />
+
 
 <h4>Contorno 2D</h4>
 
