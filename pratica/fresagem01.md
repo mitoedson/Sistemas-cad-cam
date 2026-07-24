@@ -31,6 +31,9 @@ Em Passos, selecione Passagens Múltiplas.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/127740b3-7b35-4669-8f51-eaed58e1086f" />
 <p>
+Ao final da configuração, deve-se ter a seguinte imagem, com a ferramenta posiciona e o caminho que ela irá percorrer. Ao simular, obtemos a face executada na peça.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2beefd25-36da-46eb-ab47-fb8a451ae22f" />
 
 
 
