@@ -111,7 +111,7 @@ Note que o caminho ficará visível por onde a ferramenta irá fazer o faceament
 <i>Figura 13:</i>
 </div>
 
-Ao executar a simulação, em Navegação => Setups => Configuração. Clique com o botão direito, e opte por Simular. Se tudo estiver correto, a ferramenta movimentará, e ao concluir a simulação, a área faceada mudará de cor.
+Ao executar a simulação, em Navegador => Setups => Configuração. Clique com o botão direito, e opte por Simular. Se tudo estiver correto, a ferramenta movimentará, e ao concluir a simulação, a área faceada mudará de cor.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_14.jpg">
 <p>
