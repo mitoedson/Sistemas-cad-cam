@@ -84,6 +84,7 @@ Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => 
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_09.jpg">
+<img width="600" alt="image" src="fresagem02_10.jpg">
 <p>
 <i>Figura 8:</i>
 </div>
