@@ -154,7 +154,13 @@ Na aba Passos, habilitamos a opção Passagens Múltiplas. O passo vertical máx
 <i>Figura 20: Configuração em Passos</i>
 </div>
 
+Ao realizar a simulação, removemos o contorno externo.
 
-
+<div align="center">
+<img width="600" alt="image" src="fresagem02_21.jpg">
+<img width="600" alt="image" src="fresagem02_22.jpg">
+<p>
+<i>Figura 21 e 22: Simulação para Contorno 2D</i>
+</div>
 
 
