@@ -27,6 +27,10 @@ Em Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça: De
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/bc888c54-74e6-47b4-9706-f60a08688a75" />
 <p>
+Em Passos, selecione Passagens Múltiplas.
+<p>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/127740b3-7b35-4669-8f51-eaed58e1086f" />
+<p>
 
 
 
