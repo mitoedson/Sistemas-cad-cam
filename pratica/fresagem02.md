@@ -67,6 +67,7 @@ Habilitamos a opção Face, na aba Fresagem => 2D. Será aberto uma janela no la
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_07.jpg">
+<img width="600" alt="image" src="fresagem02_08.jpg">
 <p>
 <i>Figura 7:</i>
 </div>
@@ -74,7 +75,7 @@ Habilitamos a opção Face, na aba Fresagem => 2D. Será aberto uma janela no la
 Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => Selecionar. Uma outra janela será aberta, com diversas Bibliotecas do Fusion. Optaremos pelas Ferramentas de Fresagem (métrico) => Ø20mm (20mm Flat Endmill). Caso a biblioteca esteja desativada, basta Ativar Biblioteca.
 
 <div align="center">
-<img width="600" alt="image" src="fresagem02_08.jpg">
+<img width="600" alt="image" src="fresagem02_09.jpg">
 <p>
 <i>Figura 8:</i>
 </div>
@@ -83,7 +84,6 @@ Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => 
 
 
 <div align="center">
-<img width="600" alt="image" src="fresagem02_09.jpg">
 <img width="600" alt="image" src="fresagem02_10.jpg">
 <p>
 <i>Figura 8:</i>
