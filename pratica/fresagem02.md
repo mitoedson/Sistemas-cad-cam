@@ -80,13 +80,12 @@ Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => 
 <i>Figura 8:</i>
 </div>
 
-
-
+Repare que as informações sobre Parâmetros de corte mudaram após habilitar a ferramenta. As informações serão úteis para ajuste quando analisarmos o processo de fresamento, o material a ser trabalhado, etc. Por hora, não alteraremos os valores já que não estamos ainda aplicando para um processo real.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_10.jpg">
 <p>
-<i>Figura 8:</i>
+<i>Figura 9:</i>
 </div>
 
 
