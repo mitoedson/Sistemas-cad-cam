@@ -127,7 +127,7 @@ O processo para remoção do contorno da peça tem passos parecidos com a que re
 <img width="600" alt="image" src="fresagem02_15.jpg">
 <img width="600" alt="image" src="fresagem02_16.jpg">
 <p>
-<i>Figura 15 e 16</i>
+<i>Figura 15 e 16: Configuração para Contorno 2D, e escolha de Ferramenta.</i>
 </div>
 
 Na aba Geometria, em Seleção de contorno => Selecionar, devemos selecionar a borda inferior do plano. Note que uma seta vermelha aparecerá paralelo à aresta inferior. 
