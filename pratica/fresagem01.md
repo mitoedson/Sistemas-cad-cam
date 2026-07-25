@@ -89,7 +89,7 @@ Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alter
 <div align="center">
 <img width="600" alt="image" src="fresagem01_09.jpg">
 <p>
-<i>Figura 9:</i>
+<i>Figura 9: configuração para Planos de trabalho</i>
 </div>
 
 Na aba Passos, habilitaremos a opção Passagens Múltiplas. O passo vertical máximo indicaremos 4.0 mm, com 4 passos verticais, e 2.00 mm de passo vertical de acabamento. Como a ferramenta possui um diâmetro pequeno, pode ocorrer desgaste ao realizar o desbaste lateral, danificando-a.
