@@ -6,7 +6,7 @@ Ao abrir imagem mostrada na Figura 1 no Autodesk Fusion 360, trabalharemos no Es
 
 
 <div align="center">
-<img width="600" alt="image" src="fresagem01_01.jpg"><h1>Simulação de Processo de Fresagem</h1>
+<img width="600" alt="image" src="fresagem01_01.jpg">
 <p>
 <i>Figura 1</i>
 </div>
