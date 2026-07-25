@@ -34,7 +34,7 @@ Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y)
 <div align="center">
 <img width="600" alt="image" src="fresagem01_03.jpg">
 <p>
-<i>Figura 3</i>
+<i>Figura 3: configuração em Bloco</i>
 </div>
 
 <h3>Faceamento</h3>
@@ -46,22 +46,22 @@ Na aba Ferramentas, escolheremos a ferramenta de fresagem, em Ferramenta => Sele
 <div align="center">
 <img width="600" alt="image" src="fresagem01_04.jpg">
 <p>
-<i>Figura 4:</i>
+<i>Figura 4: configuração de Faceamento</i>
 </div>
 
 Na aba Passos, habilitamos Passagens Múltiplas. Esta opção permite determinar um incremento máximo, ou seja, a profundidade que a ferramenta fará o faceamento, em relação eo eixo z, para cada passo. Se há 2mm de profundidade, e estabelecermos 1mm de incremento máximo, a ferramenta fará duas etapas de faceamento, no intervalo de 1mm. Adicionaremos 1mm em Deslocamento do bloco, garantindo que toda a superfície seja faceada.
 
-iv align="center">
+<div align="center">
 <img width="600" alt="image" src="fresagem01_05.jpg">
 <p>
-<i>Figura 5:</i>
+<i>Figura 5: configuração em Passos</i>
 </div>
 
 Note que o caminho ficará visível por onde a ferramenta irá fazer o faceamento.
 <div align="center">
 <img width="600" alt="image" src="fresagem01_06.jpg">
 <p>
-<i>Figura 6:</i>
+<i>Figura 6: caminho por onde a ferramenta percorrerá pela superfície do bloco</i>
 </div>
 
 Ao executar a simulação, devemos localizar o item Navegador => Setups => Configuração. Clique com o botão direito sobre a Configuração, e selecione Simular. Se tudo estiver correto, a ferramenta fará os movimentos de Faceamento. Ao concluir a simulação, a área faceada mudará de cor.
