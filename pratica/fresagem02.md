@@ -96,7 +96,7 @@ Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça
 <i>Figura 11: Linhas guias indicadoras dos Planos de trabalho</i>
 </div>
 
-Na aba Passos, habilitamos Passagens Múltiplas. Elas representam quantas passagens a ferramenta percorrerá, a profundidade, etc.
+Na aba Passos, habilitamos Passagens Múltiplas.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_12.jpg">
 <p>
@@ -110,7 +110,7 @@ Note que o caminho ficará visível por onde a ferramenta irá fazer o faceament
 <i>Figura 13: Linhas do caminho por onde a ferramenta se guiará</i>
 </div>
 
-Ao executar a simulação, em Navegador => Setups => Configuração. Clique com o botão direito, e opte por Simular. Se tudo estiver correto, a ferramenta movimentará, e ao concluir a simulação, a área faceada mudará de cor.
+Ao executar a simulação, devemos localizar o item Navegador => Setups => Configuração. Clique com o botão direito sobre a Configuração, e selecione Simular. Se tudo estiver correto, a ferramenta fará os movimentos de Faceamento. Ao concluir a simulação, a área faceada mudará de cor.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_14.jpg">
 <p>
@@ -120,7 +120,7 @@ Ao executar a simulação, em Navegador => Setups => Configuração. Clique com 
 
 <h3>Contorno 2D</h3>
 
-O processo para remoção do contorno da peça tem passos parecidos com a que realizamos para o faceamento. Selecionamos uma ferramenta para remover os contornos, através da aba Fresagem => 2D => Contorno 2D. Escolhemos a seguir uma ferramenta, desta vez com um diâmetro menor, já que iremos apenas remover contornos.
+O processo para remoção do contorno da peça seguem passos parecidos com a que realizamos para o faceamento. Selecionamos o processo para remover os contornos através da aba Fresagem => 2D => Contorno 2D. Escolheremos uma ferramenta desta vez com um diâmetro menor, já que iremos apenas remover contornos externos da peça bruta.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_15.jpg">
@@ -137,7 +137,7 @@ Na aba Geometria, em Seleção de contorno => Selecionar, devemos selecionar a b
 <i>Figura 18: Configuração em Geometria</i>
 </div>
 
-Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento foi executado, e a ferramenta partirá da posição onde está sinalizado na linha azul (Deslocamento superior).
+Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento já foi executado, eliminando os 2mm da parte superior. Assim a ferramenta partirá da posição onde está sinalizado na linha azul (Deslocamento superior), ou seja, alinhado a superfície faceada.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_19.jpg">
@@ -145,7 +145,7 @@ Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alter
 <i>Figura 19: Configuração em Planos de trabalho</i>
 </div>
 
-Na aba Passos, habilitamos a opção Passagens Múltiplas. O passo vertical máximo indicamos 4.0 mm, com 4 passos verticais, e 2.00 mm de passo vertical de acabamento.
+Na aba Passos, habilitaremos a opção Passagens Múltiplas. O passo vertical máximo indicaremos 4.0 mm, com 4 passos verticais, e 2.00 mm de passo vertical de acabamento. Como a ferramenta possui um diâmetro pequeno, pode ocorrer desgaste ao realizar o desbaste lateral, danificando-a.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_20.jpg">
@@ -153,7 +153,7 @@ Na aba Passos, habilitamos a opção Passagens Múltiplas. O passo vertical máx
 <i>Figura 20: Configuração em Passos</i>
 </div>
 
-Ao realizar a simulação, removemos o contorno externo.
+Ao realizar a simulação, o contorno externo será removido.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_21.jpg">
@@ -164,7 +164,7 @@ Ao realizar a simulação, removemos o contorno externo.
 
 <h3>Cavidade 2D</h3>
 
-Para realizar o desbaste na cavidade da peça, selecionamos a aba Fresagem => 2D => Cavidade 2D. O processo de escolha da ferramenta é o mesmo, com a diferença da ferramenta Ø20mm (20mm Flat Endmill), já que temos uma área ainda extensa para o desbaste. 
+Para realizar o desbaste na cavidade da peça, selecionaremos o processo através da aba Fresagem => 2D => Cavidade 2D. Optaremos pela ferramenta Ø20mm (20mm Flat Endmill), já que temos uma área ainda extensa para o desbaste de cavidade. 
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_23.jpg">
@@ -172,7 +172,7 @@ Para realizar o desbaste na cavidade da peça, selecionamos a aba Fresagem => 2D
 <i>Figura 23: Seleção para Cavidade 2D</i>
 </div>
 
-Na aba Geometria, faremos a seleção da face destacada em azul claro, através da opção Seleções de cavidade => Selecionar.
+Na aba Geometria, faremos a seleção da face como destacada em azul claro na Figura 24, através da opção Seleções de cavidade => Selecionar.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_24.jpg">
@@ -180,7 +180,7 @@ Na aba Geometria, faremos a seleção da face destacada em azul claro, através 
 <i>Figura 24: Seleção para Geometria</i>
 </div>
 
-Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento foi executado, e a ferramenta partirá da posição onde está sinalizado na linha azul (Deslocamento superior).
+Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", como no processo anterior.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_25.jpg">
