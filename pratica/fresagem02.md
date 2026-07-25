@@ -165,13 +165,37 @@ Ao realizar a simulação, removemos o contorno externo.
 
 <h3>Cavidade 2D</h3>
 
-Para realizar o desbaste na cavidade da peça, selecionamos a aba Fresagem => 2D => Cavidade 2D. Escolhemos a seguir a ferramenta Ø20mm (20mm Flat Endmill), já que temos uma área ainda extensa. 
+Para realizar o desbaste na cavidade da peça, selecionamos a aba Fresagem => 2D => Cavidade 2D. O processo de escolha da ferramenta é o mesmo, com a diferença da ferramenta Ø20mm (20mm Flat Endmill), já que temos uma área ainda extensa para o desbaste. 
 
+<div align="center">
+<img width="600" alt="image" src="fresagem02_23.jpg">
+<p>
+<i>Figura 23: Seleção para Cavidade 2D</i>
+</div>
 
+Na aba Geometria, faremos a seleção da face destacada em azul claro, através da opção Seleções de cavidade => Selecionar.
 
+<div align="center">
+<img width="600" alt="image" src="fresagem02_24.jpg">
+<p>
+<i>Figura 24: Seleção para Geometria</i>
+</div>
 
+Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento foi executado, e a ferramenta partirá da posição onde está sinalizado na linha azul (Deslocamento superior).
 
+<div align="center">
+<img width="600" alt="image" src="fresagem02_25.jpg">
+<p>
+<i>Figura 25: Seleção para Planos de trabalho</i>
+</div>
 
+Na aba Passos, habilitaremos as opções Passagens múltiplas, e Bloco a ser deixado. Note que nesta última, será deixado 0.500 mm tanto para o material radial, como para o sobrematrial axial. Como aplicaremos uma ferramenta de maior diâmetro, deixaremos uma sobra para que uma nova etapa desbaste faça um acabamento no fundo, quanto nas laterais restantes.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_26.jpg">
+<p>
+<i>Figura 26: Seleção para Passos</i>
+</div>
 
 
 
