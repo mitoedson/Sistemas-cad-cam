@@ -93,7 +93,7 @@ Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça
 <div align="center">
 <img width="600" alt="image" src="fresagem02_11.jpg">
 <p>
-<i>Figura 11:</i>
+<i>Figura 11: Linhas guias indicadoras dos Planos de trabalho</i>
 </div>
 
 
@@ -101,21 +101,21 @@ Na aba Passos, habilitamos Passagens Múltiplas.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_12.jpg">
 <p>
-<i>Figura 12:</i>
+<i>Figura 12: Configuração de Passos</i>
 </div>
 
 Note que o caminho ficará visível por onde a ferramenta irá fazer o faceamento.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_13.jpg">
 <p>
-<i>Figura 13:</i>
+<i>Figura 13: Linhas do caminho por onde a ferramenta se guiará</i>
 </div>
 
 Ao executar a simulação, em Navegador => Setups => Configuração. Clique com o botão direito, e opte por Simular. Se tudo estiver correto, a ferramenta movimentará, e ao concluir a simulação, a área faceada mudará de cor.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_14.jpg">
 <p>
-<i>Figura 14:</i>
+<i>Figura 14: Simulação para Faceamento</i>
 </div>
 
 
