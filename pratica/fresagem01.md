@@ -4,7 +4,117 @@
 
 Ao abrir a Figura no Autodesk Fusion 360, trabalharemos no Espaço de Trabalho de Manufatura (opção no canto superior esquerdo). O primeiro passo é definir uma nova configuração, na aba Fresagem => Configuração => Nova configuração.
 
-<img width="600" alt="image" src="fresagem01.jpg">
+<img width="600" alt="image" src="fresagem01_01.jpg"><h1>Simulação de Processo de Fresagem</h1>
+
+
+<h3>Configuração</h3>
+Uma janela será aberta no lado direito, contendo três abas: Configuração, Bloco e Pós-Processar. Trabalharemos apenas com os dois primeiros. Logo no início, um envólucro transparente envolverá a peça, e em suas arestas e faces laterais aparecerão pontos brancos, e o eixo de coordenadas poderá aparecer no meio da peça. Como é uma fresa, o eixo Z deverá apontar para o eixo vertical, enquanto que o eixo X e Y formarão um plano horizontal. O eixo de coordenadas deverá ser deslocado para um dos extremos do envólucro, onde será nosso ponto zero.
+
+Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a configuração):
+
+- Configuração => Tipo de operação: Fresamento
+- Sistema de coordenadas de trabalho (WCS) => Orientação => Plano/eixo Z e eixo X (são os eixos de referência para nosso trabalho de fresagem) 
+- Sistema de coordenadas de trabalho (WCS) => Eixo Z: Selecionar => Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo Z, ou um aresta paralela ao eixo Z. 
+- Sistema de coordenadas de trabalho (WCS) => Inverter eixo Z: seleciono caso a direção do eixo Z apontar para o sentido contrário. 
+- Sistema de coordenadas de trabalho (WCS) => Eixo X: Selecionar => Seleciono um face perpendicular do envólucro, ou da peça, em relação ao eixo X, ou um aresta paralela ao eixo X. 
+- Sistema de coordenadas de trabalho (WCS) => Inverter eixo X: seleciono caso a direção do eixo X apontar para o sentido contrário.
+- Sistema de coordenadas de trabalho (WCS) => Origem => Ponto de caixa do bloco
+- Sistema de coordenadas de trabalho (WCS) => Ponto do bloco =>  Ponto da caixa => Seleciono o extremo esquerdo superior do envólucro, que deslocará o eixo de coordenadas para aquele ponto.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_02.jpg">
+<p>
+<i>Figura 2: Ambiente de configuração</i>
+</div>
+
+Na aba Bloco, na configuração em Modo, há duas opções de envólucros que se encaixam em nossa peça: "Caixa de tamanho relativo" e "Caixa de tamanho fixo". Se optarmos pelo tamanho relativo, os valores para ajustes de deslocamento lateral, superior e inferior serão adicionados proporcionalmente para cada dimensão, respectivamente. Por um lado distribui as dimensões, por outro não temos um controle real das dimensões quando colocarmos em prática no equipamento uma peça bruta, e executar a tarefa de fresamento.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_03.jpg">
+<p>
+<i>Figura 3: Ambiente de configuração, em bloco, para caixa de tamanho relativo</i>
+</div>
+
+Em Caixa de tamanho fixo, partimos com os valores dimensionais extremos da peça acabada como referência. Note que as dimensões do modelo, abaixo da janela, são as mesmas e prontas para redimensionar com os valores das dimensões da peça bruta a ser posicionada na fresa.  
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_04.jpg">
+<p>
+<i>Figura 4: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
+</div>
+
+Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y). Para Altura (Z), adicionaremos 10mm pois precisamos que a base tenha uma altura suficiente para que a peça seja serrada após concluir a fresagem. Na Posição do modelo, abaixo de Altura (Z), optaremos por "Deslocamento superior (+Z)". Esta opção permitirá que eu controle o deslocamento acima da face superior da peça, permitindo o facejamento, e além disso, deixamos uma sobra abaixo da face inferior para fixação e descarte do material excedente.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_05.jpg">
+<img width="600" alt="image" src="fresagem02_06.jpg">
+<p>
+<i>Figura 5 e 6: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
+</div>
+
+<b>Observações:</b><br>
+Note que há a opção Arredondamento para o mais próximo. Não iremos alterar este valor, por hora, já que ele fará o arredondamento para cima das dimensões de todo o bloco. Um dos motivos para que ela exista é quando ao adquirir uma matéria prima para realizar a fresagem, ela vem com dimensões específicas para venda, nunca valores quebrados. Portanto, esta opção é útil nessa situação. Para fins didáticos, ela é mais um item a ser conhecido.
+
+Outra opção que não utilizaremos é a opção Bloco fixo na origem do modelo, que desabilitaremos pois o eixo de coordenadas de trabalho que configuramos pode não ser o mesmo que o eixo origem da peça quando foi modelada, e aberta em Projeto.  Se habilitarmos, toda a configuração realizada será deslocada para o eixo origem do Projeto, não da Manufatura.
+
+
+<h3>Faceamento</h3>
+
+Habilitamos o processo através da opção Face, na aba Fresagem => 2D. Será aberto uma janela no lado direito, chamado Face, que possui 6 abas: Ferramenta, Multieixo, Geometria, Planos de trabalho, Passo e Vincular. 
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_07.jpg">
+<img width="600" alt="image" src="fresagem02_08.jpg">
+<p>
+<i>Figura 7 e 8: Caminho para configuração de Faceamento.</i>
+</div>
+
+Na aba Ferramentas, escolheremos a ferramenta de fresagem, em Ferramenta => Selecionar. Uma outra janela será aberta, com diversas Bibliotecas do Fusion. Optaremos pelas Ferramentas de Fresagem (métrico) => Ø20mm (20mm Flat Endmill). Caso a biblioteca esteja desativada, basta Ativar Biblioteca, e as opções com todas as ferramentas de Fresagem serão listadas.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_09.jpg">
+<p>
+<i>Figura 9: Escolha da ferramenta para Faceamento.</i>
+</div>
+
+Repare que as informações sobre Parâmetros de corte mudaram após a escolha da ferramenta. Estes parâmetros serão úteis para ajuste quando analisarmos o processo de fresamento, o material a ser trabalhado, etc. Por hora, não alteraremos os valores já que não aplicaremos para um processo real.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_10.jpg">
+<p>
+<i>Figura 10: Opção para Parâmetros de corte</i>
+</div>
+
+Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça: Deslocamento da altura da folga (vermelho), Deslocamento da altura do avanço (verde), Deslocamento superior (azul claro), Offset ao fundo (azul escuro). O deslocamento superior corresponde justamente ao valor de deslocamento (offset) configurado na aba Bloco, em Configuração, indicando onde a superfície do material bruto está posicionado (no caso, 2mm). O deslocamento de altura do avanço é a área onde a ferramenta ficará posicionada antes de começar o faceamento. Não faremos alterações por enquanto.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_11.jpg">
+<p>
+<i>Figura 11: Linhas guias indicadoras dos Planos de trabalho</i>
+</div>
+
+Na aba Passos, habilitamos Passagens Múltiplas. Esta opção permite determinar um incremento máximo, ou seja, a profundidade que a ferramenta fará o faceamento, em relação eo eixo z, para cada passo. Se hpa 2mm de profundidade, e estabelecermos 1mm de incremento máximo, a ferramenta fará duas etapas de faceamento, no intervalo de 1mm.
+
+Obs.: haverá casos em que o faceamento pode não atingir toda a área. Configurações como Deslocamento do bloco, estendem a passagem da ferramenta além do limite do plano xy, alcançando áreas de superfície não alcançáveis.
+<div align="center">
+<img width="600" alt="image" src="fresagem02_12.jpg">
+<p>
+<i>Figura 12: Configuração de Passos</i>
+</div>
+
+Note que o caminho ficará visível por onde a ferramenta irá fazer o faceamento.
+<div align="center">
+<img width="600" alt="image" src="fresagem02_13.jpg">
+<p>
+<i>Figura 13: Linhas do caminho por onde a ferramenta se guiará</i>
+</div>
+
+Ao executar a simulação, devemos localizar o item Navegador => Setups => Configuração. Clique com o botão direito sobre a Configuração, e selecione Simular. Se tudo estiver correto, a ferramenta fará os movimentos de Faceamento. Ao concluir a simulação, a área faceada mudará de cor.
+<div align="center">
+<img width="600" alt="image" src="fresagem02_14.jpg">
+<p>
+<i>Figura 14: Simulação para Faceamento</i>
+</div>
 
 <h4>Configuração</h4>
 Uma janela será aberta no lado direito, contendo três abas: Configuração, Bloco e Pós-Processar. Trabalharemos apenas com os dois primeiros. Logo no início, um envólucro transparente envolverá a peça, e em suas arestas e faces laterais aparecerão pontos brancos, e o eixo de coordenadas poderá aparecer no meio da peça. Como é uma fresa, o eixo Z deverá apontar para o eixo vertical, enquanto que o eixo X e Y formarão um plano horizontal. O eixo de coordenadas deverá ser deslocado para um dos extremos do envólucro, onde será nosso ponto zero.
