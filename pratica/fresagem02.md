@@ -197,6 +197,19 @@ Na aba Passos, habilitaremos as opções Passagens múltiplas, e Bloco a ser dei
 <i>Figura 26: Seleção para Passos</i>
 </div>
 
+Ao finalizar a simulação, é perceptível que restaram algumas áreas que ainda devam ser desbastadas.
 
 
+
+<h3>Cavidade 2D (Parte 2)</h3>
+
+Em vez de configurar novamente, basta duplicar clicando com o botão direito no processo anterior. 
+
+A diferença está na ferramenta que iremos utilizar, com um diâmetro menor que o anterior.
+
+
+Em passos, deixaremos todas as opções desabilitadas.
+
+
+Ao finalizar a simulação, as áreas restantes serão tratadas, concluíndo o processo de fresagem da peça.
 
