@@ -41,51 +41,27 @@ Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y)
 
 Habilitamos o processo através da opção Face, na aba Fresagem => 2D. Será aberto uma janela no lado direito, chamado Face, que possui 6 abas: Ferramenta, Multieixo, Geometria, Planos de trabalho, Passo e Vincular. 
 
+Na aba Ferramentas, escolheremos a ferramenta de fresagem, em Ferramenta => Selecionar. Uma outra janela será aberta, com diversas Bibliotecas do Fusion. Optaremos pelas Ferramentas de Fresagem (métrico) => Ø10mm (10mm Flat Endmill). Caso a biblioteca esteja desativada, basta Ativar Biblioteca, e as opções com todas as ferramentas de Fresagem serão listadas.
+
 <div align="center">
-<img width="600" alt="image" src="fresagem02_07.jpg">
-<img width="600" alt="image" src="fresagem02_08.jpg">
+<img width="600" alt="image" src="fresagem01_04.jpg">
 <p>
-<i>Figura 7 e 8: Caminho para configuração de Faceamento.</i>
+<i>Figura 4:</i>
 </div>
 
-Na aba Ferramentas, escolheremos a ferramenta de fresagem, em Ferramenta => Selecionar. Uma outra janela será aberta, com diversas Bibliotecas do Fusion. Optaremos pelas Ferramentas de Fresagem (métrico) => Ø20mm (20mm Flat Endmill). Caso a biblioteca esteja desativada, basta Ativar Biblioteca, e as opções com todas as ferramentas de Fresagem serão listadas.
+Na aba Passos, habilitamos Passagens Múltiplas. Esta opção permite determinar um incremento máximo, ou seja, a profundidade que a ferramenta fará o faceamento, em relação eo eixo z, para cada passo. Se há 2mm de profundidade, e estabelecermos 1mm de incremento máximo, a ferramenta fará duas etapas de faceamento, no intervalo de 1mm.
 
-<div align="center">
-<img width="600" alt="image" src="fresagem02_09.jpg">
+iv align="center">
+<img width="600" alt="image" src="fresagem01_05.jpg">
 <p>
-<i>Figura 9: Escolha da ferramenta para Faceamento.</i>
-</div>
-
-Repare que as informações sobre Parâmetros de corte mudaram após a escolha da ferramenta. Estes parâmetros serão úteis para ajuste quando analisarmos o processo de fresamento, o material a ser trabalhado, etc. Por hora, não alteraremos os valores já que não aplicaremos para um processo real.
-
-<div align="center">
-<img width="600" alt="image" src="fresagem02_10.jpg">
-<p>
-<i>Figura 10: Opção para Parâmetros de corte</i>
-</div>
-
-Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça: Deslocamento da altura da folga (vermelho), Deslocamento da altura do avanço (verde), Deslocamento superior (azul claro), Offset ao fundo (azul escuro). O deslocamento superior corresponde justamente ao valor de deslocamento (offset) configurado na aba Bloco, em Configuração, indicando onde a superfície do material bruto está posicionado (no caso, 2mm). O deslocamento de altura do avanço é a área onde a ferramenta ficará posicionada antes de começar o faceamento. Não faremos alterações por enquanto.
-
-<div align="center">
-<img width="600" alt="image" src="fresagem02_11.jpg">
-<p>
-<i>Figura 11: Linhas guias indicadoras dos Planos de trabalho</i>
-</div>
-
-Na aba Passos, habilitamos Passagens Múltiplas. Esta opção permite determinar um incremento máximo, ou seja, a profundidade que a ferramenta fará o faceamento, em relação eo eixo z, para cada passo. Se hpa 2mm de profundidade, e estabelecermos 1mm de incremento máximo, a ferramenta fará duas etapas de faceamento, no intervalo de 1mm.
-
-Obs.: haverá casos em que o faceamento pode não atingir toda a área. Configurações como Deslocamento do bloco, estendem a passagem da ferramenta além do limite do plano xy, alcançando áreas de superfície não alcançáveis.
-<div align="center">
-<img width="600" alt="image" src="fresagem02_12.jpg">
-<p>
-<i>Figura 12: Configuração de Passos</i>
+<i>Figura 5:</i>
 </div>
 
 Note que o caminho ficará visível por onde a ferramenta irá fazer o faceamento.
 <div align="center">
-<img width="600" alt="image" src="fresagem02_13.jpg">
+<img width="600" alt="image" src="fresagem01_06.jpg">
 <p>
-<i>Figura 13: Linhas do caminho por onde a ferramenta se guiará</i>
+<i>Figura 6:</i>
 </div>
 
 Ao executar a simulação, devemos localizar o item Navegador => Setups => Configuração. Clique com o botão direito sobre a Configuração, e selecione Simular. Se tudo estiver correto, a ferramenta fará os movimentos de Faceamento. Ao concluir a simulação, a área faceada mudará de cor.
