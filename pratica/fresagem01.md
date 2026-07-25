@@ -22,7 +22,7 @@ Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a
 - Sistema de coordenadas de trabalho (WCS) => Ponto do bloco =>  Ponto da caixa => Seleciono o extremo esquerdo superior do envólucro, que deslocará o eixo de coordenadas para aquele ponto.
 
 <div align="center">
-<img width="600" alt="image" src="fresagem02_02.jpg">
+<img width="600" alt="image" src="fresagem01_02.jpg">
 <p>
 <i>Figura 2: Ambiente de configuração</i>
 </div>
@@ -32,7 +32,7 @@ Na aba Bloco, na configuração em Modo, há duas opções de envólucros que se
 Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y). Para Altura (Z), adicionaremos 10mm pois precisamos que a base tenha uma altura suficiente para que a peça seja serrada após concluir a fresagem. Na Posição do modelo, abaixo de Altura (Z), optaremos por "Deslocamento superior (+Z)". Esta opção permitirá que eu controle o deslocamento acima da face superior da peça, permitindo o facejamento, e além disso, deixamos uma sobra abaixo da face inferior para fixação e descarte do material excedente.
 
 <div align="center">
-<img width="600" alt="image" src="fresagem02_03.jpg">
+<img width="600" alt="image" src="fresagem01_03.jpg">
 <p>
 <i>Figura 3</i>
 </div>
