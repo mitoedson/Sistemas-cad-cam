@@ -56,7 +56,7 @@ Na aba Ferramentas, escolheremos a ferramenta de fresagem, em Ferramenta => Sele
 
 Na aba Passos, habilitamos Passagens Múltiplas. Esta opção permite determinar um incremento máximo, ou seja, a profundidade que a ferramenta fará o faceamento, em relação eo eixo z, para cada passo. Se há 2mm de profundidade, e estabelecermos 1mm de incremento máximo, a ferramenta fará duas etapas de faceamento, no intervalo de 1mm.
 
-iv align="center">
+<iv align="center">
 <img width="600" alt="image" src="fresagem01_05.jpg">
 <p>
 <i>Figura 5:</i>
