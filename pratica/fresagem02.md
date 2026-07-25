@@ -204,7 +204,7 @@ Ao finalizar a simulação, é perceptível que restaram algumas áreas que aind
 <img width="600" alt="image" src="fresagem02_27.jpg">
 <img width="600" alt="image" src="fresagem02_28.jpg">
 <p>
-<i>Figura 27 e 28</i>
+<i>Figura 27 e 28: Simulação para Cavidade 2D</i>
 </div>
 
 
@@ -212,11 +212,10 @@ Ao finalizar a simulação, é perceptível que restaram algumas áreas que aind
 
 Em vez de configurar novamente, basta duplicar clicando com o botão direito no processo anterior. 
 
-
 <div align="center">
 <img width="600" alt="image" src="fresagem02_29.jpg">
 <p>
-<i>Figura 29</i>
+<i>Figura 29: Duplicando os recursos anteriores</i>
 </div>
 
 A diferença está na ferramenta que iremos utilizar, com um diâmetro menor que o anterior.
@@ -224,24 +223,24 @@ A diferença está na ferramenta que iremos utilizar, com um diâmetro menor que
 <div align="center">
 <img width="600" alt="image" src="fresagem02_30.jpg">
 <p>
-<i>Figura 30</i>
+<i>Figura 30: utilizando uma ferramenta com diâmetro menor</i>
 </div>
 
-
-Em passos, deixaremos todas as opções desabilitadas.
+Em Passos, deixaremos todas as opções desabilitadas. Isso significa que as sobras configuradas serão eliminadas.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_31.jpg">
 <p>
-<i>Figura 31</i>
+<i>Figura 31: Desabilitando opções, em Passos</i>
 </div>
 
 Ao finalizar a simulação, as áreas restantes serão tratadas, concluíndo o processo de fresagem da peça.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_32.jpg">
+<img width="600" alt="image" src="fresagem02_33.jpg">
 <p>
-<i>Figura 32</i>
+<i>Figura 33: finalizando o processo de fresagem</i>
 </div>
 
 
