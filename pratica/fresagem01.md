@@ -72,6 +72,42 @@ Ao executar a simulação, devemos localizar o item Navegador => Setups => Confi
 </div>
 
 
+<h3>Contorno 2D</h3>
+
+O processo para remoção do contorno da peça seguem passos parecidos com a que realizamos para o faceamento. Selecionamos o processo para remover os contornos através da aba Fresagem => 2D => Contorno 2D. Escolheremos uma ferramenta desta vez com um diâmetro menor, já que iremos apenas remover contornos externos da peça bruta.
+
+Na aba Geometria, em Seleção de contorno => Selecionar, devemos selecionar a borda inferior do plano. Note que uma seta vermelha aparecerá paralelo à aresta inferior. 
+
+<div align="center">
+<img width="600" alt="image" src="fresagem01_08.jpg">
+<p>
+<i>Figura 8: Configuração em Geometria</i>
+</div>
+
+Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento já foi executado, eliminando os 2mm da parte superior. Assim a ferramenta partirá da posição onde está sinalizado na linha azul (Deslocamento superior), ou seja, alinhado a superfície faceada.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem01_09.jpg">
+<p>
+<i>Figura 9:</i>
+</div>
+
+Na aba Passos, habilitaremos a opção Passagens Múltiplas. O passo vertical máximo indicaremos 4.0 mm, com 4 passos verticais, e 2.00 mm de passo vertical de acabamento. Como a ferramenta possui um diâmetro pequeno, pode ocorrer desgaste ao realizar o desbaste lateral, danificando-a.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem01_10.jpg">
+<p>
+<i>Figura 10: Configuração em Passos</i>
+</div>
+
+Ao realizar a simulação, o contorno externo será removido.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem01_11.jpg">
+<img width="600" alt="image" src="fresagem01_12.jpg">
+<p>
+<i>Figura 11 e 12: Simulação para Contorno 2D</i>
+</div>
 
 
 
