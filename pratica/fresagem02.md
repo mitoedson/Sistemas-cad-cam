@@ -63,7 +63,7 @@ Outra opção que não utilizaremos é a opção Bloco fixo na origem do modelo,
 
 <h3>Faceamento</h3>
 
-Habilitamos a opção Face, na aba Fresagem => 2D. Será aberto uma janela no lado direito, chamado Face, que possui 6 abas: Ferramenta, Multieixo, Geometria, Planos de trabalho, Passo e Vincular. 
+Habilitamos o processo através da opção Face, na aba Fresagem => 2D. Será aberto uma janela no lado direito, chamado Face, que possui 6 abas: Ferramenta, Multieixo, Geometria, Planos de trabalho, Passo e Vincular. 
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_07.jpg">
@@ -72,7 +72,7 @@ Habilitamos a opção Face, na aba Fresagem => 2D. Será aberto uma janela no la
 <i>Figura 7 e 8: Caminho para configuração de Faceamento.</i>
 </div>
 
-Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => Selecionar. Uma outra janela será aberta, com diversas Bibliotecas do Fusion. Optaremos pelas Ferramentas de Fresagem (métrico) => Ø20mm (20mm Flat Endmill). Caso a biblioteca esteja desativada, basta Ativar Biblioteca.
+Na aba Ferramentas, escolheremos a ferramenta de fresagem, em Ferramenta => Selecionar. Uma outra janela será aberta, com diversas Bibliotecas do Fusion. Optaremos pelas Ferramentas de Fresagem (métrico) => Ø20mm (20mm Flat Endmill). Caso a biblioteca esteja desativada, basta Ativar Biblioteca, e as opções com todas as ferramentas de Fresagem serão listadas.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_09.jpg">
@@ -80,7 +80,7 @@ Na aba Ferramentas, devemos escolher a ferramenta de fresagem, em Ferramenta => 
 <i>Figura 9: Escolha da ferramenta para Faceamento.</i>
 </div>
 
-Repare que as informações sobre Parâmetros de corte mudaram após habilitar a ferramenta. As informações serão úteis para ajuste quando analisarmos o processo de fresamento, o material a ser trabalhado, etc. Por hora, não alteraremos os valores já que não estamos ainda aplicando para um processo real.
+Repare que as informações sobre Parâmetros de corte mudaram após a escolha da ferramenta. Estes parâmetros serão úteis para ajuste quando analisarmos o processo de fresamento, o material a ser trabalhado, etc. Por hora, não alteraremos os valores já que não aplicaremos para um processo real.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_10.jpg">
@@ -88,7 +88,7 @@ Repare que as informações sobre Parâmetros de corte mudaram após habilitar a
 <i>Figura 10: Opção para Parâmetros de corte</i>
 </div>
 
-Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça: Deslocamento da altura da folga (vermelho), Deslocamento da altura do avanço (verde), Deslocamento superior (azul claro), Offset ao fundo (azul escuro). O deslocamento superior corresponde justamente ao valor de deslocamento (offset) configurado em bloco, indicando onde a superfície do material bruto está posicionado (no caso, 2mm). O deslocamento de altura do avanço é a área onde a ferramenta ficará posicionada antes de começar o faceamento. Mantemos as informações como estão.
+Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça: Deslocamento da altura da folga (vermelho), Deslocamento da altura do avanço (verde), Deslocamento superior (azul claro), Offset ao fundo (azul escuro). O deslocamento superior corresponde justamente ao valor de deslocamento (offset) configurado na aba Bloco, em Configuração, indicando onde a superfície do material bruto está posicionado (no caso, 2mm). O deslocamento de altura do avanço é a área onde a ferramenta ficará posicionada antes de começar o faceamento. Não faremos alterações por enquanto.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_11.jpg">
@@ -96,8 +96,7 @@ Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça
 <i>Figura 11: Linhas guias indicadoras dos Planos de trabalho</i>
 </div>
 
-
-Na aba Passos, habilitamos Passagens Múltiplas.
+Na aba Passos, habilitamos Passagens Múltiplas. Elas representam quantas passagens a ferramenta percorrerá, a profundidade, etc.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_12.jpg">
 <p>
