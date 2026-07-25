@@ -4,12 +4,7 @@
 
 Ao abrir a Figura no Autodesk Fusion 360, trabalharemos no Espaço de Trabalho de Manufatura (opção no canto superior esquerdo). O primeiro passo é definir uma nova configuração, na aba Fresagem => Configuração => Nova configuração.
 
-<div align="center">
-<img width="600" alt="image" src="fresagem01_01.jpg">
-<p>
-<i>Figura 1:</i>
-</div>
-
+<img width="600" alt="image" src="fresagem01_01.jpg"><h1>Simulação de Processo de Fresagem</h1>
 
 
 <h3>Configuração</h3>
@@ -54,9 +49,9 @@ Na aba Ferramentas, escolheremos a ferramenta de fresagem, em Ferramenta => Sele
 <i>Figura 4:</i>
 </div>
 
-Na aba Passos, habilitamos Passagens Múltiplas. Esta opção permite determinar um incremento máximo, ou seja, a profundidade que a ferramenta fará o faceamento, em relação eo eixo z, para cada passo. Se há 2mm de profundidade, e estabelecermos 1mm de incremento máximo, a ferramenta fará duas etapas de faceamento, no intervalo de 1mm.
+Na aba Passos, habilitamos Passagens Múltiplas. Esta opção permite determinar um incremento máximo, ou seja, a profundidade que a ferramenta fará o faceamento, em relação eo eixo z, para cada passo. Se há 2mm de profundidade, e estabelecermos 1mm de incremento máximo, a ferramenta fará duas etapas de faceamento, no intervalo de 1mm. Adicionaremos 1mm em Deslocamento do bloco, garantindo que toda a superfície seja faceada.
 
-<div align="center">
+iv align="center">
 <img width="600" alt="image" src="fresagem01_05.jpg">
 <p>
 <i>Figura 5:</i>
@@ -75,24 +70,6 @@ Ao executar a simulação, devemos localizar o item Navegador => Setups => Confi
 <p>
 <i>Figura 7: Simulação para Faceamento</i>
 </div>
-
-<h4>Contorno 2D</h4>
-
-Na aba 2D, clique em Contorno 2D. Ao abrir a janela Face, deve-se escolher a Ferramenta, em "Selecionar...". Nas Bilbiotecas de usuário -> Biblioteca do Fusion, opte por "Ferramentas de fresamento (métrico)". Ative a Biblioteca, e escolha ∅25mm (25mm Flat Endmill). Em Geometria, faça o mesmo que em Face. Em Planos de Trabalho, a Altura superior configuramos para -2.00 mm.
-<p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/bd51a647-7537-4c6e-92f6-e46479cc0c8a" />
-<p>
-Em Passos -> Passagens Múltiplas, coloque 4 para Passos verticais de acabamento, e 4.00mm para Passo vertical de acabamento.
-<p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/153b40c3-2bdb-4894-9d7b-367441e5b96b" />
-<p>
-Antes da simulação, podemos ver o caminho que a ferramenta caminhará. Concluíndo a simulação, temos a peça desbastada. Note que aplicamos a simulação em "Configuração1", executando o faceamento e o desbaste da peça.
-<p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/804e8a82-2248-42b1-8008-0c908703fcaf" />
-<p>
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/6a242513-7817-44a3-81c0-c85e3cdeaec6" />
-
-
 
 
 
