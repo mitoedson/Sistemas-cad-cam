@@ -200,11 +200,23 @@ Na aba Passos, habilitaremos as opções Passagens múltiplas, e Bloco a ser dei
 
 Ao finalizar a simulação, é perceptível que restaram algumas áreas que ainda devam ser desbastadas.
 
+<div align="center">
+<img width="600" alt="image" src="fresagem02_27.jpg">
+<p>
+<i>Figura 27</i>
+</div>
 
 
 <h3>Cavidade 2D (Parte 2)</h3>
 
 Em vez de configurar novamente, basta duplicar clicando com o botão direito no processo anterior. 
+
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_28.jpg">
+<p>
+<i>Figura 28</i>
+</div>
 
 A diferença está na ferramenta que iremos utilizar, com um diâmetro menor que o anterior.
 
