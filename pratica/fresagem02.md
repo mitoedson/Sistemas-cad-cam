@@ -202,8 +202,9 @@ Ao finalizar a simulação, é perceptível que restaram algumas áreas que aind
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_27.jpg">
+<img width="600" alt="image" src="fresagem02_28.jpg">
 <p>
-<i>Figura 27</i>
+<i>Figura 27 e 28</i>
 </div>
 
 
@@ -213,16 +214,34 @@ Em vez de configurar novamente, basta duplicar clicando com o botão direito no 
 
 
 <div align="center">
-<img width="600" alt="image" src="fresagem02_28.jpg">
+<img width="600" alt="image" src="fresagem02_29.jpg">
 <p>
-<i>Figura 28</i>
+<i>Figura 29</i>
 </div>
 
 A diferença está na ferramenta que iremos utilizar, com um diâmetro menor que o anterior.
 
+<div align="center">
+<img width="600" alt="image" src="fresagem02_30.jpg">
+<p>
+<i>Figura 30</i>
+</div>
+
 
 Em passos, deixaremos todas as opções desabilitadas.
 
+<div align="center">
+<img width="600" alt="image" src="fresagem02_31.jpg">
+<p>
+<i>Figura 31</i>
+</div>
 
 Ao finalizar a simulação, as áreas restantes serão tratadas, concluíndo o processo de fresagem da peça.
+
+<div align="center">
+<img width="600" alt="image" src="fresagem02_32.jpg">
+<p>
+<i>Figura 32</i>
+</div>
+
 
