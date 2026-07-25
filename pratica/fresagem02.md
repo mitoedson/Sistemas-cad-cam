@@ -96,7 +96,9 @@ Na aba Planos de trabalho, podemos ver no plano frontal, 4 linhas acima da peça
 <i>Figura 11: Linhas guias indicadoras dos Planos de trabalho</i>
 </div>
 
-Na aba Passos, habilitamos Passagens Múltiplas.
+Na aba Passos, habilitamos Passagens Múltiplas. Esta opção permite determinar um incremento máximo, ou seja, a profundidade que a ferramenta fará o faceamento, em relação eo eixo z, para cada passo. Se hpa 2mm de profundidade, e estabelecermos 1mm de incremento máximo, a ferramenta fará duas etapas de faceamento, no intervalo de 1mm.
+
+Obs.: haverá casos em que o faceamento pode não atingir toda a área. Configurações como Deslocamento do bloco, estendem a passagem da ferramenta além do limite do plano xy, alcançando áreas de superfície não alcançáveis.
 <div align="center">
 <img width="600" alt="image" src="fresagem02_12.jpg">
 <p>
