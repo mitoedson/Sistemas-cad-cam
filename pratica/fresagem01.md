@@ -27,36 +27,15 @@ Na aba Configuração, optaremos pelos seguintes valores (na ordem que faremos a
 <i>Figura 2: Ambiente de configuração</i>
 </div>
 
-Na aba Bloco, na configuração em Modo, há duas opções de envólucros que se encaixam em nossa peça: "Caixa de tamanho relativo" e "Caixa de tamanho fixo". Se optarmos pelo tamanho relativo, os valores para ajustes de deslocamento lateral, superior e inferior serão adicionados proporcionalmente para cada dimensão, respectivamente. Por um lado distribui as dimensões, por outro não temos um controle real das dimensões quando colocarmos em prática no equipamento uma peça bruta, e executar a tarefa de fresamento.
-
-<div align="center">
-<img width="600" alt="image" src="fresagem02_03.jpg">
-<p>
-<i>Figura 3: Ambiente de configuração, em bloco, para caixa de tamanho relativo</i>
-</div>
-
-Em Caixa de tamanho fixo, partimos com os valores dimensionais extremos da peça acabada como referência. Note que as dimensões do modelo, abaixo da janela, são as mesmas e prontas para redimensionar com os valores das dimensões da peça bruta a ser posicionada na fresa.  
-
-<div align="center">
-<img width="600" alt="image" src="fresagem02_04.jpg">
-<p>
-<i>Figura 4: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
-</div>
+Na aba Bloco, na configuração em Modo, há duas opções de envólucros que se encaixam em nossa peça: "Caixa de tamanho relativo" e "Caixa de tamanho fixo". Em Caixa de tamanho fixo, partimos com os valores dimensionais extremos da peça acabada como referência. Note que as dimensões do modelo, abaixo da janela, são as mesmas e prontas para redimensionar com os valores das dimensões da peça bruta a ser posicionada na fresa.  
 
 Para fins didáticos, adicionaremos 4mm a mais de Largura (X) e Profundidade (Y). Para Altura (Z), adicionaremos 10mm pois precisamos que a base tenha uma altura suficiente para que a peça seja serrada após concluir a fresagem. Na Posição do modelo, abaixo de Altura (Z), optaremos por "Deslocamento superior (+Z)". Esta opção permitirá que eu controle o deslocamento acima da face superior da peça, permitindo o facejamento, e além disso, deixamos uma sobra abaixo da face inferior para fixação e descarte do material excedente.
 
 <div align="center">
-<img width="600" alt="image" src="fresagem02_05.jpg">
-<img width="600" alt="image" src="fresagem02_06.jpg">
+<img width="600" alt="image" src="fresagem02_03.jpg">
 <p>
-<i>Figura 5 e 6: Ambiente de configuração, em bloco, para caixa de tamanho fixo</i>
+<i>Figura 3</i>
 </div>
-
-<b>Observações:</b><br>
-Note que há a opção Arredondamento para o mais próximo. Não iremos alterar este valor, por hora, já que ele fará o arredondamento para cima das dimensões de todo o bloco. Um dos motivos para que ela exista é quando ao adquirir uma matéria prima para realizar a fresagem, ela vem com dimensões específicas para venda, nunca valores quebrados. Portanto, esta opção é útil nessa situação. Para fins didáticos, ela é mais um item a ser conhecido.
-
-Outra opção que não utilizaremos é a opção Bloco fixo na origem do modelo, que desabilitaremos pois o eixo de coordenadas de trabalho que configuramos pode não ser o mesmo que o eixo origem da peça quando foi modelada, e aberta em Projeto.  Se habilitarmos, toda a configuração realizada será deslocada para o eixo origem do Projeto, não da Manufatura.
-
 
 <h3>Faceamento</h3>
 
