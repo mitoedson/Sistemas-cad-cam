@@ -8,27 +8,27 @@ Para esta peça, um passo importante para realizar o contorno na peça foi delim
 
 <div align="center">
 <img width="600" alt="image" src="fresagem03_01.jpg">
-<p>
+<br>
 Figura 1: Peça 3
 <p>
 <img width="600" alt="image" src="fresagem03_02.jpg">
-<p>
+<br>
 Figura 2: Processo de faceamento
 <p>
 <img width="600" alt="image" src="fresagem03_03.jpg">
-<p>
+<br>
 Figura 3: Processo de contorno 2D
 <p>
 <img width="600" alt="image" src="fresagem03_04.jpg">
-<p>
+<br>
 Figura 4: Processo de cavidade 2D
 <p>
 <img width="600" alt="image" src="fresagem03_05.jpg">
-<p>
+<br>
 Figura 5: Processo de cavidade 2D, acabamento
 <p>
 <img width="600" alt="image" src="fresagem03_06.jpg">
-<p>
+<br>
 Figura 6: Simulação
 </div>
   
