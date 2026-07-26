@@ -139,7 +139,7 @@ Na aba Geometria, em Seleção de contorno => Selecionar, devemos selecionar a b
 <i>Figura 18: Configuração em Geometria</i>
 </div>
 
-Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento já foi executado, eliminando os 2mm da parte superior. Assim a ferramenta partirá da posição onde está sinalizado na linha azul (Deslocamento superior), ou seja, alinhado a superfície faceada.
+Na aba Planos de trabalho, as opções indicando "Topo do bloco" devem ser alteradas para "Topo do modelo", porque o faceamento já foi executado, eliminando os 2mm da parte superior. Assim a ferramenta partirá da posição onde está sinalizado na linha azul (Deslocamento superior), ou seja, alinhado a superfície faceada. Note que para Altura inferior de deslocamento, configuramos com -2.00 mm. Isso quer dizer que a profundidade que a ferramenta de contorno será 2mm abaixo da base da peça desejada, e que será uma altura de sobra para que ela possa ser serrada do material.
 
 <div align="center">
 <img width="600" alt="image" src="fresagem02_19.jpg">
