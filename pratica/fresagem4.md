@@ -2,7 +2,7 @@
 
 <h3>Peça 4</h4>
 
-O processo de fresagem para esta peça segue processos semelhantes aos exercícios de fresagem anterior. Desta vez, mostraremos apenas as etapas finais de cada etapa. 
+O processo de fresagem para esta peça segue processos semelhantes aos exercícios de fresagem anterior. Desta vez, mostraremos apenas as etapas do processo. 
 
 <div align="center">
 <img width="600" alt="image" src="fresagem04_01.jpg">
