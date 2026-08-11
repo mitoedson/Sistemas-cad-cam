@@ -42,6 +42,9 @@ O CAE (Computer-Aided Engineering, ou Engenharia Auxiliada por Computador) é a 
 A programação CNC (Comando Numérico Computadorizado) para tornos é um processo matemático e técnico que permite o controle preciso dos movimentos da máquina-ferramenta por meio de um computador dedicado.
 
 <h4><a href="/teoria/pertcpm.md">PERT/CPM</a></h4>
+O sistema PERT/CPM busca garantir que o projeto seja entregue no menor tempo e com o menor custo possível, mantendo a qualidade adequada e a otimização dos recursos disponíveis.
+
+<h4><a href="/teoria/planejamento_projeto.md">Planejamento do Projeto, e Rede PERT/CPM.</a></h4>
 
 <br>
 </ul>
