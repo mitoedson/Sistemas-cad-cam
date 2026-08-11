@@ -39,6 +39,10 @@ O torno é uma máquina-ferramenta destinada à fabricação de peças axisimét
 O CAE (Computer-Aided Engineering, ou Engenharia Auxiliada por Computador) é a tecnologia que utiliza softwares de computador para simular, validar e otimizar projetos e processos de engenharia. <br>
  
 <h4><a href="/teoria/programacaocnc.md">Programação CNC - Torno</a></h4>
-A programação CNC (Comando Numérico Computadorizado) para tornos é um processo matemático e técnico que permite o controle preciso dos movimentos da máquina-ferramenta por meio de um computador dedicado.<br>
+A programação CNC (Comando Numérico Computadorizado) para tornos é um processo matemático e técnico que permite o controle preciso dos movimentos da máquina-ferramenta por meio de um computador dedicado.
+
+<h4><a href="/teoria/pertcpm.md">PERT/CPM</a></h4>
+
+<br>
 </ul>
 
