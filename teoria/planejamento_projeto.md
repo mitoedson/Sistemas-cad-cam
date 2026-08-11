@@ -59,7 +59,7 @@ A apresentação em forma de rede, permite identificar interdependências e a se
 
 ### Método americano
 
-![Método americano](image.png)
+![Método americano](image-6.png)
 
 ### Método francês
-![Método francês](image-1.png)
+![Método francês](image-5.png)
