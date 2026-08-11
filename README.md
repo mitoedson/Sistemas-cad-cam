@@ -34,6 +34,9 @@ O torno é uma máquina-ferramenta destinada à fabricação de peças axisimét
 
 <h4><a href="/teoria/fresamento.md">Fresamento</a></h4>
 É um processo de usinagem destinado à obtenção de superfícies planas, contornos, perfis e cavidades em peças de geometria prismática. Diferente do torneamento, onde a peça gira, no fresamento a ferramenta de corte é que possui o movimento de rotação.
+
+<h4><a href="/teoria/elementos_fixacao.md">Elementos de Fixação</a></h4>
+Elementos de fixação (jigs & fixtures) são dispositivos usados em processos de usinagem para posicionar e imobilizar a peça durante a fabricação, garantindo que ela permaneça na posição correta em relação à ferramenta de corte durante todo o processo
  
 <h4><a href="/teoria/cae.md">CAE - Computer-Aided Engineering</a></h4>
 O CAE (Computer-Aided Engineering, ou Engenharia Auxiliada por Computador) é a tecnologia que utiliza softwares de computador para simular, validar e otimizar projetos e processos de engenharia. <br>
