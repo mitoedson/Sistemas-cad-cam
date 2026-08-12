@@ -24,7 +24,9 @@ Qualquer corpo rígido no espaço possui seis graus de liberdade: três transla�
 * **2 pontos** de posicionamento, localizados em um plano perpendicular ao anterior, restringem 1 rotação e 1 translação;
 * **1 ponto** de posicionamento, localizado em um terceiro plano perpendicular aos outros dois, restringe a última translação.
 
-![Sistema de referência para o posicionamento de peças no espaço](image-14.png)
+
+<img src="image-14.png" alt="Sistema de referência para o posicionamento de peças no espaço" width="600">
+<br>
 *Sistema de referência para o posicionamento de peças no espaço, com os três planos ortogonais Pxy, Pxz e Pyz.*
 
 ![Regra dos 6 pontos aplicada a peças prismática e cilíndrica](image-15.png)
