@@ -82,6 +82,30 @@ Todas as demais atividades (A, C, E, F, G, I, J, L, M, N) possuem folga e podem,
 
 Diagrama Activity-on-Arrow (atividade-na-seta), com eventos numerados, atividades fictícias (dummies) e comparação com o método francês (AON).
 
+
+$$
+\begin{array}{|c|c|c|}
+\hline \text{Atividade} & \text{Precedência} & \text{Duração (meses)}\\
+\hline A&-&1\\
+\hline B&-&2\\
+\hline C&A&3\\
+\hline D&B&4\\
+\hline E&B&5\\
+\hline F&B&6\\
+\hline G&B&5\\
+\hline H&D&4\\
+\hline I&F&3\\
+\hline J&G&2\\
+\hline K&H&1\\
+\hline L&D,E&2\\
+\hline M&G,I&3\\
+\hline N&J&4\\
+\hline O&C,K&5\\
+\hline
+\end{array}
+$$
+
+
 ## 1. Rede AOA (Activity-on-Arrow)
 
 <img src="image-2.png" width=800><br>
