@@ -2,38 +2,57 @@
 
 Diagrama de rede AON (Activity-on-Node) com cálculo de datas cedo/tarde, folgas e caminho crítico.
 
-
-  Duração total do projeto: <b>16 meses</b> — definida pelo caminho crítico $B \Rightarrow D \Rightarrow H \Rightarrow K \Rightarrow O \quad \text{(2 + 4 + 4 + 1 + 5 = 16 meses)}$
+```math
+\begin{array}{|c|c|c|}
+\hline \text{Atividade} & \text{Precedência} & \text{Duração (meses)}\\ 
+\hline A&-&1\\
+\hline B&-&2\\
+\hline C&A&3\\
+\hline D&B&4\\
+\hline E&B&5\\
+\hline F&B&6\\
+\hline G&B&5\\
+\hline H&D&4\\
+\hline I&F&3\\
+\hline J&G&2\\
+\hline K&H&1\\
+\hline L&D,E&2\\
+\hline M&G,I&3\\
+\hline N&J&4\\
+\hline O&C,K&5\\
+\hline
+\end{array}
+```
 
 ## 1. Rede AON (Activity-on-Node)
 
+<img src="image-3.png" width=800><br>
 <img src="image.png" width=800><br>
 Cada nó traz: <b>ES</b> (início mais cedo), <b>EF</b> (fim mais cedo), <b>LS</b> (início mais tarde), <b>LF</b> (fim mais tarde) e a folga (LS − ES). Atividades com folga = 0 formam o caminho crítico.
 
 ## 2. Tabela de Cálculo (CPM)
 
-
-<table>
-  <tr>
-    <th>Atividade</th><th>Duração (meses)</th><th>Precedências</th>
-    <th>ES</th><th>EF</th><th>LS</th><th>LF</th><th>Folga</th><th>Crítica?</th>
-  </tr>
-  <tr><td>A</td><td>1</td><td>-----</td><td>0</td><td>1</td><td>7</td><td>8</td><td>7</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>B</td><td>2</td><td>-----</td><td>0</td><td>2</td><td>0</td><td>2</td><td>0</td><td>Sim</td></tr>
-<tr><td>C</td><td>3</td><td>A</td><td>1</td><td>4</td><td>8</td><td>11</td><td>7</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>D</td><td>4</td><td>B</td><td>2</td><td>6</td><td>2</td><td>6</td><td>0</td><td>Sim</td></tr>
-<tr><td>E</td><td>5</td><td>B</td><td>2</td><td>7</td><td>9</td><td>14</td><td>7</td><td>Não</td></tr>
-<tr><td>F</td><td>6</td><td>B</td><td>2</td><td>8</td><td>4</td><td>10</td><td>2</td><td>Não</td></tr>
-<tr><td>G</td><td>5</td><td>B</td><td>2</td><td>7</td><td>5</td><td>10</td><td>3</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>H</td><td>4</td><td>D</td><td>6</td><td>10</td><td>6</td><td>10</td><td>0</td><td>Sim</td></tr>
-<tr><td>I</td><td>3</td><td>F</td><td>8</td><td>11</td><td>10</td><td>13</td><td>2</td><td>Não</td></tr>
-<tr><td>J</td><td>2</td><td>G</td><td>7</td><td>9</td><td>10</td><td>12</td><td>3</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>K</td><td>1</td><td>H</td><td>10</td><td>11</td><td>10</td><td>11</td><td>0</td><td>Sim</td></tr>
-<tr><td>L</td><td>2</td><td>D, E</td><td>7</td><td>9</td><td>14</td><td>16</td><td>7</td><td>Não</td></tr>
-<tr><td>M</td><td>3</td><td>G, I</td><td>11</td><td>14</td><td>13</td><td>16</td><td>2</td><td>Não</td></tr>
-<tr><td>N</td><td>4</td><td>J</td><td>9</td><td>13</td><td>12</td><td>16</td><td>3</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>O</td><td>5</td><td>C, K</td><td>11</td><td>16</td><td>11</td><td>16</td><td>0</td><td>Sim</td></tr>
-</table>
+```math
+\begin{array}{|c|c|c|c|c|c|c|c|c|}
+\hline \text{Atividade} & \text{Precedência} & \text{Duração (meses)} & \text{ES} & \text{EF} & \text{LS} & \text{LF} & \text{Folga} & \text{crítica?}\\ 
+\hline A&1&-----&0&1&7&8&7&Não\\
+\hline B&2&-----&0&2&0&2&0&Sim\\
+\hline C&3&A&1&4&8&11&7&Não\\
+\hline D&4&B&2&6&2&6&0&Sim\\
+\hline E&5&B&2&7&9&14&7&Não\\
+\hline F&6&B&2&8&4&10&2&Não\\
+\hline G&5&B&2&7&5&10&3&Não\\
+\hline H&4&D&6&10&6&10&0&Sim\\
+\hline I&3&F&8&11&10&13&2&Não\\
+\hline J&2&G&7&9&10&12&3&Não\\
+\hline K&1&H&10&11&10&11&0&Sim\\
+\hline L&2&D,E&7&9&14&16&7&Não\\
+\hline M&3&G,I&11&14&13&16&2&Não\\
+\hline N&4&J&9&13&12&16&3&Não\\
+\hline O&5&C,K&11&16&11&16&0&Sim\\
+\hline
+\end{array}
+```
 
 ## 3. Como o cálculo foi feito
 
@@ -62,8 +81,6 @@ Todas as demais atividades (A, C, E, F, G, I, J, L, M, N) possuem folga e podem,
 
 Diagrama Activity-on-Arrow (atividade-na-seta), com eventos numerados, atividades fictícias (dummies) e comparação com o método francês (AON).
 
-Duração total do projeto: <b>16 meses</b> — mesmo resultado do método AON, pelo caminho crítico $1 \Rightarrow 3 \Rightarrow 4 \Rightarrow 9 \Rightarrow 11 \Rightarrow 15 (atividades) B \Rightarrow D \Rightarrow H \Rightarrow K \Rightarrow O$
-
 ## 1. Rede AOA (Activity-on-Arrow)
 
 <img src="image-2.png" width=800><br>
@@ -81,25 +98,31 @@ Cada evento (círculo) é dividido em três campos: <b>número do evento</b> (es
 
 ## 3. Tabela de Tempos dos Eventos
 
-<table>
-  <tr><th>Evento</th><th>Significado</th><th>TE</th><th>TL</th><th>Folga</th><th>Crítico?</th></tr>
-  <tr style="background:#fdecea;font-weight:600;"><td>1</td><td style='text-align:left;'>Início do projeto</td><td>0</td><td>0</td><td>0</td><td>Sim</td></tr>
-<tr><td>2</td><td style='text-align:left;'>Fim de A</td><td>1</td><td>8</td><td>7</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>3</td><td style='text-align:left;'>Fim de B</td><td>2</td><td>2</td><td>0</td><td>Sim</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>4</td><td style='text-align:left;'>Fim de D</td><td>6</td><td>6</td><td>0</td><td>Sim</td></tr>
-<tr><td>5</td><td style='text-align:left;'>Fim de G</td><td>7</td><td>10</td><td>3</td><td>Não</td></tr>
-<tr><td>6</td><td style='text-align:left;'>Fim de F</td><td>8</td><td>10</td><td>2</td><td>Não</td></tr>
-<tr><td>7</td><td style='text-align:left;'>Convergência D+E (início de L)</td><td>7</td><td>14</td><td>7</td><td>Não</td></tr>
-<tr><td>8</td><td style='text-align:left;'>Convergência G+I (início de M)</td><td>11</td><td>13</td><td>2</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>9</td><td style='text-align:left;'>Fim de H</td><td>10</td><td>10</td><td>0</td><td>Sim</td></tr>
-<tr><td>10</td><td style='text-align:left;'>Fim de J</td><td>9</td><td>12</td><td>3</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>11</td><td style='text-align:left;'>Convergência C+K (início de O)</td><td>11</td><td>11</td><td>0</td><td>Sim</td></tr>
-<tr><td>12</td><td style='text-align:left;'>Fim de L</td><td>9</td><td>16</td><td>7</td><td>Não</td></tr>
-<tr><td>13</td><td style='text-align:left;'>Fim de M</td><td>14</td><td>16</td><td>2</td><td>Não</td></tr>
-<tr><td>14</td><td style='text-align:left;'>Fim de N</td><td>13</td><td>16</td><td>3</td><td>Não</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>15</td><td style='text-align:left;'>Fim de O</td><td>16</td><td>16</td><td>0</td><td>Sim</td></tr>
-<tr style="background:#fdecea;font-weight:600;"><td>16</td><td style='text-align:left;'>Fim do projeto</td><td>16</td><td>16</td><td>0</td><td>Sim</td></tr>
-</table>
+```math
+\begin{array}{|c|c|c|c|c|c|}
+\hline \text{Evento} & \text{Significado} & \text{TE} & \text{TL} & \text{Folga} & \text{Crítico?}\\ 
+\hline 1&\text{Início do projeto}&0&0&0&Sim\\
+\hline 2&\text{Fim de A}&1&8&7&Não\\
+\hline 3&\text{Fim de B}&2&2&0&Sim\\
+\hline 4&\text{Fim de D}&6&6&0&Sim\\
+\hline 5&\text{Fim de G}&7&10&3&Não\\
+\hline 6&\text{Fim de F}&8&10&2&Não\\
+\hline 7&\text{Convergência D+E (início de L)}&7&14&7&Não\\
+\hline 8&\text{Convergência G+I (início de M)}&11&13&2&Não\\
+\hline 9&\text{Fim de H}&10&10&0&Sim\\
+\hline 10&\text{Fim de J}&9&12&3&Não\\
+\hline 11&\text{Convergência C+K (início de O)}&11&11&0&Sim\\
+\hline 12&\text{Fim de L}&9&16&7&Não\\
+\hline 13&\text{Fim de M}&14&16&2&Não\\
+\hline 14&\text{Fim de N}&13&16&3&Não\\
+\hline 15&\text{Fim de O}&16&16&0&Sim\\
+\hline 16&\text{Fim do projeto}&16&16&0&Sim\\
+\hline
+\end{array}
+```
+
+Duração total do projeto: <b>16 meses</b> — mesmo resultado do método AON, pelo caminho crítico $1 \Rightarrow 3 \Rightarrow 4 \Rightarrow 9 \Rightarrow 11 \Rightarrow 15 (atividades) B \Rightarrow D \Rightarrow H \Rightarrow K \Rightarrow O$
+
 
 ## 4. Comparação entre os Métodos
 
