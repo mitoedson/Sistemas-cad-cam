@@ -2,9 +2,9 @@
 
 Diagrama de rede AON (Activity-on-Node) com cálculo de datas cedo/tarde, folgas e caminho crítico.
 
-```math
+$$
 \begin{array}{|c|c|c|}
-\hline \text{Atividade} & \text{Precedência} & \text{Duração (meses)}\\ 
+\hline \text{Atividade} & \text{Precedência} & \text{Duração (meses)}\\
 \hline A&-&1\\
 \hline B&-&2\\
 \hline C&A&3\\
@@ -22,7 +22,7 @@ Diagrama de rede AON (Activity-on-Node) com cálculo de datas cedo/tarde, folgas
 \hline O&C,K&5\\
 \hline
 \end{array}
-```
+$$
 
 ## 1. Rede AON (Activity-on-Node)
 
