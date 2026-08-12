@@ -32,7 +32,7 @@ Cada nó traz: <b>ES</b> (início mais cedo), <b>EF</b> (fim mais cedo), <b>LS</
 
 ## 2. Tabela de Cálculo (CPM)
 
-```math
+$$
 \begin{array}{|c|c|c|c|c|c|c|c|c|}
 \hline \text{Atividade} & \text{Precedência} & \text{Duração (meses)} & \text{ES} & \text{EF} & \text{LS} & \text{LF} & \text{Folga} & \text{crítica?}\\ 
 \hline A&1&-----&0&1&7&8&7&Não\\
@@ -52,7 +52,8 @@ Cada nó traz: <b>ES</b> (início mais cedo), <b>EF</b> (fim mais cedo), <b>LS</
 \hline O&5&C,K&11&16&11&16&0&Sim\\
 \hline
 \end{array}
-```
+$$
+
 
 ## 3. Como o cálculo foi feito
 
@@ -98,7 +99,7 @@ Cada evento (círculo) é dividido em três campos: <b>número do evento</b> (es
 
 ## 3. Tabela de Tempos dos Eventos
 
-```math
+$$
 \begin{array}{|c|c|c|c|c|c|}
 \hline \text{Evento} & \text{Significado} & \text{TE} & \text{TL} & \text{Folga} & \text{Crítico?}\\ 
 \hline 1&\text{Início do projeto}&0&0&0&Sim\\
@@ -119,7 +120,8 @@ Cada evento (círculo) é dividido em três campos: <b>número do evento</b> (es
 \hline 16&\text{Fim do projeto}&16&16&0&Sim\\
 \hline
 \end{array}
-```
+$$
+
 
 Duração total do projeto: <b>16 meses</b> — mesmo resultado do método AON, pelo caminho crítico $1 \Rightarrow 3 \Rightarrow 4 \Rightarrow 9 \Rightarrow 11 \Rightarrow 15 (atividades) B \Rightarrow D \Rightarrow H \Rightarrow K \Rightarrow O$
 
