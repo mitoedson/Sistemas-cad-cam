@@ -28,7 +28,7 @@ Antes das redes PERT/CPM, o planejamento era feito majoritariamente com o **grá
 
 ## 2. Histórico
 
-- **~1900** — primeiras técnicas de organização do trabalho (especialização de atividades de Taylor; gráfico de Gantt).
+- **~1900** — primeiras técnicas de organização do trabalho (especialização de atividades de Taylor; <a href="graficogantt.md">gráfico de Gantt</a>).
 - **2ª Guerra Mundial** — grande desenvolvimento de técnicas matemáticas para tomada de decisão; após a guerra, esses especialistas migram para empresas privadas.
 
 ### PERT
@@ -241,14 +241,14 @@ Planejamento e programação devem estar completos antes do início do projeto; 
 * Projetos de média duração – Fazer o jantar
 * Projetos de curta duração – Manutenção de uma máquina – Limpeza de uma sal
 
-
+<a href="planejamento_projeto.md">Ir para Planejamento de Projeto PERT/CPM</a>
 
 
 
 ## 13. Softwares que usam PERT/CPM
 
 - **Microsoft Project** — diagramas de Gantt, cálculo de caminho crítico, análise PERT, relatórios.
-- **Primavera P6 (Oracle)** — gestão de projetos/portfólios complexos, análise de riscos, usado em engenharia/construção/manufatura.
+- **Primavera P6 (Oracle)** —d gestão de projetos/portfólios complexos, análise de riscos, usado em engenharia/construção/manufatura.
 - **Trello** — gestão baseada em Kanban (to do / doing / done); não é uma ferramenta de rede PERT/CPM propriamente, mas é citada como parte do ecossistema de gerenciamento de projetos.
 
 
