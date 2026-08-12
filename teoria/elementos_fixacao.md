@@ -29,55 +29,64 @@ Qualquer corpo rígido no espaço possui seis graus de liberdade: três transla�
 <br>
 *Sistema de referência para o posicionamento de peças no espaço, com os três planos ortogonais Pxy, Pxz e Pyz.*
 
-![Regra dos 6 pontos aplicada a peças prismática e cilíndrica](image-15.png)
-
+<img src="image-15.png" alt="Regra dos 6 pontos aplicada a peças prismática e cilíndrica" width="600">
+<br>
 *Aplicação da regra dos 6 pontos em uma peça prismática (esquerda) e em uma peça cilíndrica (direita). No caso cilíndrico do exemplo, restam apenas 5 pontos de contato, deixando livre a rotação em torno do eixo x — grau de liberdade que normalmente é o próprio movimento de corte do torno.*
 
 ### 2.2 Esquemas Práticos de Posicionamento
 
 A tabela a seguir (presente no material de referência) resume como a disposição teórica dos pontos de contato se traduz em soluções construtivas práticas, dependendo do tipo de elemento geométrico que está sendo posicionado (plano, reta/orientação ou eixo):
 
-![Quadro 6.3 - esquemas de soluções práticas](image-16.png)
+<img src="image-16.png" alt="Quadro 6.3 - esquemas de soluções práticas" width="600">
+<br>
 *Quadro 6.3 — esquemas de soluções práticas para posicionamento de um plano e de uma reta (orientação).*
 
-![Soluções práticas para posicionamento de um eixo](image-17.png)
+<img src="image-17.png" alt="Soluções práticas para posicionamento de um eixo" width="600">
+<br>
 *Soluções práticas para posicionamento de um eixo, com distinção entre peças longas e peças curtas (relação comprimento/diâmetro).*
 
-![Posicionamento a partir de plano de simetria](image-18.png)
+<img src="image-18.png" alt="Posicionamento a partir de plano de simetria" width="600">
+<br>
 *Posicionamento a partir de um plano de simetria, útil quando a peça bruta não tem referência plana confiável.*
 
 ## 3. Elementos de Posicionamento (Localizadores)
 
 Os localizadores são os componentes físicos que materializam os pontos de contato descritos na regra dos 6 pontos. São, em geral, comuns tanto ao torno quanto à fresa, variando principalmente em formato conforme a geometria da peça (prismática ou cilíndrica).
 
-![Exemplos práticos de posicionamento de peças cilíndricas roscadas](image-19.png)
+<img src="image-19.png" alt="Exemplos práticos de posicionamento de peças cilíndricas roscadas" width="600">
+<br>
 *Exemplos práticos de posicionamento de peças cilíndricas roscadas, mostrando diferentes formas de contato entre a peça e o dispositivo.*
 
 ### 3.1 Apoios Planos
 
 Os apoios planos fixos são a solução mais simples para materializar pontos de contato em uma superfície plana. São frequentemente padronizados, com furos para fixação por parafusos.
 
-![Apoio plano fixo padronizado](image-20.png)
+<img src="image-20.png" alt="Apoio plano fixo padronizado" width="600">
+<br>
 *Apoio plano fixo padronizado, com dimensões e furos para parafusos M8.*
 
 ### 3.2 Apoios de Dois Pontos
 
 Utilizados principalmente para peças brutas ou de superfície irregular, onde um apoio contínuo geraria deformações por defeitos de planaridade. O apoio desdobrado autorregulável (Fig. 6.9) se adapta a pequenas variações da superfície bruta, enquanto o apoio fixo (Fig. 6.10) materializa dois pontos de contato através de dois planos pequenos alinhados.
 
-![Fig. 6.9 - Apoio desdobrado autorregulável](image-21.png)
+<img src="image-21.png" alt="Fig. 6.9 - Apoio desdobrado autorregulável" width="600">
+<br>
 *Fig. 6.9 — Apoio desdobrado autorregulável, próprio para posicionamento de superfícies brutas.*
 
-![Fig. 6.10 - Apoio fixo de dois pontos](image-22.png)
+<img src="image-22.png" alt="Fig. 6.10 - Apoio fixo de dois pontos" width="600">
+<br>
 *Fig. 6.10 — Apoio fixo que materializa dois pontos de contato mediante dois planos pequenos alinhados.*
 
 ### 3.3 Prismas em V — o localizador central do torneamento
 
 O prisma em V é um dos elementos mais importantes para o posicionamento de peças cilíndricas, sendo amplamente utilizado tanto na preparação de peças para torno quanto em dispositivos de fresa. Existem versões fixas, padronizadas por tabela (com abertura de 90°), e versões reguláveis, que permitem ajuste fino da posição.
 
-![Tabela de prismas em V padronizados](image-23.png)
+<img src="image-23.png" alt="Tabela de prismas em V padronizados" width="600">
+<br>
 *Tabela de prismas em V padronizados (NLM 5600 / NLM 5625), com dimensões normalizadas conforme o diâmetro D da peça.*
 
-![Prisma regulável](image-24.png)
+<img src="image-24.png" alt="Prisma regulável" width="600">
+<br>
 *Prisma regulável, com pino de centragem e V regulável — permite ajuste de posição não disponível nos prismas fixos.*
 
 ## 4. Elementos de Fixação (Grampos e Prensores)
@@ -88,22 +97,26 @@ Enquanto os localizadores posicionam a peça, os elementos de fixação (ou gram
 
 A fixação direta ocorre por contato lateral direto entre o dispositivo e a peça, geralmente com auxílio de pinos de centragem que garantem o alinhamento correto antes do aperto.
 
-![Fig. 6.14 - Fixação direta](image-25.png)
+<img src="image-25.png" alt="Fig. 6.14 - Fixação direta" width="600">
+<br>
 *Fig. 6.14 — Fixação direta: (a) lateral; (b) com pinos de centragem.*
 
 ### 4.2 Estribos (Grampos)
 
 Os estribos são o elemento de fixação mais versátil e mais utilizado em dispositivos de fresa e furação. Funcionam com um parafuso central que, ao ser apertado, pressiona o estribo contra a peça, transmitindo a força de fixação. Existem variações padronizadas (estribos A, B e C) conforme a geometria de apoio necessária.
 
-![Configurações padronizadas de estribos](image-26.png)
+<img src="image-26.png" alt="Configurações padronizadas de estribos" width="600">
+<br>
 *Configurações padronizadas de estribos com parafuso, porca e apoio (normas UNI), usadas em fresamento e furação.*
 
 Duas variações adicionais merecem destaque: o estribo com bloqueio a excêntrico, que permite fixação e liberação rápida sem necessidade de desenroscar totalmente o parafuso (útil em operações de troca frequente de peça); e o estribo em cotovelo (simples ou duplo), utilizado quando o ponto de fixação precisa alcançar uma região da peça em nível diferente do apoio.
 
-![Fig. 6.18 - Estribo com bloqueio a excêntrico](image-27.png)
+<img src="image-27.png" alt="Fig. 6.18 - Estribo com bloqueio a excêntrico" width="600">
+<br>
 *Fig. 6.18 — Estribo de extremidade convexa com bloqueio a excêntrico. A mola sustenta o estribo quando a peça é desmontada, agilizando a troca.*
 
-![Fig. 6.20 e 6.21 - Estribo em cotovelo](image-28.png)
+<img src="image-28.png" alt="Fig. 6.20 e 6.21 - Estribo em cotovelo" width="600">
+<br>
 *Fig. 6.20 e 6.21 — Estribo em cotovelo (simples e duplo), usado para fixar peças com superfícies em níveis distintos.*
 
 ## 5. Elementos de Fixação Específicos para Torneamento
@@ -111,7 +124,8 @@ Duas variações adicionais merecem destaque: o estribo com bloqueio a excêntri
 No torneamento, a peça gira presa ao eixo-árvore da máquina, enquanto a ferramenta permanece essencialmente estacionária (executando apenas avanços lineares). Por isso, o requisito central da fixação no torno é a **centragem precisa** da peça em torno do eixo de rotação — qualquer excentricidade gera vibração, erro de forma e desgaste prematuro da ferramenta. O material de referência apresenta três soluções clássicas:
 
 
-![Soluções de fixação para torneamento](image-29.png)
+<img src="image-29.png" alt="Soluções de fixação para torneamento" width="600">
+<br>
 *Soluções de fixação para torneamento: autocentrante a três vínculos, pinça expansível e plataforma a quatro vínculos independentes.*
 
 * **Autocentrante a três vínculos (placa de 3 castanhas):** as três castanhas se movem simultaneamente e de forma sincronizada em direção ao centro, centrando automaticamente peças cilíndricas ou hexagonais. É a solução mais comum e rápida para peças de revolução regulares. Pode usar calços temperados para aumentar a durabilidade em produção seriada.
@@ -128,7 +142,8 @@ No fresamento, a peça permanece fixa (presa à mesa da máquina) enquanto a fer
 
 O material distingue a fixação de peças brutas (superfícies irregulares, ainda sem usinagem) da fixação de peças já trabalhadas (superfícies de referência já usinadas, permitindo maior precisão de apoio):
 
-![Esquemas de fixação para aplainamento/fresamento](image-30.png)
+<img src="image-30.png" alt="Esquemas de fixação para aplainamento/fresamento" width="600">
+<br>
 *Esquemas de fixação para aplainamento/fresamento: peças brutas (superior) e peças já trabalhadas (inferior). As setas indicam a direção e o sentido das forças de fixação; as superfícies em traço grosso são as que serão usinadas.*
 
 Nota-se que, para peças brutas, os elementos de fixação costumam ter área de contato menor e ajustável (para compensar irregularidades de fundição ou forjamento), enquanto para peças trabalhadas os apoios podem ser mais rígidos e distribuídos, já que a superfície de referência é confiável.
@@ -137,7 +152,8 @@ Nota-se que, para peças brutas, os elementos de fixação costumam ter área de
 
 Embora a furação seja um processo à parte, ela compartilha a lógica de fixação da fresa (peça estacionária, ferramenta rotativa) e frequentemente utiliza os mesmos dispositivos (buchas de furação, instrumentos especiais para guiar a broca com precisão):
 
-![Dispositivos de fixação para furação](image-31.png)
+<img src="image-31.png" alt="Dispositivos de fixação para furação" width="600">
+<br>
 *Dispositivos de fixação e guia para operações de furação, incluindo buchas guia e instrumentos especiais.*
 
 ## 7. Quadro Comparativo: Torno × Fresa
@@ -165,14 +181,16 @@ O plano de fixação deve definir, no mínimo:
 
 A partir dessas definições, gera-se o **leiaute de fixação**, que materializa fisicamente os conceitos, especificando: posição dos localizadores, posição dos grampos, posição dos suportes, e os respectivos tipos de cada um desses elementos.
 
-![Exemplo aplicado da regra dos 6 pontos em peça prismática](image-32.png)
+<img src="image-32.png" alt="Exemplo aplicado da regra dos 6 pontos em peça prismática" width="600">
+<br>
 *Exemplo de aplicação prática da regra dos 6 pontos em uma peça prismática: os pontos 1, 2 e 3 definem o plano principal; 4 e 5 definem a orientação; e o ponto 6 restringe a última translação — com os respectivos elementos de fixação (grampos) posicionados de forma coerente com as forças de corte esperadas.*
 
-![Sistema de fixação real](image-33.png)
+<img src="image-33.png" alt="Sistema de fixação real" width="600">
+<br>
 *Sistema de fixação real, montado sobre a mesa de uma máquina, combinando múltiplos localizadores e grampos.*
 
-![Modelo CAD de sistema de fixação](image-34.png)
-
+<img src="image-34.png" alt="Modelo CAD de sistema de fixação" width="600">
+<br>
 *Modelo CAD de um sistema de fixação, evidenciando a integração entre localizadores, grampos e a peça a ser usinada.*
 
 ## 9. Conclusão
