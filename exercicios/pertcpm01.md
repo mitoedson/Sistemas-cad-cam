@@ -34,6 +34,8 @@ $$
 
 <h2>Parte 1 — Método Francês (AON)</h2>
 
+<a href="metodoaon_1.md">Rede AON Ex. 01 - Passo-a-passo</a>
+
 <h3>1.1 Rede AON</h3>
 
 ![alt text](image-4.png)
@@ -67,7 +69,7 @@ Folga Total = LS − ES &nbsp;|&nbsp; Folga Livre = (menor ES das sucessoras, ou
 
 <h2>Parte 2 — Método Americano (AOA)</h2>
 
-<a href="metodoaon_1.md">Rede AON Ex. 01 - Passo-a-passo</a>
+<a href="metodoaoa_1.md">Rede AOA Ex. 01 - Passo-a-passo</a>
 <h3>2.1 Rede AOA (numeração atual)</h3>
 
 ![alt text](image-5.png)
