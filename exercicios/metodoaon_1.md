@@ -1,6 +1,6 @@
 # Rede AON - Exercício 01
 
-Para uma rede AON, as atividades são conectadas de acordo com a tabela abaixo, seguindo as precedências. As atividades A e B não tem atividades precedentes.
+Para uma rede AON, as atividades são conectadas uma com as outras de acordo com as precedências. As atividades A e B não tem atividades precedentes, portanto, são as atividades que iniciam a rede. 
 
 ![alt text](image-36.png)
 
@@ -36,7 +36,7 @@ A Folga Total (FT) independe também da direção dos cálculos, já que necessi
 Note que temos uma sequência de atividades com FT=0, indicando o Caminho crítico da rede.
 
 ![alt text](image-46.png)
-A Folga Livre (FL) depende apenas dova valores da ES sucessora e da EF antecessora. E a direção dos cálculos é da direita para a esquerda.
+A Folga Livre (FL) depende apenas dos valores da ES sucessora e da EF antecessora. E a direção dos cálculos é da direita para a esquerda.
 
 ![alt text](image-44.png)
 
