@@ -45,10 +45,8 @@ o projeto. (Prazo determinístico, sabe o tempo)
 * Caminho Crítico: O caminho mais longo do projeto com a menor quantidade de folga,
 determinando o menor tempo para concluir o projeto.
 * Folga: A quantidade de tempo que uma atividade pode ser atrasada sem atrasar o projeto.
-* Início Mais Cedo (ES) e Término Mais Cedo (EF): Os horários mais cedo que uma atividade
-pode começar e terminar.
-* Início Mais Tarde (LS) e Término Mais Tarde (LF): Os horários mais tarde que uma atividade
-pode começar e terminar sem atrasar o projeto.
+* Início Mais Cedo (Early Start - ES) e Término Mais Cedo (Early Finish - EF): Os horários mais cedo que uma atividade pode começar e terminar.
+* Início Mais Tarde (LS) e Término Mais Tarde (LF): Os horários mais tarde que uma atividade pode começar e terminar sem atrasar o projeto.
 
 </ul>
 * Aplicação: Adequado para projetos com atividades e durações bem definidas, como projetos de
