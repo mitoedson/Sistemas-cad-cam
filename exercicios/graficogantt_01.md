@@ -24,7 +24,7 @@
 
 A folga total se mantém constante ao longo de um trecho sem ramificação — mas, no momento em que uma atividade converge com outro caminho (ou é predecessora de mais de um caminho diferente), a folga dali para trás (ou para os pontos de convergência) passa a refletir o caminho mais apertado entre os que se cruzam ali, não necessariamente o caminho que você estava seguindo.
 
-
+Em qualquer caminho não-crítico, a folga total do caminho fica "escondida" (zerada) em todas as atividades intermediárias, e só se revela como folga livre na última atividade daquele caminho — no ponto onde ele termina, seja porque não há mais nenhuma atividade depois, seja porque ele converge com outro caminho mais apertado.
 
 <h2>3. Folga Livre vs. Folga Total no gráfico</h2>
 <p>Repare em um padrão que fica bem visível agora:</p>
