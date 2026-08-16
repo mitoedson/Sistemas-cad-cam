@@ -38,14 +38,41 @@ Analisando todos os caminhos, realizamos a soma de cada um, isoladamente. Aquele
 Note que se houver muitos caminhos, teremos muito mais trabalho identificar qual o caminho crítico devido a quantidade de possibilidades para soma.
 
 ![alt text](image-23.png)
+
+Destacamos em vermelho o caminho crítico, correspondente ao caminho de maior duração.
+
 ![alt text](image-24.png)
+
+Calculando o Data cedo (TE), obedecemos ao sentido da esquerda para a direita. A contagem para cada evento é feita pela soma do TE precedente e a duração da atividade ao qual ela encerra.
+
+Observe que há caminhos que convergem para um evento, e o critério de prioridade é pelo valor de TE maior.
+
 ![alt text](image-25.png)
+
+O Data tarde (TL) faz o sentido inverso, realiza a subtração, e o critério de prioridade é pelo menor valor de TL.
+
 ![alt text](image-26.png)
+
+Temos os dados de todos os eventos preenchidos, e os caminhos identificados.
+
 ![alt text](image-27.png)
+
+Para a Folga Total e Folga Livre, seguimos a expressão mostrada na imagem. 
+
 ![alt text](image-28.png)
+
+Temos então as folgas indicadas para cada atividade.
+
 ![alt text](image-29.png)
+
+Outros tipos de folgas, em especial para a Folga do Evento, que delineia o caminho crítico.
+
 ![alt text](image-19.png)
+
+Concluíndo, os valores de ES, EF, LF e LS. Para a Rede AON e a Rede AOA, os valores devem ser iguais.
+
 ![alt text](image-31.png)
 
+![alt text](image-45.png)
 
 
