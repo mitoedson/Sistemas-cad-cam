@@ -34,7 +34,9 @@ O cálculo para Início mais tarde (LS) é obtido pela diferença do valor de LF
 
 A Folga Total (FT) independe também da direção dos cálculos, já que necessitamos dos valores de LF e EF, em cada atividade.
 
-Note que temos uma sequência de atividades com FT=0, indicando o Caminho crítico da rede.
+Note que temos uma sequência de atividades com FT=0, indicando o Caminho crítico da rede. 
+
+Podemos também notar os caminhos isolados, e que possuem o mesmo FT. Quando elas bifurcam, vale pelo critério da maior duração.
 
 ![alt text](image-46.png)
 A Folga Livre (FL) depende apenas dos valores da ES sucessora e da EF antecessora. E a direção dos cálculos é da direita para a esquerda.

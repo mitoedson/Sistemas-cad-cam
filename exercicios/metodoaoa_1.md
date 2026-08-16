@@ -1,6 +1,6 @@
 # Rede AOA - Exercício 01
 
-A rede AOA conecta atividades através de eventos, indentificados numericamente, e que marcam o início e/ou fim de cada atividade. 
+A rede AOA conecta atividades através de eventos, identificados numericamente, e que marcam o início e/ou fim de cada atividade. 
 
 Cada atividade é simbolizada por uma seta, e identificada por uma letra, e um valor numérico, representando a sua duração. Note nas imagens que, a cada atividade iniciada, parte de um evento identificado, e aponta para outro evento (que ainda não foi identificado ainda).
 

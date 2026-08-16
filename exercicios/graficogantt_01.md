@@ -20,5 +20,8 @@
   <li><b>Atividades "empilhadas" na vertical</b> (como D, E, F, G, todas começando no mês 2): representam atividades que podem ocorrer em paralelo, já que todas dependem só de B ter terminado.</li>
 </ul>
 
+A folga total se mantém constante ao longo de um trecho sem ramificação — mas, no momento em que uma atividade converge com outro caminho (ou é predecessora de mais de um caminho diferente), a folga dali para trás (ou para os pontos de convergência) passa a refletir o caminho mais apertado entre os que se cruzam ali, não necessariamente o caminho que você estava seguindo.
+
+
 <h2>3. Por que o Gantt é útil aqui</h2>
 <p>Diferente da rede AON/AOA (que mostra a <b>lógica de precedência</b> entre atividades), o Gantt mostra a <b>linha do tempo real</b> do projeto — é o formato que normalmente se usa para acompanhar o andamento físico do cronograma, mês a mês, e para visualizar rapidamente quais atividades estão acontecendo em paralelo em um determinado momento. A rede (AON/AOA) responde "o que precisa terminar antes de quê"; o Gantt responde "o que está acontecendo quando".</p>
