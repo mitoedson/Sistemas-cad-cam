@@ -58,7 +58,9 @@ tempos conhecidos (ou produtividade estimada).
 ## Rede PERT/CPM
 A apresentação em forma de rede, permite identificar interdependências e a sequência lógica das atividades. Atividades realizadas, em caso de atraso, repercutem diretamente no prazo final do projeto.
 
-<a href="../exercicios/pertcpm01.md">Exercício 01</a>
+<a href="../exercicios/pertcpm01.md">Rede CPM - Exercício 01</a>
+
+<a href="../exercicios/graficogantt_01.md">Gráfico de Gantt - Exercício 01</a>
 
 ## Bibliografia
 HIRSCHFELD, H. Planejamento com PERT-CPM e análise de desempenho: método
