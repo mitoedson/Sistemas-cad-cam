@@ -41,6 +41,8 @@ Podemos também notar os caminhos isolados, e que possuem o mesmo FT. Quando ela
 ![alt text](image-46.png)
 A Folga Livre (FL) depende apenas dos valores da ES sucessora e da EF antecessora. E a direção dos cálculos é da direita para a esquerda.
 
+Note que quando FL possui valor diferente de zero, elas estão concentradas nas últimas atividades do caminho, exceto no caminho crítico.
+
 ![alt text](image-44.png)
 
 Finalmente temos a rede AON completa, com todos os parâmetros calculados. Em vermelho o caminho crítico é destacado, enquanto que os demais são caminhos não críticos.
