@@ -3,7 +3,7 @@
 
 ## 1. Introdução
 
-Elementos de fixação (*jigs & fixtures*) são dispositivos usados em processos de usinagem para posicionar e imobilizar a peça durante a fabricação, garantindo que ela permaneça na posição correta em relação à ferramenta de corte durante todo o processo. Este documento organiza os conceitos apresentados no material de referência da disciplina, com foco na aplicação prática desses elementos em dois processos centrais de usinagem: o **torneamento (torno)** e o **fresamento (fresa)**, que possuem exigências distintas de posicionamento e fixação devido à diferença fundamental entre os dois processos: no torno a peça gira, na fresa a ferramenta gira.
+Elementos de fixação (*jigs & fixtures*) são dispositivos usados em processos de usinagem para posicionar e imobilizar a peça durante a fabricação, garantindo que ela permaneça na posição correta em relação à ferramenta de corte durante todo o processo. 
 
 Os dispositivos de fixação devem cumprir duas funções essenciais:
 
