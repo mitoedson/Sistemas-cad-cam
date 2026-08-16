@@ -4,11 +4,12 @@ Para uma rede AON, as atividades são conectadas uma com as outras de acordo com
 
 ![alt text](image-36.png)
 
-Os Términos mais cedo (EF) são calculados através da soma de duas atividades: a antecedora e a sucessora. As atividades A e B não possuem atividades precedentes, então EF corresponde a sua duração. 
+Os Términos mais cedo (EF) são calculados através da soma da duração de duas atividades: a antecedora e a sucessora. 
+A direção das somas segue da esquerda para direita.
+ As atividades A e B não possuem atividades precedentes, então EF corresponde a sua duração. 
 
 As atividades que possuem mais de uma precedência, terão mais de um valor de EF, e a escolha é pelo maior valor obtido. 
 
-A direção das somas segue da esquerda para direita.
 
 ![alt text](image-37.png)
 
