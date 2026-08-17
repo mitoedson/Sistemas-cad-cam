@@ -20,9 +20,11 @@ Antes de detalhar os elementos específicos de torno e fresa, é necessário ent
 
 Qualquer corpo rígido no espaço possui seis graus de liberdade: três translações (ao longo dos eixos X, Y e Z) e três rotações (em torno desses mesmos eixos). Para imobilizar completamente uma peça, é necessário restringir todos esses seis graus de liberdade, o que é feito através de seis pontos de contato distribuídos estrategicamente:
 
-* **3 pontos** de posicionamento, localizados em um plano, restringem 2 rotações e 1 translação;
-* **2 pontos** de posicionamento, localizados em um plano perpendicular ao anterior, restringem 1 rotação e 1 translação;
-* **1 ponto** de posicionamento, localizado em um terceiro plano perpendicular aos outros dois, restringe a última translação.
+* **3 pontos** de posicionamento, localizados em um plano (xy), restringem 2 rotações (eixo x e y) e 1 translação (eixo z);
+
+* **2 pontos** de posicionamento, localizados em um plano perpendicular ao anterior, restringem 1 rotação (eixo z) e 1 translação (eixo x ou y);
+
+* **1 ponto** de posicionamento, localizado em um terceiro plano perpendicular aos outros dois, restringe a última translação (a do outro eixo).
 
 
 <img src="image-14.png" alt="Sistema de referência para o posicionamento de peças no espaço" width="600">
@@ -31,7 +33,7 @@ Qualquer corpo rígido no espaço possui seis graus de liberdade: três transla�
 
 <img src="image-15.png" alt="Regra dos 6 pontos aplicada a peças prismática e cilíndrica" width="600">
 <br>
-*Aplicação da regra dos 6 pontos em uma peça prismática (esquerda) e em uma peça cilíndrica (direita). No caso cilíndrico do exemplo, restam apenas 5 pontos de contato, deixando livre a rotação em torno do eixo x — grau de liberdade que normalmente é o próprio movimento de corte do torno.*
+*Aplicação da regra dos 6 pontos em uma peça prismática (esquerda) e em uma peça cilíndrica (direita). No caso cilíndrico do exemplo, restam apenas 5 pontos de contato, deixando livre a rotação em torno do eixo x (naõ exatamente perpendicular ao eixo, e objetiva travar o deslizamento ao longo do eixo)— grau de liberdade que normalmente é o próprio movimento de corte do torno.*
 
 ### 2.2 Esquemas Práticos de Posicionamento
 
