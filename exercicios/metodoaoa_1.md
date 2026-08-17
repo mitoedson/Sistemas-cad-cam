@@ -33,23 +33,27 @@ Ao concluir a última atividade identificada, temos então a rede AON montada co
 
 ![alt text](image-22.png)
 
-Analisando todos os caminhos, realizamos a soma de cada um, isoladamente. Aquele caminho que possuir a maior soma das atividades associadas a ela, será o caminho crítico. 
+Analisando todos os caminhos, realizamos a soma de cada um, isoladamente. Aquele caminho que possuir a maior soma das atividades associadas a ele, será o caminho crítico. 
 
-Note que se houver muitos caminhos, teremos muito mais trabalho identificar qual o caminho crítico devido a quantidade de possibilidades para soma.
+Note que se a rede possuir muitos caminhos, aumenta-se a quantidade de somas, tornando este processo muito trabalhoso.  
+
+Destacamos em vermelho o caminho crítico, correspondente ao caminho de maior duração. Os caminhos não críticos estão identificados na cor cinza.
 
 ![alt text](image-23.png)
-
-Destacamos em vermelho o caminho crítico, correspondente ao caminho de maior duração.
-
 ![alt text](image-24.png)
 
-Calculando o Data cedo (TE), obedecemos ao sentido da esquerda para a direita. A contagem para cada evento é feita pela soma do TE precedente e a duração da atividade ao qual ela encerra.
+### Calculando o Data Cedo (TE)
 
-Observe que há caminhos que convergem para um evento, e o critério de prioridade é pelo valor de TE maior.
+O cálculo do TE sempre será do sentido da esquerda para a direita, até o evento 16.
+
+O evento 1 sempre inicia com TE = 0. O TE dos eventos 2 e 3 utilizarão este valor, somando com a duração das atividades correspondentes aos seus eventos. 
+
+Para cada atividade, o TE do evento anterior será somado com a duração da atividade, resultano no TE do evento seguinte. Observe que há caminhos que convergem para um mesmo evento, e o critério de prioridade é pelo valor de TE maior.
+
 
 ![alt text](image-25.png)
 
-O Data tarde (TL) faz o sentido inverso, realiza a subtração, e o critério de prioridade é pelo menor valor de TL.
+O cálculo para Data tarde (TL) faz o sentido inverso, realiza a subtração, e o critério de prioridade é pelo menor valor de TL.
 
 ![alt text](image-26.png)
 

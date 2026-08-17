@@ -16,6 +16,30 @@ Nas fresadoras e centros de usinagem, o sistema de coordenadas define a trajetó
 *   **Eixo X:** Refere-se ao movimento **longitudinal** da mesa.
 *   **Eixo Y:** Refere-se ao movimento **transversal** da mesa.
 
+#### A convenção padrão
+* Eixo X → movimento longitudinal (o de maior curso na mesa, geralmente da esquerda para a direita, olhando de frente para a máquina)
+* Eixo Y → movimento transversal (perpendicular a X, geralmente de trás para frente/frente para trás)
+* Eixo Z → movimento vertical, paralelo ao eixo-árvore (como já confirmamos)
+
+#### Uma forma prática de fixar isso
+
+Numa fresa vertical convencional, imagine-se de frente para a máquina, olhando para a mesa:
+
+* Mover a mesa da esquerda para a direita = eixo X
+* Mover a mesa para dentro/fora, na sua direção = eixo Y
+* Subir/descer o cabeçote (ou a mesa, dependendo da máquina) = eixo Z
+
+#### Conectando com os localizadores
+
+| Eixo da máquina | Movimento | Grau de liberdade que os localizadores travam |
+|---|---|---|
+| Z | Vertical (avanço/recuo da ferramenta) | Translação em Z → travada pelos 3 pontos (plano XY) |
+| X | Longitudinal | Translação em X → travada pelo 1 ponto final |
+| Y | Transversal | Translação em Y → travada pelos 2 pontos |
+
+
+
+
 ### **3. Principais Operações de Usinagem**
 O processo é dividido em operações específicas conforme o formato desejado:
 *   **Faceamento:** Usado para produzir superfícies planas perpendiculares ao eixo da fresa, geralmente para nivelar a peça. Utiliza-se um **cabeçote fresador**.
