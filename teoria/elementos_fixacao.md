@@ -53,7 +53,9 @@ A tabela a seguir (presente no material de referência) resume como a disposiç�
 
 ## 3. Elementos de Posicionamento (Localizadores)
 
-Os localizadores são os componentes físicos que materializam os pontos de contato descritos na regra dos 6 pontos. São, em geral, comuns tanto ao torno quanto à fresa, variando principalmente em formato conforme a geometria da peça (prismática ou cilíndrica).
+Os localizadores são os componentes físicos que materializam os pontos de contato descritos na regra dos 6 pontos. Ou seja, eles eliminam os graus de liberdade, impedindo que a peça se desloque.
+
+São, em geral, comuns tanto ao torno quanto à fresa, variando principalmente em formato conforme a geometria da peça (prismática ou cilíndrica).
 
 <img src="image-19.png" alt="Exemplos práticos de posicionamento de peças cilíndricas roscadas" width="600">
 <br>
@@ -61,11 +63,16 @@ Os localizadores são os componentes físicos que materializam os pontos de cont
 
 ### 3.1 Apoios Planos
 
-Os apoios planos fixos são a solução mais simples para materializar pontos de contato em uma superfície plana. São frequentemente padronizados, com furos para fixação por parafusos.
+Os apoios planos fixos são a solução mais simples para materializar pontos de contato em uma superfície plana (a do primeiro caso, de três pontos de contato em um plano xy). São frequentemente padronizados, com furos para fixação por parafusos, na base do dispositivo, garantindo que os apoios estejam fixos.
 
 <img src="image-20.png" alt="Apoio plano fixo padronizado" width="600">
 <br>
 *Apoio plano fixo padronizado, com dimensões e furos para parafusos M8.*
+
+Obs.: a peça será pressionada contra o apoio por meio de estribos/grampos, não por meios dos parafusos M8.
+
+Vale a pena citar que haverá três grupos de localizadores (não necessariamente três peças físicas de apoio plano), somando 6 pontos de contato no total, para restringir os 6 graus de liberdade. Podemos ter até 6 pontos de apoio pequenos, separados, para cada ponto de contato.
+
 
 ### 3.2 Apoios de Dois Pontos
 
