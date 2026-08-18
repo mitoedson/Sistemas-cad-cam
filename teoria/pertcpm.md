@@ -124,6 +124,13 @@ Atividades A, B, C precedem D, E, F (sem precedência entre A, B, C):
 ### 6.1 Atividade fantasma (fictícia)
 Criada quando existem atividades paralelas entre os mesmos dois eventos, o que geraria ambiguidade na identificação (ex.: duas atividades "2-3"). Resolve-se inserindo um evento e uma atividade fictícios, representados por uma **seta tracejada**, que não consome tempo nem recursos.
 <img src="image-39.png" width=600><br>
+
+A regra de priorização é clara: quem tem outro compromisso vira dummy. Quando há duas atividades paralelas, e nenhuma tem outro compromisso, a escolha de qual das duas vira dummy é arbitrária — qualquer uma das duas serve, contanto que:
+
+* Só uma delas continue como seta "real" (com nome e duração) entre os dois eventos originais;
+* A outra seja redesenhada passando por um evento novo, intermediário, criado só para separar as duas — ligada por uma dummy de duração zero até (ou a partir) desse novo evento.
+
+
 <img src="image-40.png" width=600><br>
 
 ### 6.2 Atividade dependente
@@ -154,9 +161,73 @@ A atividade “3-4” poderia ser uma restrição de data, exemplo: “Não inic
 
 ## 7. Tipos de dependência
 
-- **Mandatória:** inerente à natureza física do trabalho.
-- **Discricionária:** baseada no julgamento de quem planeja, ou em boas práticas/metodologias da área (ex.: inspecionar ferramentas antes de usar).
-- **Externa:** relaciona atividades do projeto com atividades externas a ele (ex.: testes de integração dependendo da disponibilidade de um ambiente de outro projeto). Costuma se basear em dados históricos de projetos semelhantes.
+### Tipos lógicos de dependência (relação entre início/fim)
+
+Essa é a classificação mais usada na prática:
+
+| Tipo | Sigla | O que significa | Exemplo |
+|---|---|---|---|
+| **Término-Início** | FS (Finish-to-Start) | A sucessora só pode **começar** depois que a predecessora **terminar** | O que usamos o tempo todo: D só começa depois que B termina |
+| **Início-Início** | SS (Start-to-Start) | A sucessora só pode **começar** depois que a predecessora **começar** (não precisa esperar terminar) | Pintar uma parede pode começar assim que começar a preparar a superfície, sem esperar toda a preparação acabar |
+| **Término-Término** | FF (Finish-to-Finish) | A sucessora só pode **terminar** depois que a predecessora **terminar** | Testar um sistema só pode terminar depois que a documentação também terminar |
+| **Início-Término** | SF (Start-to-Finish) | A sucessora só pode **terminar** depois que a predecessora **começar** | Rara na prática — ex: o turno da noite só "termina" quando o turno do dia "começa" |
+
+A rede que construímos (AON e AOA) assume implicitamente que toda dependência é **FS** — é por isso que a lógica ficou sempre "ES = maior EF das predecessoras", sem nenhuma defasagem ou sobreposição. Redes AOA tradicionais, inclusive, **só conseguem representar FS nativamente** — é uma das limitações do método que não veio à tona na nossa conversa porque seu projeto não precisou de outro tipo.
+
+
+### Tipos de dependência quanto à natureza (por que ela existe)
+- **Mandatória (Obrigatória, ou hard logic):** inerente à natureza física do trabalho. Ex.: não se pinta sem que a parede fique seca.
+- **Discricionária (Arbitrária, ou soft logic):** baseada no julgamento de quem planeja, ou em boas práticas/metodologias da área, não de imposições físicas (ex.: inspecionar ferramentas antes de usar).
+- **Externa:** relaciona atividades do projeto com atividades externas a ele (ex.: testes de integração dependendo da disponibilidade de um ambiente de outro projeto). Ou seja, depende de algo fora do controle do projeto (ex: aprovação de um orgão regulador, entrega de um fornecedor etc). Costuma se basear em dados históricos de projetos semelhantes.
+- **Interna:** Depende de outra atividade do próprio projeto (é o caso mais comum, e o único presente no projeto).
+
+
+Boa pergunta para fechar o quadro — isso reúne duas coisas: **como as relações de dependência são definidas** e **quais regras de construção** garantem que a rede faça sentido matematicamente. Vamos por partes.
+
+### Como as atividades se relacionam
+
+A relação nasce sempre da **tabela de precedências** — a mesma lógica desde o início da nossa conversa: cada atividade lista **quem precisa terminar antes dela começar** (no seu caso, sempre dependências Término-Início).
+
+Essa relação se propaga em cadeia por toda a rede, criando três papéis possíveis para cada atividade:
+
+| Papel | O que significa | Exemplo do seu projeto |
+|---|---|---|
+| **Predecessora** | Vem antes, "libera" outra atividade | B é predecessora de D |
+| **Sucessora** | Vem depois, "depende" de outra | D é sucessora de B |
+| **Paralela (concorrente)** | Não depende uma da outra, podem rodar ao mesmo tempo | D, E, F, G — todas dependem só de B, mas nenhuma depende das outras |
+
+### As regras de construção da rede
+
+Aqui estão as regras que **precisam** ser respeitadas para a rede ser matematicamente válida — algumas você já esbarrou nelas sem perceber, ao longo da nossa conversa:
+
+#### Regra 1 — Não pode haver ciclos (loops)
+
+Uma atividade nunca pode, direta ou indiretamente, depender de si mesma. Se A depende de B, B não pode depender de A (nem através de uma cadeia mais longa, tipo B→C→A). Sem essa regra, seria impossível calcular ES/EF — o cálculo ficaria "girando em círculo", sem nunca encontrar um ponto de partida.
+
+#### Regra 2 — Início e fim únicos
+
+A rede precisa ter **um único ponto de partida** (nenhuma atividade "solta" sem chegar de algum início) e, idealmente, **converge para um único ponto de chegada**. Foi exatamente por isso que, no AOA, precisamos daquelas dummies finais (12→16, 13→16, 14→16, 15→16) — para unificar L, M, N, O em um único evento de término, em vez de deixar quatro finais soltos.
+
+#### Regra 3 — Toda atividade (exceto as iniciais) precisa de ao menos uma predecessora
+
+E toda atividade (exceto as finais) precisa alimentar ao menos uma sucessora. Não pode existir uma atividade "isolada", sem ligação com o resto da rede — senão ela não teria como ser posicionada no tempo em relação às outras.
+
+#### Regra 4 (específica do AOA) — Numeração crescente na direção das setas
+
+Todo evento de chegada precisa ter um número **maior** que o evento de origem da mesma seta. Foi por isso que, quando você pediu para renumerar a rede, eu me certifiquei de que a nova numeração ainda respeitava essa ordem — senão o diagrama ficaria contraditório (uma seta "andando para trás" no tempo).
+
+#### Regra 5 (específica do AOA) — Duas atividades não podem compartilhar o mesmo par de eventos
+
+Se duas atividades diferentes tivessem exatamente o mesmo evento de início e o mesmo evento de fim, ficaria impossível diferenciá-las no diagrama (ambas seriam "a seta de 3 para 4", por exemplo). Quando isso aconteceria naturalmente, insere-se uma dummy para separar os caminhos — essa é, inclusive, mais uma das razões (além da lógica de precedência) pela qual dummies existem no método.
+
+#### Regra 6 — Evitar dependências redundantes
+
+Se A→B→C já implica que A precede C indiretamente, **não se desenha uma seta direta extra de A para C** — isso seria uma informação redundante que só polui o diagrama sem mudar nenhum cálculo. A rede deve representar cada relação de precedência **uma única vez**, da forma mais direta possível.
+
+#### Resumindo a lógica geral
+
+> A rede é construída conectando cada atividade às suas predecessoras diretas (nunca indiretas/redundantes), sem formar ciclos, convergindo para um único início e um único fim — e, no caso do AOA, respeitando ainda a numeração crescente dos eventos e evitando pares de eventos duplicados entre atividades diferentes.
+
 
 > **Atenção a um erro comum de representação:** se A e B podem ocorrer em paralelo, C depende de A e B, e D depende só de B — **não** se deve fazer A e B convergirem no mesmo nó do qual saem C e D, pois isso impõe implicitamente que D também dependa de A. A representação correta usa uma atividade fantasma para isolar a dependência de D em relação apenas a B.
 <img src="image-44.png" width=600><br>
