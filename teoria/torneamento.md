@@ -1,29 +1,4 @@
-<h2>Processos de usinagem e torneamento</h2>
-
-
-Ver também https://www.geocities.ws/cmovbr73/
-https://mk12more.wordpress.com/
-https://www.engineeringchoice.org/lathe-machine-operations-and-cutting-tools/#google_vignette
-
-A usinagem e o torneamento são processos fundamentais de fabricação voltados para a transformação de um corpo bruto em uma peça acabada através da remoção de material (cavaco)
-
-### 1. Visão Geral da Usinagem
-A usinagem é o método de produção que permite obter formas, dimensões e acabamentos superficiais específicos, garantindo que a peça esteja de acordo com o desenho técnico
-<p>
-<b>Finalidade Técnica:</b> É essencial para garantir a funcionalidade e intercambiabilidade das peças, permitindo que componentes sejam substituídos sem ajustes manuais.
-<p>
-<b>Classificação por Formato:</b><br> 
-Os processos são selecionados com base na análise da capacidade do processo de executar o formato da peça com a exatidão e acabamento superficial requeridos:
-<ul>
-<li>Axisimétricos: Uma peça é axissimétrica quando a sua forma é simétrica em relação a um eixo de rotação — ou seja, se você girasse a peça 360° em torno desse eixo, o contorno da secção transversal seria sempre o mesmo, a qualquer ângulo. Na prática, isso descreve formas como: cilindros, cones, esferas, e qualquer peça de revolução (eixos, buchas, polias, pinos). Envolvem processos de torneamento, retificação, brunimento, polimento e lapidação.
-<li>Prismáticos: Uma peça é prismática quando a sua geometria é definida por faces planas, contornos, cantos e superfícies não circulares — ou seja, não tem simetria de revolução em torno de nenhum eixo. Se você tentasse girar a peça 360°, o contorno mudaria constantemente de forma, ao contrário do que acontece com um cilindro ou cone. Exemplos típicos: blocos e placas, peças com furos, rasgos, cavidades ou ressaltos em várias faces, moldes e matrizes, suportes, flanges com contornos irregulares, carcaças. Envolvem processos de fresamento, retificação, brunimento, polimento e lapidação.
-<li>Recursos Adicionais: Furação, alargamento, mandrilamento e roscamento
-</ul>
-<p>
-<img width="483" height="571" alt="image" src="https://github.com/user-attachments/assets/d749e3ba-188f-43be-907f-43b65666f356" />
-
-
-### 2. O Processo de Torneamento
+# O Processo de Torneamento
 O torneamento é a operação de usinagem destinada à fabricação de peças axisimétricas (cilíndricas ou cônicas). Ele pode ser realizado em tornos convencionais ou em tornos CNC (Comando Numérico Computadorizado), onde o controle dos movimentos é feito por um computador dedicado
 <p>
 <b>Principais Operações de Torneamento:</b>
@@ -78,7 +53,7 @@ Processos que complementam torneamento ou fresamento, gerando furos e roscas, ap
 | Recursos adicionais | Furos e roscas (em qualquer geometria) | Furação, alargamento, mandrilamento, roscamento |
 
 
-### 3. Posicionamento e Fixação
+### 4. Posicionamento e Fixação
 A precisão da usinagem depende diretamente de como a peça é presa à máquina. Os dispositivos de fixação, como placas e castanhas, devem manter a peça firmemente posicionada sob a ação das forças de corte, sem danificar a peça, e permitir o acesso das ferramentas.
 <p>
 Elementos de fixação mal projetados podem afetar:
@@ -92,7 +67,7 @@ Elementos de fixação mal projetados podem afetar:
     
 O sistema de referência no torno utiliza o plano XZ, onde X controla o diâmetro e Z o comprimento.
 
-### 4. Qualidade e Acabamento Superficial (Rugosidade)
+### 5. Qualidade e Acabamento Superficial (Rugosidade)
 A usinagem deixa marcas ou sulcos na superfície (erros microgeométricos), conhecidos como <a href="rugosidade.md">rugosidade</a>. Qualquer processo de usinagem envolve uma ferramenta física com uma geometria de corte (aresta, raio de ponta, ângulos) a remover material em movimento relativo com a peça. Esse contacto mecânico, por mais fino que seja o corte, deixa inevitavelmente:
 <ul>
 <li>Marcas ou sulcos correspondentes ao trajeto da ferramenta (por exemplo, a "espiral" deixada pelo avanço no torneamento).
@@ -109,12 +84,12 @@ Mesmo os processos de acabamento mais refinados (polimento, lapidação) reduzem
 <p>
 As fontes indicam que quanto melhor o acabamento exigido, maior será o custo de fabricação. Existe também uma relação direta entre o acabamento e a precisão: a tolerância dimensional em milímetros que se pode obter pode ser estimada dividindo-se o valor da rugosidade (em mícron) por 40. 
 
-### 5. Programação e Execução (CNC)
+### 6. Programação e Execução (CNC)
 No torneamento moderno, utiliza-se a programação via funções preparatórias (G) e auxiliares (M) para automatizar o caminho da ferramenta. O uso de ciclos automáticos (como o G71 para desbaste e G76 para roscas) simplifica a fabricação de geometrias complexas, enquanto a compensação do raio da ferramenta (G41/G42) garante a exatidão em superfícies inclinadas e raios.
 
 Aqui está um complemento à sua análise, organizado como continuação da numeração que você já tem:
 
-## 6. Materiais das Ferramentas de Corte
+## 7. Materiais das Ferramentas de Corte
 
 A seleção do material da ferramenta é determinante para a produtividade e o acabamento obtido, pois cada material oferece um equilíbrio diferente entre dureza, tenacidade e resistência térmica.
 
@@ -127,7 +102,7 @@ A seleção do material da ferramenta é determinante para a produtividade e o a
 
 Um estudo comparativo indica que ferramentas de CBN e cerâmica apresentam boa usinabilidade a 100 m/min com rugosidade inferior a 1 µm, enquanto ferramentas de metal duro (carbide) apresentaram melhores resultados em outras condições de teste, reforçando que a escolha do material depende das condições específicas do processo.
 
-## 7. Formação e Tipos de Cavaco
+## 8. Formação e Tipos de Cavaco
 
 O cavaco pode representar até metade do peso do material bruto original, e sua forma fornece informações valiosas sobre o estado da usinagem — desgaste da ferramenta, geração de calor e eficácia do fluido de corte.
 
@@ -140,11 +115,11 @@ Classificam-se geralmente quatro tipos básicos de cavaco:
 
 O uso de fluido de corte altera a forma do cavaco por reduzir o atrito, diminuir o tempo de contato entre cavaco e ferramenta (reduzindo a transferência de calor) e provocar deflexão mecânica do cavaco pela injeção do fluido.
 
-## 8. Fluidos de Corte
+## 9. Fluidos de Corte
 
 Os fluidos de corte (emulsões ou óleos de corte) cumprem duas funções principais: lubrificação (redução do atrito na interface ferramenta-cavaco) e refrigeração (dissipação do calor gerado no processo). A ausência de fluido de corte tende a aumentar o desgaste da ferramenta e o calor gerado no processo, o que é especialmente crítico em operações a seco de materiais de baixa usinabilidade.
 
-## 9. Parâmetros de Corte — Fórmulas e Relações
+## 10. Parâmetros de Corte — Fórmulas e Relações
 
 Complementando os conceitos que você já apresentou, os três parâmetros fundamentais no torneamento relacionam-se da seguinte forma:
 
@@ -156,7 +131,7 @@ Estudos indicam que o avanço influencia diretamente a rugosidade média e o rai
 
 Para o cálculo da **potência de corte** (Pc, em kW), utiliza-se a fórmula que relaciona profundidade de corte (ap), avanço (f), velocidade de corte (vc) e o coeficiente de força específica de corte (Kc, em MPa), dividido pelo rendimento da máquina — um exemplo prático apresentado pela Mitsubishi Materials mostra que, para um aço de baixo carbono usinado a 120 m/min, com profundidade de 3 mm e avanço de 0,2 mm/rot (Kc = 3.100 MPa, rendimento de 80%), a potência necessária é de aproximadamente 4,65 kW.
 
-## 10. Desgaste da Ferramenta
+## 11. Desgaste da Ferramenta
 
 O desgaste da ferramenta de corte ocorre por diversos mecanismos que atuam simultaneamente ou de forma predominante dependendo da combinação material-ferramenta e das condições de corte: abrasão mecânica, difusão química entre cavaco e ferramenta, adesão (formação de aresta postiça de corte) e oxidação em altas temperaturas. Um exemplo histórico é o das primeiras ferramentas de metal duro compostas apenas por carboneto de tungstênio e cobalto: ao usinar aço (diferente do ferro fundido, para o qual eram adequadas), formava-se cratera na face da ferramenta devido a fenômenos de difusão e dissolução entre o cavaco e a face de saída — problema que impulsionou o desenvolvimento de revestimentos e composições mais avançadas.
 
