@@ -32,7 +32,7 @@ O critério de prevalência de mais de uma atividade é pelo menor valor obtido.
 O cálculo para Início mais tarde (LS) é obtido pela diferença do valor de LF pela duração da atividade. Independe a direção dos cálculos, pois depende apenas dos dados isolados em cada atividade. 
 ![alt text](image-42.png)
 
-A Folga Total (FT) independe também da direção dos cálculos, já que necessitamos dos valores de LF e EF, em cada atividade.
+A Folga Total (FT) independe também da direção dos cálculos, já que necessitamos dos valores de LF e EF, em cada atividade. Podemos também fazer a diferença entre LS e ES.
 
 Note que temos uma sequência de atividades com FT=0, indicando o Caminho crítico da rede. 
 

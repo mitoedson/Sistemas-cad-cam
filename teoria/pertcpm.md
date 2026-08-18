@@ -254,6 +254,15 @@ Fl = (Dcf - Dci) - d
 onde `Dcf` = data cedo final, `Dci` = data cedo inicial, `d` = duração da atividade.
 
 
+
+### Confirmando as duas redes
+
+| | Rede AOA | Rede AON |
+|---|---|---|
+| **Folga Total** | TL(sucessor) − TE(antecessor) − duração | LF(atividade) − EF(atividade) *(equivale a LS − ES)* |
+| **Folga Livre** | TE(sucessor) − TE(antecessor) − duração | ES(sucessora) − EF(atividade) |
+
+
 ## 11. Caminho crítico
 
 Conjunto de atividades ou etapas de um projeto que **não podem sofrer atrasos** em sua execução sem prejudicar o prazo final do projeto. É o caminho mais longo da rede, com a menor (ou nula) folga.
