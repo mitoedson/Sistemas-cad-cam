@@ -75,6 +75,8 @@ Outros tipos de folgas, em especial para a Folga do Evento, que delineia o camin
 
 Concluíndo, os valores de ES, EF, LF e LS. Para a Rede AON e a Rede AOA, os valores devem ser iguais.
 
+TE sempre "gruda" no início da atividade (ES); TL sempre "gruda" no fim da atividade (LF). As versões com soma/subtração de duração (EF e LS) são sempre as que precisam de um passo a mais de conta.
+
 ![alt text](image-31.png)
 
 ![alt text](image-45.png)

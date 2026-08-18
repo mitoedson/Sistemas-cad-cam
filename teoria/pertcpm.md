@@ -186,14 +186,51 @@ Exemplos:
 Não existem atividades em sentido retrógrado. A rede não permite “looping” – flui sempre para o futuro.
 
 
-## 9. Datas cedo e tarde
+## 9. Data cedo e tarde
 
-- **Data cedo (DC):** primeira data em que se abre a possibilidade de iniciar as atividades que se originam de um determinado evento.
-- **Data tarde (DT):** última data em que devem estar concluídas todas as atividades que chegam a um determinado evento, sem atrasar o projeto.
+
+- **Data cedo ou Early Time (DC ou TE):** primeira data em que se abre a possibilidade de iniciar as atividades que se originam de um determinado evento.
+- **Data tarde ou Latest Time (DT ou TL):** última data em que devem estar concluídas todas as atividades que chegam a um determinado evento, sem atrasar o projeto.
+
+**TE** e **TL** são as siglas usadas nos **eventos** (círculos) da rede AOA — o equivalente ao ES/EF/LS/LF que usamos nas **atividades** da rede AON.
+
+### O que cada sigla significa
+
+| Sigla | Nome completo (inglês) | Nome em português | O que representa |
+|---|---|---|---|
+| **TE** | Earliest Time (ou Earliest Event Time) | **Tempo mais cedo** (ou Data cedo) | O instante mais cedo em que aquele evento pode acontecer |
+| **TL** | Latest Time (ou Latest Event Time) | **Tempo mais tarde** (ou Data tarde) | O instante mais tarde em que aquele evento pode acontecer, sem atrasar o projeto |
+
+O T vem de **Time** (tempo) — porque, diferente das atividades (que têm início *e* fim, exigindo quatro letras: ES, EF, LS, LF), um **evento não dura nada** — ele é um instante único, um marco no tempo. Por isso só precisa de duas siglas (TE e TL), não quatro.
+
+### Resumindo a relação
+
+- **TE** faz o mesmo papel do ES/EF combinados (é o "lado cedo" da rede, calculado na passagem de avanço);
+- **TL** faz o mesmo papel do LS/LF combinados (é o "lado tarde" da rede, calculado na passagem de retorno).
+
+É exatamente essa correspondência que permitiu a gente "traduzir" TE/TL de cada evento para ES/EF/LS/LF de cada atividade, na tabela completa que montamos.
+
 
 Em notação CPM equivalente:
 - **ES** (*Early Start*) / **EF** (*Early Finish*) — início/término mais cedo.
 - **LS** (*Late Start*) / **LF** (*Late Finish*) — início/término mais tarde.
+
+
+Pensa na simetria: assim como o TE do evento de origem já *é* diretamente o ES da atividade (sem nenhuma conta extra), o TL do evento de destino já *é* diretamente o **LF** da atividade — porque o LF representa justamente "o mais tarde que essa atividade pode terminar", e isso é exatamente o que o TL do evento de chegada representa.
+
+
+### Resumindo as quatro associações completas
+
+| Valor da atividade | Vem de | Precisa de conta extra? |
+|---|---|---|
+| **ES** | TE do evento de origem | Não — é direto |
+| **EF** | TE do evento de origem + duração | Sim, soma a duração |
+| **LF** | TL do evento de destino | Não — é direto |
+| **LS** | TL do evento de destino − duração | Sim, subtrai a duração |
+
+### A regra de ouro para não confundir
+
+**TE sempre "gruda" no início da atividade (ES); TL sempre "gruda" no fim da atividade (LF).** As versões com soma/subtração de duração (EF e LS) são sempre as que precisam de um passo a mais de conta.
 
 
 ## 10. Folgas
@@ -216,7 +253,6 @@ Fl = (Dcf - Dci) - d
 ```
 onde `Dcf` = data cedo final, `Dci` = data cedo inicial, `d` = duração da atividade.
 
----
 
 ## 11. Caminho crítico
 
