@@ -23,11 +23,11 @@ condições desfavoráveis.
 </ul>
 
 * Tempo Esperado (TE):
-TE=O+4M+P/6
+$TE=\frac{O+4M+P}{6}$
 
 * Aplicação: Adequado para projetos com alta incerteza na duração das atividades, como projetos de pesquisa e desenvolvimento.
 
-Antes da Rede PERT utilizava-se o gráfico de Gantt. Rede (Network) PERT não se tem idéia do tempo necessário (não há similaridade).
+Antes da Rede PERT utilizava-se o <a href="graficogantt.md">gráfico de Gantt</a>. Rede (Network) PERT não se tem idéia do tempo necessário (não há similaridade).
 
 
 ## CPM (Método do caminho crítico - Critical Path Method)
@@ -42,8 +42,7 @@ o projeto. (Prazo determinístico, sabe o tempo)
 * Atividades: Tarefas que precisam ser realizadas.
 * Dependências: As relações entre as tarefas.
 * Diagrama de Rede: Uma representação visual/gráfica das atividades e dependências do projeto.
-* Caminho Crítico: O caminho mais longo do projeto com a menor quantidade de folga,
-determinando o menor tempo para concluir o projeto.
+* Caminho Crítico: O caminho mais longo do projeto com a menor quantidade de folga, determinando o menor tempo para concluir o projeto.
 * Folga: A quantidade de tempo que uma atividade pode ser atrasada sem atrasar o projeto.
 * Início Mais Cedo (Early Start - ES) e Término Mais Cedo (Early Finish - EF): Os horários mais cedo que uma atividade pode começar e terminar.
 * Início Mais Tarde (LS) e Término Mais Tarde (LF): Os horários mais tarde que uma atividade pode começar e terminar sem atrasar o projeto.
