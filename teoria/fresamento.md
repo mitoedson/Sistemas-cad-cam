@@ -78,6 +78,9 @@ O processo é dividido em operações específicas conforme o formato desejado:
 ### **7. Tipos de Fresas (Ferramentas)**
 Cada geometria de fresa é projetada para um propósito específico:
 
+![alt text](image-47.png)
+Fonte: https://proleantech.com/milling-bits/
+
 *   **Fresa de Topo (end mill):** Corta pela periferia e pela ponta; a mais versátil, usada em cavidades, contornos e rasgos.
 *   **Fresa de Disco (fresa de fenda):** Corta apenas pela periferia, ideal para rasgos estreitos e profundos ou seccionamento.
 *   **Fresa Angular:** Possui arestas de corte inclinadas, usada para chanfros e rasgos em ângulo (como guias em cauda de andorinha).
