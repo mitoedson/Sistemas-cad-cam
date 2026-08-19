@@ -7,7 +7,7 @@
 
 ![alt text](image-50.png)
 
-### Data Cedo e Data Tarde
+### Data Cedo (DC) e Data Tarde (DT)
 
 ![alt text](image-57.png)
 
@@ -26,4 +26,12 @@
 |15	|31	|33|16	|30	|30|
 |17	|40	|40|18	|47	|47|
 |19	|27	|30|20	|35	|38|
+
+### Folga Total (FT) e Folga Livre (FL)
+
+![alt text](image-52.png)
+
+### Caminho Crítico
+
+![alt text](image-53.png)
 
