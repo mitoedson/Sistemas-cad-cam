@@ -61,6 +61,9 @@ A apresentação em forma de rede, permite identificar interdependências e a se
 
 <a href="../exercicios/graficogantt_01.md">Gráfico de Gantt - Exercício 01</a>
 
+<a href="../exercicios/pertcpm02.md">Rede CPM - Exercício Proposto 02</a>
+
+
 ## Bibliografia
 HIRSCHFELD, H. Planejamento com PERT-CPM e análise de desempenho: método
 manual e por computadores aplicados a todos os fins. 9. Ed. Revisada e ampliada. Atlas. São Paulo. 1987. 335 páginas.

@@ -2,28 +2,7 @@
 
 Diagrama de rede AON (Activity-on-Node) com cálculo de datas cedo/tarde, folgas e caminho crítico.
 
-$$
-\begin{array}{|c|c|c|}
-\hline \text{Atividade} & \text{Precedência} & \text{Duração (meses)}\\
-\hline A&-&1\\
-\hline B&-&2\\
-\hline C&A&3\\
-\hline D&B&4\\
-\hline E&B&5\\
-\hline F&B&6\\
-\hline G&B&5\\
-\hline H&D&4\\
-\hline I&F&3\\
-\hline J&G&2\\
-\hline K&H&1\\
-\hline L&D,E&2\\
-\hline M&G,I&3\\
-\hline N&J&4\\
-\hline O&C,K&5\\
-\hline
-\end{array}
-$$
-
+![alt text](image-49.png)
 
 <h1>Rede PERT/CPM — Cálculo Completo</h1>
 <p class="subtitle">Método Francês (AON) e Método Americano (AOA), com todos os cálculos — ES, EF, LS, LF, Folga Total e Folga Livre</p>
