@@ -50,8 +50,6 @@ A programação CNC (Comando Numérico Computadorizado) para tornos é um proces
 <h4><a href="/teoria/pertcpm.md">PERT/CPM</a></h4>
 O sistema PERT/CPM busca garantir que o projeto seja entregue no menor tempo e com o menor custo possível, mantendo a qualidade adequada e a otimização dos recursos disponíveis.
 
-<h4><a href="/teoria/planejamento_projeto.md">Planejamento do Projeto, e Rede PERT/CPM.</a></h4>
-
 <h4><a href="/teoria/dfma.md">Design for Manufacturing and Assembly</a></h4>
 O Design for Manufacturing and Assembly (DFMA) é uma técnica de apoio ao projeto de produtos que integra as considerações de manufatura e montagem logo nas etapas iniciais de criação
 
