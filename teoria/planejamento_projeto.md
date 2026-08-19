@@ -63,6 +63,7 @@ A apresentação em forma de rede, permite identificar interdependências e a se
 
 <a href="../exercicios/pertcpm02.md">Rede CPM - Exercício Proposto 02</a>
 
+<a href="../exercicios/pertcpm03.md">Rede CPM - Exercício Proposto 03</a>
 
 ## Bibliografia
 HIRSCHFELD, H. Planejamento com PERT-CPM e análise de desempenho: método
