@@ -135,3 +135,86 @@ O controle dimensional e o acabamento superficial estão interligados. Uma regra
 
 
 
+
+## Links
+Desenho mecânico - Aula 9 - que é tolerância dimensional? Mundo da Mecânica Industrial
+
+https://www.youtube.com/watch?v=WqrzIzkkx2U
+
+ 
+
+Desenho Mecânico - Aula 11 - Como interpretar tolerâncias ABNT / ISO. Mundo da Mecânica Industrial
+
+https://www.youtube.com/watch?v=601IvEeR-Qc
+
+ 
+
+Telecurso 2000 - Metrologia - 25 Tolerância Geométrica de Forma. Soluções Bmalbert
+
+https://www.youtube.com/watch?v=DYsWlZ53sME
+
+ 
+
+Mini Curso GD&T - Tolerâncias Geométricas - AULA 1: O que é GD&T
+https://www.youtube.com/watch?v=F8Zmb_6Se_w&list=PL_IGUiAOIUWdqCsYGI93toFx5sDOSRKHb&index=6
+ 
+
+AULA2:
+
+https://www.youtube.com/watch?v=oKwvFt9-Bng&list=PL_IGUiAOIUWdqCsYGI93toFx5sDOSRKHb&index=5
+
+ 
+
+AULA 3:
+
+https://www.youtube.com/watch?v=H1FrAw0i8do&list=PL_IGUiAOIUWdqCsYGI93toFx5sDOSRKHb&index=4
+
+ 
+
+AULA4:
+
+https://www.youtube.com/watch?v=LVEN-iayodM&list=PL_IGUiAOIUWdqCsYGI93toFx5sDOSRKHb&index=3
+
+ 
+
+AULA5:
+
+https://www.youtube.com/watch?v=SP1Z5w7m0g0&list=PL_IGUiAOIUWdqCsYGI93toFx5sDOSRKHb&index=2
+
+ 
+
+AULA6:
+
+https://www.youtube.com/watch?v=arut4PluZK4&list=PL_IGUiAOIUWdqCsYGI93toFx5sDOSRKHb&index=1
+
+ 
+
+Leitura de Relógio comparador. Prof. Luiz Brito
+
+https://www.youtube.com/watch?v=PKzyZnVM18M
+
+ 
+
+METROLOGIA - Como fazer a Leitura e interpretação do RELÓGIO COMPARADOR. CEGTEC - Educação Profissional
+
+https://www.youtube.com/watch?v=ZftjPRFZKLM
+
+ 
+
+Operação de centrar como Relógio Comparador. 
+Geraldo Serra
+
+https://www.youtube.com/watch?v=Bk2AdU98VJU
+
+ 
+
+Curso Metrologia Aula 11 - Relógio Comparador. 
+MTE-THOMSON Brasil
+
+https://www.youtube.com/watch?v=tFZcqwiZK0s
+
+ 
+
+Telecurso 2000 - Metrologia - 15 Relógio Comparador. Apostila Telecurso 2000 - Metrologia
+
+https://www.youtube.com/watch?v=dW4bUuJNFug

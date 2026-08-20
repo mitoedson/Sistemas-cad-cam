@@ -51,3 +51,8 @@ A aplicação do método gera resultados quantificáveis na competitividade indu
 Uma tendência mais atual conecta o DFMA à sustentabilidade: menos peças e menos fixadores não facilitam apenas a montagem, mas também a **desmontagem** — o que simplifica manutenção, reparo, reciclagem e o fim de vida do produto. Esse princípio aproxima o DFMA de práticas de Design for Environment (DfE) e economia circular.
 
 Em resumo, o DFMA não é apenas uma ferramenta de desenho, mas uma **filosofia de redução de complexidade** que permite que as equipes de engenharia, manufatura e compras convirjam para o design de menor custo total antes mesmo do início da fabricação.
+
+## Links
+https://www.dfma.com/
+
+https://en.wikipedia.org/wiki/IDEF0

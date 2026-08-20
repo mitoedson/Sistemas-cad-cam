@@ -53,3 +53,34 @@ Processos que complementam torneamento ou fresamento, gerando furos e roscas, ap
 | Recursos adicionais | Furos e roscas (em qualquer geometria) | Furação, alargamento, mandrilamento, roscamento |
 
 
+## Links
+AULA 06 - FACEAR- CURSO TORNEIRO MECÂNICO - Prof. Maércio Nascimento 
+
+https://www.youtube.com/watch?v=pkthfKbthwU
+
+ 
+
+Fazendo Uma Polia Escalonada De Alumínio
+
+https://www.youtube.com/watch?v=YO4Vd-JM3uA
+
+
+Programação CNC
+
+https://www.aprendacnc.com.br
+
+https://www.youtube.com/watch?v=m_6y2MJLswI
+
+
+
+https://www.youtube.com/watch?v=dY2cGeMBRaA&list=PLTjecPfBybTwrWsJ42EpipRGkMiNtpHzR&index=1
+
+https://www.youtube.com/watch?v=rHCf6GLyrx0
+
+https://www.youtube.com/watch?v=GjkP821z5Yg
+
+PORTUGUÊS
+
+https://www.youtube.com/watch?v=GCuCdAOew0c
+
+https://www.youtube.com/watch?v=Bd6-BQUCbVA

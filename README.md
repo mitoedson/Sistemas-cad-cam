@@ -74,8 +74,6 @@ HALEVI, G.; Process and operation planning. Dordrecht, NLD: Kluwer Academic/Plen
 
 SOUZA, Adriano Fagali de; ULBRICH, Cristiane Brasil Lima. Engenharia integrada por computador e sistemas CAD/CAM/CNC: princípios e aplicações. 2 ed. São Paulo, SP: Artliber, 2013. 358 p., il ISBN 9788588098909.
 
-Bibliografia Complementar: 
-
 LEE, Kunwoo. Principles of CAD/CAM/CAE Systems. Reading, USA: Prentice Hall, 1999. Xvii, 582 p., il ISBN 9780201380361.
 
 ALVES FILHO, Avelino. Elementos Finitos: a Base da Tecnologia CAE, 6ª. ed. São Paulo, SP: Érica, 2007. 300 p., il ISBN 9788571947412.
