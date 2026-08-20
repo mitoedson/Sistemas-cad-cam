@@ -1,5 +1,15 @@
 <h1>Sistemas CAD CAM</h1>
 
+## Apresentação
+
+Esta disciplina é baseada nas aulas teóricas e práticas, ministrada pelo Prof. Dr. Rovilson Mafalda, da UFABC.
+
+### Objetivos
+
+ O aluno seja capaz de reconhecer a importância da computação gráfica e modelagem 3D nos processos modernos de projeto e manufatura. Interpretar a linguagem técnica do desenho e traduzir para processos de fabricação mecânica.  Entender a linguagem de programação de máquinas e sua operação. Descrever as diversas ferramentas computacionais disponíveis nos dias de hoje para auxiliar o processo de manufatura industrial. 
+
+## Introdução 
+
 CAD (Computer-Aided Design) e CAM (Computer-Aided Manufacturing) são dois sistemas computacionais complementares muito usados na indústria mecânica, que juntos formam o que chamamos de sistema CAD/CAM.
 
 CAD – Projeto Assistido por Computador
@@ -14,8 +24,8 @@ Ideia → CAD (modelagem da peça) → CAM (geração do código) → Máquina C
 
 Essa integração reduz erros, aumenta a produtividade e permite fabricar peças de altíssima complexidade geométrica com repetibilidade e precisão, coisas que seriam inviáveis manualmente. Por isso o CAD/CAM é fundamental em indústrias como a aeroespacial, automotiva, médica e de moldes.
 
-<p>
-<h3>Conteúdo programático</h3>
+
+## Conteúdo programático
 <ul>
 <h4><a href="/teoria/toleranciadimensional.md">Tolerância Dimensional</a></h4>
 Tolerância Dimensional trata especificamente de variações permitidas nas medidas lineares (comprimentos, diâmetros, espessuras) de uma peça — ou seja, o quanto uma dimensão pode variar em relação ao valor nominal e ainda ser considerada aceitável.<br>
@@ -55,4 +65,22 @@ O Design for Manufacturing and Assembly (DFMA) é uma técnica de apoio ao proje
 
 <br>
 </ul>
+
+## Biobliografia principal
+
+GROOVER M.P.; ZIMMERS, E. W.; CAD/CAM: Computer-Aided Design And Manufacturing, Upper Saddle River, USA: Prentice Hall PTR, 1984. Xix, 489 p., il ISBN 9780131101302.
+
+HALEVI, G.; Process and operation planning. Dordrecht, NLD: Kluwer Academic/PlenumPublishers, 2003. Xvi, 335., il ISBN 9789048164370. 
+
+SOUZA, Adriano Fagali de; ULBRICH, Cristiane Brasil Lima. Engenharia integrada por computador e sistemas CAD/CAM/CNC: princípios e aplicações. 2 ed. São Paulo, SP: Artliber, 2013. 358 p., il ISBN 9788588098909.
+
+Bibliografia Complementar: 
+
+LEE, Kunwoo. Principles of CAD/CAM/CAE Systems. Reading, USA: Prentice Hall, 1999. Xvii, 582 p., il ISBN 9780201380361.
+
+ALVES FILHO, Avelino. Elementos Finitos: a Base da Tecnologia CAE, 6ª. ed. São Paulo, SP: Érica, 2007. 300 p., il ISBN 9788571947412.
+
+MCMAHON, Chris; BROWNE, Jimmie. CADCAM: Principles, Practice and Manufacturing Management. 2 ed. Harlow, GBR: Addison-Wesley Publishing, 1998. xxii, 665 p., il ISBN 9780201178197.
+
+AHRENS, Carlos Henrique et al. Prototipagem rápida: tecnologias e aplicações. Edição de Neri Volpato. São Paulo, SP: Blucher, 2006. Xxi, 244 p., il ISBN 9788521203889. 
 
